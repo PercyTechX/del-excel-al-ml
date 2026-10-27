@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "distribuidora-andina"
+version = "0.1.0"
+description = "Generador de datos sintéticos de Distribuidora Andina S.A.C., la empresa ficticia de la serie Del Excel al Machine Learning."
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+authors = [{ name = "Percy Nazario" }]
+dependencies = ["numpy>=2.0", "pandas>=2.2"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "nbmake>=1.5", "ruff>=0.17", "pre-commit>=4"]
+
+[project.urls]
+Repositorio = "https://github.com/PercyTechX/del-excel-al-ml"
+
+[tool.setuptools.packages.find]
+where = ["generador"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.format]
+# Este notebook muestra a propósito el error de escribir miles con coma (`2,500`),
+# que el formateador cambiaría por `2, 500`.
+exclude = ["temporada-0/01-google-colab/clase.ipynb"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests", "recursos", "temporada-0"]
+addopts = "--nbmake"

@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Herramientas
+.pytest_cache/
+.ruff_cache/
+
+# Sistema y editores
+.DS_Store
+.vscode/
+.idea/
+
+# Material de grabación (no va al repositorio)
+grabaciones/
+*.mkv
+*.mp4
