@@ -2,11 +2,14 @@ repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v6.0.0
     hooks:
+      # datos/ tiene espacios sobrantes a propósito ("Lima ") para el episodio de limpieza.
       - id: trailing-whitespace
+        exclude: ^datos/
       - id: end-of-file-fixer
+        exclude: ^datos/
       - id: check-yaml
       - id: check-added-large-files
-        args: ["--maxkb=2000"]
+        args: ["--maxkb=5000"]  # los CSV de ventas pesan unos 4 MB
 
   - repo: https://github.com/astral-sh/ruff-pre-commit
     rev: v0.17.3

@@ -1,0 +1,15 @@
+﻿id_empleado,nombre,sexo,area,cargo,sede,fecha_ingreso
+E001,María Espinoza Ramos,F,Ventas,Vendedor,Lima,2021-03-30
+E002,Patricia Chávez Romero,F,Ventas,Vendedor,Lima,2021-09-09
+E003,Juan Vásquez Ramírez,M,Ventas,Vendedor,Lima,2017-03-15
+E004,Manuel Huanca Mendoza,M,Ventas,Vendedor,Lima,2018-07-18
+E005,Marco Medina Paredes,M,Ventas,Vendedor,Arequipa,2020-08-18
+E006,Gloria Rojas Cárdenas,F,Ventas,Vendedor,Arequipa,2023-02-14
+E007,Renzo Morales Fernández,M,Ventas,Vendedor,Trujillo,2020-11-28
+E008,Patricia Huanca Gutiérrez,F,Ventas,Vendedor,Trujillo,2019-07-07
+E009,Carlos Aguilar Castillo,M,Ventas,Vendedor,Chiclayo,2021-08-25
+E010,Carlos Paredes Huanca,M,Ventas,Vendedor,Chiclayo,2017-09-06
+E011,Walter Ccahuana Huamán,M,Ventas,Vendedor,Piura,2019-05-30
+E012,César Mamani Pérez,M,Ventas,Vendedor,Piura,2020-02-12
+E013,Karina Castro Ortiz,F,Ventas,Vendedor,Cusco,2018-01-13
+E014,Martín Ccahuana Sánchez,M,Ventas,Vendedor,Cusco,2022-03-06

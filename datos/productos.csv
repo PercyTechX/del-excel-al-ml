@@ -1,0 +1,52 @@
+﻿id_producto,categoria,nombre,marca,presentacion,precio,costo
+P001,Abarrotes,Arroz extra 5 kg,Valle Dorado,Fardo x 5,99.5,85.21
+P002,Abarrotes,Arroz superior 1 kg,Valle Dorado,Fardo x 10,42.0,35.96
+P003,Abarrotes,Azúcar rubia 1 kg,Cumbre,Fardo x 10,39.0,35.59
+P004,Abarrotes,Aceite vegetal 1 L,Sol del Sur,Caja x 12,105.0,91.38
+P005,Abarrotes,Fideos spaghetti 500 g,Nonna Lucía,Fardo x 20,56.0,50.73
+P006,Abarrotes,Fideos tallarín 1 kg,Nonna Lucía,Fardo x 10,52.0,46.43
+P007,Abarrotes,Atún en trozos 170 g,Puerto Azul,Caja x 24,118.0,101.14
+P008,Abarrotes,Leche evaporada 400 g,Pastizal,Caja x 24,88.0,77.3
+P009,Abarrotes,Avena tradicional 900 g,Cumbre,Caja x 12,84.0,74.63
+P010,Abarrotes,Lentejas 500 g,Del Huerto,Fardo x 20,88.0,76.48
+P011,Abarrotes,Frejol canario 500 g,Del Huerto,Fardo x 20,116.0,105.77
+P012,Abarrotes,Sal de mesa 1 kg,Nevado,Fardo x 25,38.0,33.74
+P013,Abarrotes,Harina sin preparar 1 kg,Cumbre,Fardo x 10,40.0,35.28
+P014,Abarrotes,Salsa de tomate 400 g,Del Huerto,Caja x 24,84.0,74.21
+P015,Abarrotes,Panetón 900 g,Cumbre,Caja x 6,120.0,102.41
+P016,Bebidas,Agua sin gas 625 ml,Nevado,Paquete x 15,16.5,14.54
+P017,Bebidas,Agua sin gas 2.5 L,Nevado,Paquete x 6,16.8,14.45
+P018,Bebidas,Gaseosa sabor cola 3 L,Burbuja,Paquete x 4,36.0,31.44
+P019,Bebidas,Gaseosa sabor cola 500 ml,Burbuja,Paquete x 12,24.0,21.14
+P020,Bebidas,Gaseosa sabor naranja 1.5 L,Burbuja,Paquete x 6,33.0,28.33
+P021,Bebidas,Jugo de durazno 1 L,Fruttal,Caja x 12,46.0,39.4
+P022,Bebidas,Chicha morada 1 L,Fruttal,Caja x 12,48.0,42.35
+P023,Bebidas,Néctar de mango 1 L,Fruttal,Caja x 12,46.0,39.26
+P024,Bebidas,Bebida rehidratante 500 ml,Recarga,Paquete x 12,33.0,29.34
+P025,Bebidas,Café instantáneo 50 g,Altura,Caja x 12,92.0,79.3
+P026,Bebidas,Té filtrante 25 sobres,Altura,Caja x 12,37.0,33.78
+P027,Limpieza,Detergente en polvo 2 kg,Limpix,Fardo x 6,128.0,117.28
+P028,Limpieza,Detergente en polvo 500 g,Limpix,Fardo x 24,140.0,127.88
+P029,Limpieza,Lejía 1 L,Limpix,Caja x 12,39.0,34.1
+P030,Limpieza,Bolsas de basura 10 unidades,Limpix,Paquete x 20,72.0,62.79
+P031,Limpieza,Lavavajillas en pasta 900 g,Destello,Caja x 12,88.0,79.63
+P032,Limpieza,Jabón de lavar ropa 220 g,Destello,Caja x 50,120.0,106.13
+P033,Limpieza,Limpiatodo lavanda 900 ml,Destello,Caja x 12,56.0,50.91
+P034,Limpieza,Esponja multiuso 3 unidades,Destello,Paquete x 24,70.0,60.75
+P035,Limpieza,Suavizante de ropa 1 L,Nube,Caja x 12,102.0,89.47
+P036,Cuidado personal,Shampoo 400 ml,Pétalo,Caja x 12,150.0,130.42
+P037,Cuidado personal,Jabón de tocador 3 unidades,Pétalo,Caja x 24,155.0,135.99
+P038,Cuidado personal,Papel higiénico 4 rollos,Pétalo,Fardo x 12,66.0,58.79
+P039,Cuidado personal,Papel higiénico 24 rollos,Pétalo,Fardo x 3,84.0,77.16
+P040,Cuidado personal,Toallas húmedas 80 unidades,Pétalo,Caja x 12,90.0,79.69
+P041,Cuidado personal,Pasta dental 90 g,Sonrisa,Caja x 24,100.0,86.79
+P042,Cuidado personal,Cepillo dental,Sonrisa,Caja x 24,78.0,68.69
+P043,Cuidado personal,Desodorante en barra 50 g,Fresco,Caja x 12,122.0,110.13
+P044,Snacks,Galletas de soda 6 unidades,Crujis,Caja x 12,40.0,36.34
+P045,Snacks,Galletas rellenas de chocolate 6 unidades,Crujis,Caja x 12,46.0,40.11
+P046,Snacks,Papas fritas clásicas 150 g,Crujis,Caja x 12,70.0,61.67
+P047,Snacks,Chifles salados 100 g,Norteñito,Paquete x 20,60.0,53.1
+P048,Snacks,Cancha serrana 100 g,Norteñito,Paquete x 20,50.0,44.52
+P049,Snacks,Maní salado 100 g,Norteñito,Paquete x 20,55.0,49.37
+P050,Snacks,Chocolate con leche 30 g,Cacao Andino,Caja x 24,45.0,38.92
+P051,Snacks,Caramelos surtidos 100 unidades,Dulcería Real,Paquete x 10,68.0,59.8

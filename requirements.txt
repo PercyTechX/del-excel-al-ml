@@ -1,6 +1,8 @@
 # Librerías que usan los notebooks. Google Colab ya las trae instaladas;
 # este archivo es para quien prefiera trabajar en su computadora.
-numpy>=2.0
-pandas>=2.2
+# numpy y pandas van con versión fija porque de ellas depende que los datos
+# generados sean exactamente iguales en cualquier computadora.
+numpy==2.3.4
+pandas==2.3.3
 matplotlib>=3.9
 openpyxl>=3.1
