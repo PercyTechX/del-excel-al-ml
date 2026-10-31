@@ -7,15 +7,15 @@
 | En Excel | En Python |
 |---|---|
 | Abrir un archivo | `pd.read_csv()`, `pd.read_excel()` |
-| Filtros | `df[df["ciudad"] == "Lima"]` |
-| Ordenar de A a Z | `df.sort_values()` |
+| Filtros | `ventas[ventas["ciudad"] == "Lima"]` |
+| Ordenar de A a Z | `ventas.sort_values("total")` |
 
 ## Materiales
 
-| Archivo | Para qué sirve |
-|---|---|
-| `clase.ipynb` | El notebook que vemos en el video |
-| `ejercicio.ipynb` | Practica por tu cuenta |
-| `solucion.ipynb` | Compara tu respuesta |
+| Archivo | Para qué sirve | |
+|---|---|---|
+| `clase.ipynb` | El notebook que vemos en el video | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PercyTechX/del-excel-al-ml/blob/main/temporada-0/04-pandas-abre-tu-excel/clase.ipynb) |
+| `ejercicio.ipynb` | Practica por tu cuenta | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PercyTechX/del-excel-al-ml/blob/main/temporada-0/04-pandas-abre-tu-excel/ejercicio.ipynb) |
+| `solucion.ipynb` | Compara tu respuesta | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PercyTechX/del-excel-al-ml/blob/main/temporada-0/04-pandas-abre-tu-excel/solucion.ipynb) |
 
-> En construcción: video y notebooks próximamente.
+> 🎬 Video próximamente.
