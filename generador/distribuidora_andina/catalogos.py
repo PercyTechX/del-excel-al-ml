@@ -446,3 +446,20 @@ PROBABILIDAD_PAGO = {
     "Minimarket": [0.25, 0.25, 0.30, 0.20],
     "Restaurante": [0.15, 0.15, 0.35, 0.35],
 }
+
+# ---------------------------------------------------------------- créditos
+
+# Días de plazo para pagar una compra al crédito.
+PLAZO_CREDITO = {"Bodega": 15, "Minimarket": 30, "Restaurante": 30}
+# Una compra es morosa si se paga con más de estos días de atraso tras vencer el plazo.
+DIAS_MOROSIDAD = 30
+# Fecha en que se "toma la foto": lo que vence después todavía no se sabe.
+CORTE_CREDITOS = FIN
+
+# Coeficientes con los que se decide la mora (escala logit). Se publican a propósito: lo que
+# un modelo encuentre aquí refleja lo programado, no un hallazgo sobre negocios reales.
+MORA_BASE = 0.4
+MORA_POR_MONTO = 0.5  # por cada unidad de logaritmo natural de monto / límite de crédito
+MORA_POR_ANIO = -0.08  # por cada año de antigüedad del cliente
+MORA_POR_TIPO = {"Bodega": 0.3, "Minimarket": -0.2, "Restaurante": 0.0}
+MORA_DISPERSION_CLIENTE = 1.0  # riesgo propio de cada cliente, que no se publica

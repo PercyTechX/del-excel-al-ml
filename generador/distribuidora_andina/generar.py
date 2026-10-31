@@ -12,7 +12,7 @@ from . import catalogos as cat
 SEMILLA = 2024
 
 # Número fijo por tabla para derivar su generador aleatorio.
-_FLUJO = {"productos": 1, "empleados": 2, "clientes": 3, "ventas": 4, "crudo": 5}
+_FLUJO = {"productos": 1, "empleados": 2, "clientes": 3, "ventas": 4, "crudo": 5, "creditos": 6}
 
 
 def rng_tabla(tabla: str, semilla: int = SEMILLA) -> np.random.Generator:
@@ -237,10 +237,101 @@ def generar_ventas(
     return df[columnas]
 
 
+def se_conoce_la_mora_desde(fecha: pd.Series, plazo_dias: pd.Series) -> pd.Series:
+    """Primer día en que ya se sabe si una compra al crédito fue morosa."""
+    return fecha + pd.to_timedelta(plazo_dias + cat.DIAS_MOROSIDAD + 1, unit="D")
+
+
+def generar_creditos(
+    ventas: pd.DataFrame, clientes: pd.DataFrame, semilla: int = SEMILLA
+) -> pd.DataFrame:
+    """Compras al crédito: una fila por cliente y día, con lo que se sabía al vender y su pago.
+
+    `moroso` y `dias_atraso` quedan vacíos si, a la fecha de corte, aún no se puede saber.
+    El historial solo cuenta compras cuya mora ya se conocía el día de la venta. No se simula
+    ningún bloqueo: un cliente puede seguir comprando al crédito aunque tenga deudas vencidas.
+    """
+    rng = rng_tabla("creditos", semilla)
+    datos = clientes.set_index("id_cliente")
+    riesgo = pd.Series(rng.normal(0, cat.MORA_DISPERSION_CLIENTE, len(datos)), index=datos.index)
+
+    df = (
+        ventas[ventas["metodo_pago"] == "Crédito"]
+        .groupby(["id_cliente", "fecha"], as_index=False)["total"]
+        .sum()
+        .rename(columns={"total": "monto"})
+        .sort_values(["fecha", "id_cliente"], kind="stable", ignore_index=True)
+    )
+    df["monto"] = df["monto"].round(2)
+    df["tipo"] = df["id_cliente"].map(datos["tipo"])
+    df["plazo_dias"] = df["tipo"].map(cat.PLAZO_CREDITO)
+    df["antiguedad_anios"] = (
+        (df["fecha"] - df["id_cliente"].map(datos["fecha_alta"])).dt.days / 365.25
+    ).round(2)
+    df["monto_sobre_limite"] = (df["monto"] / df["id_cliente"].map(datos["limite_credito"])).round(
+        4
+    )
+
+    logit = (
+        cat.MORA_BASE
+        + cat.MORA_POR_MONTO * np.log(df["monto_sobre_limite"])
+        + cat.MORA_POR_ANIO * df["antiguedad_anios"]
+        + df["tipo"].map(cat.MORA_POR_TIPO)
+        + df["id_cliente"].map(riesgo)
+    )
+    moroso = rng.random(len(df)) < 1 / (1 + np.exp(-logit.to_numpy()))
+    # Atraso de quien no cae en mora: la mitad paga a tiempo y el resto se demora algo.
+    leve = np.where(rng.random(len(df)) < 0.5, 0, rng.integers(1, cat.DIAS_MOROSIDAD + 1, len(df)))
+    grave = cat.DIAS_MOROSIDAD + rng.geometric(1 / 30, len(df))
+    atraso = np.where(moroso, grave, leve)
+
+    se_sabe = se_conoce_la_mora_desde(df["fecha"], df["plazo_dias"])
+    df["casos_previos"] = 0
+    df["morosos_previos"] = 0
+    for _, compras in df.groupby("id_cliente"):
+        filas = compras.index.to_numpy()
+        # El plazo es fijo por cliente: lo conocido crece con la fecha y se puede buscar en orden.
+        conocidos = np.searchsorted(se_sabe[filas], compras["fecha"], side="right")
+        acumulado = np.concatenate([[0], moroso[filas].cumsum()])
+        df.loc[filas, "casos_previos"] = conocidos
+        df.loc[filas, "morosos_previos"] = acumulado[conocidos]
+
+    # El atraso solo se observa hasta el corte: una deuda aún impaga muestra lo que lleva.
+    vence = df["fecha"] + pd.to_timedelta(df["plazo_dias"], unit="D")
+    atraso = np.minimum(atraso, (cat.CORTE_CREDITOS - vence).dt.days.clip(lower=0))
+    maduro = se_sabe <= cat.CORTE_CREDITOS
+    df["dias_atraso"] = pd.Series(atraso, index=df.index, dtype="Int64").where(maduro)
+    df["moroso"] = pd.Series(moroso.astype(int), index=df.index, dtype="Int64").where(maduro)
+    df.insert(0, "id_credito", [f"K{i:05d}" for i in range(1, len(df) + 1)])
+    return df[
+        [
+            "id_credito",
+            "fecha",
+            "id_cliente",
+            "tipo",
+            "monto",
+            "plazo_dias",
+            "antiguedad_anios",
+            "monto_sobre_limite",
+            "casos_previos",
+            "morosos_previos",
+            "dias_atraso",
+            "moroso",
+        ]
+    ]
+
+
 def generar_todo(semilla: int = SEMILLA) -> dict[str, pd.DataFrame]:
     """Genera todas las tablas limpias de la empresa."""
     productos = generar_productos(semilla)
     empleados = generar_empleados(semilla)
     clientes = generar_clientes(empleados, semilla)
     ventas = generar_ventas(productos, clientes, semilla)
-    return {"productos": productos, "empleados": empleados, "clientes": clientes, "ventas": ventas}
+    creditos = generar_creditos(ventas, clientes, semilla)
+    return {
+        "productos": productos,
+        "empleados": empleados,
+        "clientes": clientes,
+        "ventas": ventas,
+        "creditos": creditos,
+    }
