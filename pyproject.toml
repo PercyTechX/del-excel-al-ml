@@ -33,6 +33,13 @@ exclude = ["temporada-0/01-google-colab/clase.ipynb"]
 [tool.ruff.lint]
 select = ["E", "F", "I", "UP", "B"]
 
+[tool.ruff.lint.per-file-ignores]
+# Estos notebooks muestran a propósito el error de escribir mal un nombre (`NameError`).
+"temporada-0/02-python-calculadora/clase.ipynb" = ["F821"]
+"temporada-0/02-python-calculadora/ejercicio.ipynb" = ["F821"]
+# Este ejercicio importa matplotlib para quien lo resuelva, aunque sus celdas estén vacías.
+"temporada-0/07-graficos/ejercicio.ipynb" = ["F401"]
+
 [tool.ruff.lint.isort]
 known-first-party = ["distribuidora_andina"]
 
