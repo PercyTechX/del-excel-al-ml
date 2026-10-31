@@ -5,7 +5,7 @@ from pathlib import Path
 
 import pytest
 
-EJERCICIOS = sorted(Path(__file__).parent.parent.glob("temporada-0/*/ejercicio.ipynb"))
+EJERCICIOS = sorted(Path(__file__).parent.parent.glob("temporada-*/*/ejercicio.ipynb"))
 
 
 def celda_inicial(ruta):

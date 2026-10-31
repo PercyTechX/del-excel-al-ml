@@ -20,8 +20,8 @@ dist/
 .idea/
 
 # Archivos que crean los notebooks al ejecutarse
-temporada-0/**/*.xlsx
-temporada-0/**/*.png
+temporada-*/**/*.xlsx
+temporada-*/**/*.png
 
 # Material de grabación (no va al repositorio)
 grabaciones/

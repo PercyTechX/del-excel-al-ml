@@ -8,7 +8,7 @@ Todos los datos son **sintéticos**: los crea el paquete [`generador/`](../gener
 
 | Archivo | Qué contiene | Filas | Se usa en |
 |---|---|---|---|
-| [`productos.csv`](productos.csv) | Catálogo de productos | 51 | 0.6, 0.7, 0.8 |
+| [`productos.csv`](productos.csv) | Catálogo de productos | 51 | 0.6, 0.7, 0.8, 1.1 |
 | [`clientes.csv`](clientes.csv) | Bodegas, minimarkets y restaurantes | 300 | 0.4, 0.6, 0.8, Temporada 1 |
 | [`empleados.csv`](empleados.csv) | Equipo de ventas | 14 | 0.6, 0.8 |
 | [`ventas.csv`](ventas.csv) | Ventas de 2024 y 2025, ya limpias | 50,000 | 0.4 a 0.8, Temporada 1 |
