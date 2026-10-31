@@ -42,13 +42,13 @@ Los datos son **sintéticos** (generados por código) y están disponibles en [`
 | # | Episodio | Video | Notebook |
 |---|---|---|---|
 | 0.1 | [Google Colab, tu nueva hoja de cálculo](temporada-0/01-google-colab/) | 🔜 | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PercyTechX/del-excel-al-ml/blob/main/temporada-0/01-google-colab/clase.ipynb) |
-| 0.2 | [Python como calculadora](temporada-0/02-python-calculadora/) | 🔜 | 🔜 |
-| 0.3 | [Decisiones, repeticiones y funciones](temporada-0/03-decisiones-y-funciones/) | 🔜 | 🔜 |
-| 0.4 | [pandas I: abre tu Excel en Python](temporada-0/04-pandas-abre-tu-excel/) | 🔜 | 🔜 |
-| 0.5 | [Limpieza de datos: vacíos, duplicados, textos y fechas](temporada-0/05-limpieza-de-datos/) | 🔜 | 🔜 |
-| 0.6 | [pandas II: tablas dinámicas, BUSCARV y estadística básica](temporada-0/06-tablas-dinamicas-y-buscarv/) | 🔜 | 🔜 |
-| 0.7 | [Gráficos](temporada-0/07-graficos/) | 🔜 | 🔜 |
-| 0.8 | [Miniproyecto: automatiza tu reporte mensual](temporada-0/08-mini-proyecto-reporte-mensual/) | 🔜 | 🔜 |
+| 0.2 | [Python como calculadora](temporada-0/02-python-calculadora/) | 🔜 | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PercyTechX/del-excel-al-ml/blob/main/temporada-0/02-python-calculadora/clase.ipynb) |
+| 0.3 | [Decisiones, repeticiones y funciones](temporada-0/03-decisiones-y-funciones/) | 🔜 | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PercyTechX/del-excel-al-ml/blob/main/temporada-0/03-decisiones-y-funciones/clase.ipynb) |
+| 0.4 | [pandas I: abre tu Excel en Python](temporada-0/04-pandas-abre-tu-excel/) | 🔜 | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PercyTechX/del-excel-al-ml/blob/main/temporada-0/04-pandas-abre-tu-excel/clase.ipynb) |
+| 0.5 | [Limpieza de datos: vacíos, duplicados, textos y fechas](temporada-0/05-limpieza-de-datos/) | 🔜 | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PercyTechX/del-excel-al-ml/blob/main/temporada-0/05-limpieza-de-datos/clase.ipynb) |
+| 0.6 | [pandas II: tablas dinámicas, BUSCARV y estadística básica](temporada-0/06-tablas-dinamicas-y-buscarv/) | 🔜 | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PercyTechX/del-excel-al-ml/blob/main/temporada-0/06-tablas-dinamicas-y-buscarv/clase.ipynb) |
+| 0.7 | [Gráficos](temporada-0/07-graficos/) | 🔜 | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PercyTechX/del-excel-al-ml/blob/main/temporada-0/07-graficos/clase.ipynb) |
+| 0.8 | [Miniproyecto: automatiza tu reporte mensual](temporada-0/08-mini-proyecto-reporte-mensual/) | 🔜 | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PercyTechX/del-excel-al-ml/blob/main/temporada-0/08-mini-proyecto-reporte-mensual/clase.ipynb) |
 
 ### Próximas temporadas
 

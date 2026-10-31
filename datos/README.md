@@ -8,11 +8,11 @@ Todos los datos son **sintéticos**: los crea el paquete [`generador/`](../gener
 
 | Archivo | Qué contiene | Filas | Se usa en |
 |---|---|---|---|
-| [`productos.csv`](productos.csv) | Catálogo de productos | 51 | 0.4, 0.6 |
-| [`clientes.csv`](clientes.csv) | Bodegas, minimarkets y restaurantes | 300 | 0.6 |
-| [`empleados.csv`](empleados.csv) | Equipo de ventas | 14 | 0.6 |
+| [`productos.csv`](productos.csv) | Catálogo de productos | 51 | 0.6, 0.7, 0.8 |
+| [`clientes.csv`](clientes.csv) | Bodegas, minimarkets y restaurantes | 300 | 0.4, 0.6, 0.8 |
+| [`empleados.csv`](empleados.csv) | Equipo de ventas | 14 | 0.6, 0.8 |
 | [`ventas.csv`](ventas.csv) | Ventas de 2024 y 2025, ya limpias | 50,000 | 0.4 a 0.8 |
-| [`ventas_crudo.csv`](ventas_crudo.csv) | Las mismas ventas "como las exporta la oficina", con problemas para limpiar | 50,750 | 0.5 |
+| [`ventas_crudo.csv`](ventas_crudo.csv) | Las mismas ventas "como las exporta la oficina", con problemas para limpiar | 50,750 | 0.5, 0.8 |
 | [`reporte_ventas_2025.xlsx`](reporte_ventas_2025.xlsx) | Libro de Excel con las hojas *Ventas* (25,667 ventas de 2025), *Productos* y *Clientes* | — | 0.4 |
 
 ## Cómo se relacionan
