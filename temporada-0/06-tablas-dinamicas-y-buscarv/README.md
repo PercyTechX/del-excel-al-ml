@@ -6,16 +6,16 @@
 
 | En Excel | En Python |
 |---|---|
-| Tabla dinámica | `df.pivot_table()`, `df.groupby()` |
+| Tabla dinámica | `ventas.pivot_table()`, `ventas.groupby()` |
 | `=BUSCARV()` (`VLOOKUP`) | `pd.merge()` |
 | `=PROMEDIO()` (`AVERAGE`), `=MEDIANA()` (`MEDIAN`) | `.mean()`, `.median()`, `.describe()` |
 
 ## Materiales
 
-| Archivo | Para qué sirve |
-|---|---|
-| `clase.ipynb` | El notebook que vemos en el video |
-| `ejercicio.ipynb` | Practica por tu cuenta |
-| `solucion.ipynb` | Compara tu respuesta |
+| Archivo | Para qué sirve | |
+|---|---|---|
+| `clase.ipynb` | El notebook que vemos en el video | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PercyTechX/del-excel-al-ml/blob/main/temporada-0/06-tablas-dinamicas-y-buscarv/clase.ipynb) |
+| `ejercicio.ipynb` | Practica por tu cuenta | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PercyTechX/del-excel-al-ml/blob/main/temporada-0/06-tablas-dinamicas-y-buscarv/ejercicio.ipynb) |
+| `solucion.ipynb` | Compara tu respuesta | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PercyTechX/del-excel-al-ml/blob/main/temporada-0/06-tablas-dinamicas-y-buscarv/solucion.ipynb) |
 
-> En construcción: video y notebooks próximamente.
+> 🎬 Video próximamente.
