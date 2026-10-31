@@ -13,10 +13,10 @@
 
 ## Materiales
 
-| Archivo | Para qué sirve |
-|---|---|
-| `clase.ipynb` | El notebook que vemos en el video |
-| `ejercicio.ipynb` | Practica por tu cuenta |
-| `solucion.ipynb` | Compara tu respuesta |
+| Archivo | Para qué sirve | |
+|---|---|---|
+| `clase.ipynb` | El notebook que vemos en el video | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PercyTechX/del-excel-al-ml/blob/main/temporada-0/02-python-calculadora/clase.ipynb) |
+| `ejercicio.ipynb` | Practica por tu cuenta | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PercyTechX/del-excel-al-ml/blob/main/temporada-0/02-python-calculadora/ejercicio.ipynb) |
+| `solucion.ipynb` | Compara tu respuesta | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PercyTechX/del-excel-al-ml/blob/main/temporada-0/02-python-calculadora/solucion.ipynb) |
 
-> En construcción: video y notebooks próximamente.
+> 🎬 Video próximamente.
