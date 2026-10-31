@@ -19,6 +19,10 @@ dist/
 .vscode/
 .idea/
 
+# Archivos que crean los notebooks al ejecutarse
+temporada-0/**/*.xlsx
+temporada-0/**/*.png
+
 # Material de grabación (no va al repositorio)
 grabaciones/
 *.mkv
