@@ -9,10 +9,11 @@ Todos los datos son **sintéticos**: los crea el paquete [`generador/`](../gener
 | Archivo | Qué contiene | Filas | Se usa en |
 |---|---|---|---|
 | [`productos.csv`](productos.csv) | Catálogo de productos | 51 | 0.6, 0.7, 0.8 |
-| [`clientes.csv`](clientes.csv) | Bodegas, minimarkets y restaurantes | 300 | 0.4, 0.6, 0.8 |
+| [`clientes.csv`](clientes.csv) | Bodegas, minimarkets y restaurantes | 300 | 0.4, 0.6, 0.8, Temporada 1 |
 | [`empleados.csv`](empleados.csv) | Equipo de ventas | 14 | 0.6, 0.8 |
-| [`ventas.csv`](ventas.csv) | Ventas de 2024 y 2025, ya limpias | 50,000 | 0.4 a 0.8 |
-| [`ventas_crudo.csv`](ventas_crudo.csv) | Las mismas ventas "como las exporta la oficina", con problemas para limpiar | 50,750 | 0.5, 0.8 |
+| [`ventas.csv`](ventas.csv) | Ventas de 2024 y 2025, ya limpias | 50,000 | 0.4 a 0.8, Temporada 1 |
+| [`ventas_crudo.csv`](ventas_crudo.csv) | Las mismas ventas "como las exporta la oficina", con problemas para limpiar | 50,750 | 0.5, 0.8, 1.9 |
+| [`creditos.csv`](creditos.csv) | Compras al crédito y si cayeron en mora | 8,316 | 1.7, 1.8 |
 | [`reporte_ventas_2025.xlsx`](reporte_ventas_2025.xlsx) | Libro de Excel con las hojas *Ventas* (25,667 ventas de 2025), *Productos* y *Clientes* | — | 0.4 |
 
 ## Cómo se relacionan
@@ -23,6 +24,8 @@ productos ──(id_producto)──┐
 empleados ──(id_vendedor)──┘                                │
     ▲                                                       │
     └──────────────────────(id_vendedor)────────────────────┘
+
+creditos ──(id_cliente)──► clientes
 ```
 
 Es como tener varias hojas de Excel que se conectan con `=BUSCARV()` (`VLOOKUP`) a través de un código.
@@ -82,6 +85,29 @@ Cada fila es la venta de **un producto** a **un cliente** en una fecha.
 | `descuento` | Descuento por volumen: 0, 0.05 (desde 10 presentaciones) o 0.10 (desde 20) | `0.0` |
 | `total` | `cantidad × precio_unitario × (1 − descuento)`, redondeado a céntimos como `=REDONDEAR()` (`ROUND`) en Excel | `144.0` |
 | `metodo_pago` | Efectivo, Billetera digital, Transferencia o Crédito | `Efectivo` |
+
+### `creditos.csv`
+
+Cada fila es una compra al crédito: las ventas con `metodo_pago` igual a `Crédito`, agrupadas por cliente y día. Las columnas `dias_atraso` y `moroso` se conocen después de la venta. No sirven como entradas de un modelo: usarlas sería hacer trampa.
+
+| Columna | Descripción | Ejemplo |
+|---|---|---|
+| `id_credito` | Código de la compra al crédito | `K00001` |
+| `fecha` | Fecha de la compra (aaaa-mm-dd) | `2024-01-02` |
+| `id_cliente` | Cliente que compró | `C0024` |
+| `tipo` | Bodega, Minimarket o Restaurante | `Minimarket` |
+| `monto` | Monto de la compra, en soles | `276.0` |
+| `plazo_dias` | Días de plazo para pagar: 15 en bodegas y 30 en los demás | `30` |
+| `antiguedad_anios` | Años como cliente el día de la compra | `7.69` |
+| `monto_sobre_limite` | `monto` entre `limite_credito` del cliente. Mide una sola compra, no la deuda total | `0.0276` |
+| `casos_previos` | Compras del cliente desde enero de 2024 cuyo resultado ya se conocía ese día | `0` |
+| `morosos_previos` | De esas compras, cuántas fueron morosas | `0` |
+| `dias_atraso` | Días de atraso tras vencer el plazo, observados hasta el 31 de diciembre de 2025. Vacío si aún no se puede saber | `5` |
+| `moroso` | `1` si el atraso pasó de 30 días y `0` si no. Vacío si aún no se puede saber | `0` |
+
+Los datos terminan el 31 de diciembre de 2025: 760 compras todavía no tienen resultado, y como el plazo cambia por tipo, las de bodegas maduran antes. No se simula ningún bloqueo de crédito: un cliente con deudas vencidas puede seguir comprando. Y no hay pérdidas: toda compra termina pagándose.
+
+Las relaciones de este archivo están programadas en [`catalogos.py`](../generador/distribuidora_andina/catalogos.py), y cada cliente tiene además un riesgo propio que no se publica. Lo que un modelo encuentre aquí refleja lo programado, no un hallazgo sobre negocios reales.
 
 ### `ventas_crudo.csv`
 
