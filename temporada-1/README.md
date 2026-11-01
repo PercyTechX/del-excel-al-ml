@@ -1,20 +1,20 @@
 # Temporada 1: Fundamentos de Machine Learning
 
-> **Temario aprobado; los notebooks están por hacerse.** Las cifras de pronóstico se apoyan en un solo julio y un solo diciembre.
+> Los notebooks están escritos y probados en una réplica de Colab; los videos están por grabarse. Las cifras de pronóstico se apoyan en un solo julio y un solo diciembre.
 
 Ya sabes limpiar, cruzar y graficar datos en Python. Ahora la computadora va a aprender de esos datos para responder preguntas sobre lo que todavía no ha pasado.
 
 | # | Episodio | Pregunta de la empresa | Lo que ya sabes en Excel | Se aprende |
 |---|---|---|---|---|
-| 1.1 | ¿Qué es Machine Learning? | El `total` tiene una fórmula exacta. ¿Y cuánto comprará un cliente? | Una regla con `=SI()` (`IF`) | Reglas contra ejemplos, variables de entrada y objetivo, entrenar y predecir |
-| 1.2 | Tu primer modelo: la recta | ¿Cómo se asocian las líneas de pedido del mes con el monto de la compra? | Gráfico de dispersión, línea de tendencia, `=PENDIENTE()` (`SLOPE`), `=INTERSECCION.EJE()` (`INTERCEPT`), `=PRONOSTICO.LINEAL()` (`FORECAST.LINEAR`), `=COEFICIENTE.R2()` (`RSQ`) | Dispersión, regresión lineal con `.fit()` y `.predict()`, R² y los límites de una recta |
-| 1.3 | ¿Funciona con datos nuevos? | ¿Podemos confiar en ese número? | Comparar lo proyectado con lo real, con `=ABS()` y `=PROMEDIO()` (`AVERAGE`) | Entrenamiento y prueba, error en soles (MAE) y línea base |
-| 1.4 | Pronostica sin hacer trampa | ¿Cuánto comprará cada cliente el próximo mes? | Promedio de los últimos meses | Fuga de datos, separar por fechas y reglas simples como línea base |
-| 1.5 | Más variables y la temporada | ¿Ayudan el mes, el tipo de cliente y la ciudad? | Índice del mes con una tabla dinámica | Varias variables, textos a números y estacionalidad |
-| 1.6 | Cuando el modelo se aprende las respuestas | ¿Por qué un modelo mejor en entrenamiento falla en prueba? | Una fórmula hecha a la medida de un solo mes | Sobreajuste y por qué se separan los datos |
-| 1.7 | Clasificación: ¿qué crédito revisamos primero? | ¿Qué ventas al crédito conviene revisar o cobrar antes? | `=SI()` (`IF`) con un umbral | Regresión logística, probabilidad y umbral |
-| 1.8 | Cuando el 85 % de aciertos no sirve | ¿El modelo sirve, o solo parece bueno? | Una tabla dinámica de real contra predicho | Exactitud, matriz de confusión, precisión, exhaustividad y umbral según el costo en soles |
-| 1.9 | Miniproyecto: el pronóstico de la cartera | ¿Cuánto se venderá en diciembre, por cartera? | El reporte del episodio 0.8 | Del archivo crudo al modelo y a un Excel, comprobando contra lo que realmente pasó |
+| 1.1 | [¿Qué es Machine Learning?](01-que-es-machine-learning/) | El `total` tiene una fórmula exacta. ¿Y cuánto comprará un cliente? | Una regla con `=SI()` (`IF`) | Reglas contra ejemplos, variables de entrada y objetivo, entrenar y predecir |
+| 1.2 | [Tu primer modelo: la recta](02-tu-primer-modelo-la-recta/) | ¿Cómo se asocian las líneas de pedido del mes con el monto de la compra? | Gráfico de dispersión, línea de tendencia, `=PENDIENTE()` (`SLOPE`), `=INTERSECCION.EJE()` (`INTERCEPT`), `=PRONOSTICO.LINEAL()` (`FORECAST.LINEAR`), `=COEFICIENTE.R2()` (`RSQ`) | Dispersión, regresión lineal con `.fit()` y `.predict()`, R² y los límites de una recta |
+| 1.3 | [¿Funciona con datos nuevos?](03-funciona-con-datos-nuevos/) | ¿Podemos confiar en ese número? | Comparar lo proyectado con lo real, con `=ABS()` y `=PROMEDIO()` (`AVERAGE`) | Entrenamiento y prueba, error en soles (MAE) y línea base |
+| 1.4 | [Pronostica sin hacer trampa](04-pronostica-sin-hacer-trampa/) | ¿Cuánto comprará cada cliente el próximo mes? | Promedio de los últimos meses | Fuga de datos, separar por fechas y reglas simples como línea base |
+| 1.5 | [Más variables y la temporada](05-mas-variables-y-la-temporada/) | ¿Ayudan el mes, el tipo de cliente y la ciudad? | Índice del mes con una tabla dinámica | Varias variables, textos a números y estacionalidad |
+| 1.6 | [Cuando el modelo se aprende las respuestas](06-sobreajuste/) | ¿Por qué un modelo mejor en entrenamiento falla en prueba? | Una fórmula hecha a la medida de un solo mes | Sobreajuste y por qué se separan los datos |
+| 1.7 | [Clasificación: ¿qué crédito revisamos primero?](07-clasificacion-creditos/) | ¿Qué ventas al crédito conviene revisar o cobrar antes? | `=SI()` (`IF`) con un umbral | Regresión logística, probabilidad y umbral |
+| 1.8 | [Cuando el 85 % de aciertos no sirve](08-cuando-el-85-no-sirve/) | ¿El modelo sirve, o solo parece bueno? | Una tabla dinámica de real contra predicho | Exactitud, matriz de confusión, precisión, exhaustividad y umbral según el costo en soles |
+| 1.9 | [Miniproyecto: el pronóstico de la cartera](09-miniproyecto-pronostico-cartera/) | ¿Cuánto se venderá en diciembre, por cartera? | El reporte del episodio 0.8 | Del archivo crudo al modelo y a un Excel, comprobando contra lo que realmente pasó |
 
 ## Por qué así
 
@@ -39,7 +39,7 @@ Error medio en soles:
 
 Lo que se puede afirmar:
 
-- **La estacionalidad baja el error por cartera en un 36 %**, frente al promedio de 6 meses. Casi toda la mejora viene de julio y diciembre.
+- **La estacionalidad baja el error por cartera en un 36 %**, frente al promedio de 6 meses. Cerca del 80 % de la mejora viene de julio y diciembre.
 - **Entre la regresión y la regla con índice hay un empate por cartera.** La regla se puede hacer en Excel.
 - **Cliente por cliente, la regla con índice le gana a esta regresión** en julio a diciembre. Por eso se compara siempre con una línea base. Si la regresión les asigna 0 a los clientes sin compras en 3 meses, baja de 921 a 861, y la ventaja de la regla se achica.
 
@@ -100,7 +100,7 @@ Fijamos "hoy" en el 30 de noviembre de 2025 y pronosticamos diciembre, para comp
 ## Para que quepa en 10 a 12 minutos
 
 - La tabla por cliente y mes, con sus promedios, se entrega como función lista, igual que `limpiar_ventas` en el 0.8. Lo mismo el Excel del 1.9.
-- `preparar_X()` convierte textos en números y usa las columnas de entrenamiento. `make_pipeline(StandardScaler(), LogisticRegression())` se da como receta en el 1.7.
+- `preparar_x()` convierte textos en números y usa las columnas de entrenamiento. `make_pipeline(StandardScaler(), LogisticRegression())` se da como receta en el 1.7.
 - `shift`, `rolling` y `get_dummies` no se enseñan a fondo: se explica qué hacen, y cada notebook los deja listos.
 - Ninguna duración está medida. Hay que ajustar estos episodios con lo que salga al grabar el 0.1 y el 0.2.
 
@@ -108,4 +108,4 @@ Fijamos "hoy" en el 30 de noviembre de 2025 y pronosticamos diciembre, para comp
 
 - **Datos:** `creditos.csv` va en su propio flujo aleatorio, y una prueba con huellas comprueba que no cambia ningún archivo de la Temporada 0. RRHH y los tickets quedan para la Temporada 2.
 - **Herramientas:** se agrega **scikit-learn** 1.6.1, la versión de Colab.
-- **Pruebas:** al escribir los notebooks, las cifras de esta página se convertirán en pruebas, y otra prueba mantendrá iguales las funciones copiadas entre ellos.
+- **Pruebas:** `tests/test_temporada_1.py` comprueba las cifras centrales de pronóstico y sobreajuste, y que las funciones copiadas entre notebooks sean iguales. `tests/test_distribuidora_andina.py` comprueba las de créditos.

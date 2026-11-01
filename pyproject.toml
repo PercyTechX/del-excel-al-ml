@@ -39,6 +39,7 @@ select = ["E", "F", "I", "UP", "B"]
 "temporada-0/02-python-calculadora/ejercicio.ipynb" = ["F821"]
 # Este ejercicio importa matplotlib para quien lo resuelva, aunque sus celdas estén vacías.
 "temporada-0/07-graficos/ejercicio.ipynb" = ["F401"]
+"temporada-1/*/ejercicio.ipynb" = ["F401"]
 
 [tool.ruff.lint.isort]
 known-first-party = ["distribuidora_andina"]
