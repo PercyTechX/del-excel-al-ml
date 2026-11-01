@@ -12,7 +12,17 @@ from . import catalogos as cat
 SEMILLA = 2024
 
 # Número fijo por tabla para derivar su generador aleatorio.
-_FLUJO = {"productos": 1, "empleados": 2, "clientes": 3, "ventas": 4, "crudo": 5, "creditos": 6}
+_FLUJO = {
+    "productos": 1,
+    "empleados": 2,
+    "clientes": 3,
+    "ventas": 4,
+    "crudo": 5,
+    "creditos": 6,
+    "despachos": 7,
+    "tickets": 8,
+    "postulaciones": 9,
+}
 
 
 def rng_tabla(tabla: str, semilla: int = SEMILLA) -> np.random.Generator:
@@ -321,6 +331,216 @@ def generar_creditos(
     ]
 
 
+def generar_despachos(
+    ventas: pd.DataFrame, clientes: pd.DataFrame, semilla: int = SEMILLA
+) -> pd.DataFrame:
+    """Despachos: una fila por cliente y día, con lo que se sabía al salir y si llegó tarde."""
+    rng = rng_tabla("despachos", semilla)
+    datos = clientes.set_index("id_cliente")
+    mediana = datos["ciudad"].map(cat.DISTANCIA_MEDIANA)
+    distancia = mediana * rng.lognormal(0, cat.DISTANCIA_DISPERSION, len(datos))
+    distancia = distancia.clip(upper=cat.DISTANCIA_MAXIMA).round(1)
+
+    df = (
+        ventas.groupby(["id_cliente", "fecha"], as_index=False)
+        .agg(lineas=("id_venta", "size"), presentaciones=("cantidad", "sum"))
+        .sort_values(["fecha", "id_cliente"], kind="stable", ignore_index=True)
+    )
+    df["ciudad"] = df["id_cliente"].map(datos["ciudad"])
+    df["tipo"] = df["id_cliente"].map(datos["tipo"])
+    df["distancia_km"] = df["id_cliente"].map(distancia)
+    prob_tercero = (cat.TERCERO_BASE + cat.TERCERO_POR_KM * df["distancia_km"]).clip(
+        upper=cat.TERCERO_MAXIMO
+    )
+    tercero = rng.random(len(df)) < prob_tercero
+    df["transportista"] = np.where(tercero, "Tercero", "Propio")
+
+    mes = df["fecha"].dt.month
+    lluvia = (df["ciudad"] == "Cusco") & mes.isin(cat.LLUVIA_MESES)
+    lluvia &= df["distancia_km"] >= cat.LLUVIA_KM
+    sabado_tercero = tercero & (df["fecha"].dt.dayofweek == 5)
+    campana = mes.isin(cat.CAMPANA_MESES) & (df["presentaciones"] >= cat.CAMPANA_BULTOS)
+    logit = (
+        cat.TARDE_BASE
+        + cat.TARDE_POR_KM * df["distancia_km"]
+        + cat.TARDE_LLUVIA_CUSCO * lluvia
+        + cat.TARDE_TERCERO_SABADO * sabado_tercero
+        + cat.TARDE_CAMPANA_CARGA * campana
+    )
+    df["llego_tarde"] = (rng.random(len(df)) < 1 / (1 + np.exp(-logit.to_numpy()))).astype(int)
+    df.insert(0, "id_despacho", [f"D{i:05d}" for i in range(1, len(df) + 1)])
+    return df[
+        [
+            "id_despacho",
+            "fecha",
+            "id_cliente",
+            "ciudad",
+            "tipo",
+            "distancia_km",
+            "lineas",
+            "presentaciones",
+            "transportista",
+            "llego_tarde",
+        ]
+    ]
+
+
+def _referencia_de_dia(fecha_despacho: pd.Timestamp, fecha_ticket: pd.Timestamp) -> str:
+    """Cómo nombra el cliente el día del despacho, según cuándo escribe."""
+    if (fecha_ticket - fecha_despacho).days == 1:
+        return "ayer"
+    return cat.DIAS_SEMANA_TICKET[fecha_despacho.dayofweek]
+
+
+def _texto_ticket(
+    rng: np.random.Generator,
+    categoria: str,
+    otra: str | None,
+    canal: str,
+    fecha: pd.Timestamp,
+    dia: str,
+    tiempo: str,
+) -> str:
+    """Redacta un mensaje de cliente, a veces con dos temas y con escritura de WhatsApp."""
+
+    def frase(tema: str) -> str:
+        frases = cat.FRASES_TICKET[tema]
+        if fecha.month not in cat.MESES_PANETON:
+            frases = [f for f in frases if "panet" not in f.lower()]
+        hay_nuevas = fecha >= cat.INICIO_FRASES_NUEVAS
+        if hay_nuevas and rng.random() < cat.PROPORCION_FRASES_NUEVAS:
+            frases = cat.FRASES_NUEVAS_TICKET[tema]
+        return str(rng.choice(frases)).format(dia=dia, tiempo=tiempo, n=int(rng.integers(2, 9)))
+
+    def unir(primera: str, segunda: str) -> str:
+        return primera + (" " if primera.endswith("?") else ". ") + segunda
+
+    def con_mayuscula(frase_inicial: str) -> str:
+        pos = 1 if frase_inicial.startswith("¿") else 0
+        return frase_inicial[:pos] + frase_inicial[pos].upper() + frase_inicial[pos + 1 :]
+
+    texto = frase(categoria)
+    if otra is not None:
+        texto = unir(texto, "Además, " + frase(otra))
+    saludo, cierre = rng.choice(cat.SALUDOS_TICKET), rng.choice(cat.CIERRES_TICKET)
+    if not saludo:
+        texto = con_mayuscula(texto)
+    texto = saludo + texto
+    if cierre:
+        texto = unir(texto, cierre)
+    elif canal != "WhatsApp" and not texto.endswith("?"):
+        texto += "."
+    if canal == "WhatsApp" and rng.random() < 0.5:
+        texto = f" {texto.lower()} "
+        for largo, corto in cat.ABREVIATURAS_TICKET.items():
+            texto = texto.replace(largo, corto)
+    return texto.strip()
+
+
+def generar_tickets(despachos: pd.DataFrame, semilla: int = SEMILLA) -> pd.DataFrame:
+    """Mensajes de clientes a Atención al Cliente, clasificados a mano en cinco categorías.
+
+    Solo los tickets que nacen de una entrega tardía llevan `id_despacho`.
+    """
+    rng = rng_tabla("tickets", semilla)
+    # Un ticket se escribe hasta 3 días después del despacho, sin pasar de la fecha de corte.
+    candidatos = despachos[despachos["fecha"] <= cat.FIN - pd.Timedelta(days=3)]
+    tardios = candidatos[candidatos["llego_tarde"] == 1]
+    n_tarde = round(cat.N_TICKETS * cat.TICKETS_DE_TARDANZA)
+    n_otros = cat.N_TICKETS - n_tarde
+    base = pd.concat(
+        [
+            tardios.iloc[rng.choice(len(tardios), n_tarde, replace=False)],
+            candidatos.iloc[rng.choice(len(candidatos), n_otros, replace=False)],
+        ],
+        ignore_index=True,
+    )
+    otras = list(cat.PESO_CATEGORIA_TICKET)
+    categorias = ["Despacho"] * n_tarde + list(
+        rng.choice(otras, n_otros, p=list(cat.PESO_CATEGORIA_TICKET.values()))
+    )
+    todas = ["Despacho", *otras]
+    canales = rng.choice(
+        list(cat.CANALES_TICKET), cat.N_TICKETS, p=list(cat.CANALES_TICKET.values())
+    )
+    fechas = base["fecha"] + pd.to_timedelta(rng.integers(1, 4, cat.N_TICKETS), unit="D")
+
+    textos, etiquetas = [], []
+    for fila, categoria, canal, fecha in zip(
+        base["fecha"], categorias, canales, fechas, strict=True
+    ):
+        otra = None
+        if rng.random() < cat.TICKETS_MIXTOS:
+            otra = rng.choice([c for c in todas if c != categoria])
+        dia = _referencia_de_dia(fila, fecha)
+        pasados = (fecha - fila).days
+        tiempo = "pasó un día" if pasados == 1 else f"pasaron {pasados} días"
+        textos.append(_texto_ticket(rng, categoria, otra, canal, fecha, dia, tiempo))
+        mal = rng.random() < cat.TICKETS_MAL_ETIQUETADOS
+        etiquetas.append(rng.choice([c for c in todas if c != categoria]) if mal else categoria)
+
+    df = pd.DataFrame(
+        {
+            "fecha": fechas,
+            "id_cliente": base["id_cliente"],
+            "id_despacho": base["id_despacho"].where(base.index < n_tarde),
+            "canal": canales,
+            "mensaje": textos,
+            "categoria": etiquetas,
+        }
+    )
+    df = df.sort_values("fecha", kind="stable", ignore_index=True)
+    df.insert(0, "id_ticket", [f"T{i:05d}" for i in range(1, len(df) + 1)])
+    return df
+
+
+def generar_postulaciones(semilla: int = SEMILLA) -> pd.DataFrame:
+    """Postulaciones a la empresa y si se llamó a entrevista, con un sesgo programado a propósito.
+
+    El puntaje de la prueba se sortea igual para hombres y mujeres. La diferencia en las
+    entrevistas viene de los coeficientes de `catalogos.py`: no describe a ninguna empresa real.
+    """
+    rng = rng_tabla("postulaciones", semilla)
+    n = cat.N_POSTULACIONES
+    cargos = rng.choice(list(cat.CARGOS_POSTULACION), n, p=list(cat.CARGOS_POSTULACION.values()))
+    prob_mujer = pd.Series(cargos).map(cat.PROPORCION_MUJERES_POSTULACION).to_numpy()
+    sexo = np.where(rng.random(n) < prob_mujer, "F", "M")
+    sedes = rng.choice(list(cat.SEDES), n, p=list(cat.SEDES.values()))
+    experiencia = rng.gamma(2.0, 2.0, n).round(1)
+    puntaje = rng.normal(62, 14, n).clip(0, 100).round(0).astype(int)
+    pausa = rng.exponential(pd.Series(sexo).map(cat.PAUSA_MEDIA_MESES).to_numpy()).round(0)
+    viajar = rng.random(n) < pd.Series(sexo).map(cat.PROBABILIDAD_VIAJAR).to_numpy()
+
+    sesgo = (sexo == "F") & np.isin(cargos, cat.CARGOS_CON_SESGO)
+    logit = (
+        cat.ENTREVISTA_BASE
+        + cat.ENTREVISTA_POR_PUNTAJE * (puntaje - 60)
+        + cat.ENTREVISTA_POR_ANIO * experiencia
+        + cat.ENTREVISTA_POR_MES_PAUSA * pausa
+        + cat.ENTREVISTA_POR_VIAJAR * viajar
+        + cat.ENTREVISTA_SESGO_MUJER * sesgo
+    )
+    entrevistado = rng.random(n) < 1 / (1 + np.exp(-logit))
+    df = pd.DataFrame(
+        {
+            "fecha": _fechas_aleatorias(
+                rng, n, pd.Timestamp("2022-01-01"), pd.Timestamp("2025-12-31")
+            ),
+            "cargo": cargos,
+            "sede": sedes,
+            "sexo": sexo,
+            "anios_experiencia": experiencia,
+            "meses_sin_empleo": pausa.astype(int),
+            "puede_viajar": viajar.astype(int),
+            "puntaje_prueba": puntaje,
+            "entrevistado": entrevistado.astype(int),
+        }
+    )
+    df = df.sort_values("fecha", kind="stable", ignore_index=True)
+    df.insert(0, "id_postulacion", [f"A{i:05d}" for i in range(1, n + 1)])
+    return df
+
+
 def generar_todo(semilla: int = SEMILLA) -> dict[str, pd.DataFrame]:
     """Genera todas las tablas limpias de la empresa."""
     productos = generar_productos(semilla)
@@ -328,10 +548,16 @@ def generar_todo(semilla: int = SEMILLA) -> dict[str, pd.DataFrame]:
     clientes = generar_clientes(empleados, semilla)
     ventas = generar_ventas(productos, clientes, semilla)
     creditos = generar_creditos(ventas, clientes, semilla)
+    despachos = generar_despachos(ventas, clientes, semilla)
+    tickets = generar_tickets(despachos, semilla)
+    postulaciones = generar_postulaciones(semilla)
     return {
         "productos": productos,
         "empleados": empleados,
         "clientes": clientes,
         "ventas": ventas,
         "creditos": creditos,
+        "despachos": despachos,
+        "tickets": tickets,
+        "postulaciones": postulaciones,
     }

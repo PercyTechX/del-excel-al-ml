@@ -19,9 +19,10 @@ from distribuidora_andina.generar import (
 
 DATOS = Path(__file__).resolve().parents[1] / "datos"
 VERSIONES = f"numpy {np.__version__}, pandas {pd.__version__}"
-# Huellas de los archivos que usa la Temporada 0: agregar tablas no debe cambiarlos,
+# Huellas de los archivos que usan las temporadas 0 y 1: agregar tablas no debe cambiarlos,
 # porque sus notebooks y videos muestran estas cifras.
 HUELLAS_TEMPORADA_0 = {
+    "creditos.csv": "f22407773a3ce9f8a9f7d7ef545ac50c6a19c0ed345ef50e2f28a4aec75bc6ed",
     "clientes.csv": "e85f1e1259107a94e4cfc0ebfa50ac9f3481d93fe8ed66a0c95ca29098f61b62",
     "empleados.csv": "14330a56774eb324f113fa3ab85148827b9bb71574a5af91feafa853a1252353",
     "productos.csv": "19a0eade7effa28167fc3075126d4557cf7a8248c5f260b79d58a9f0960c956b",
@@ -64,6 +65,11 @@ def test_tamanos(tablas):
     assert len(tablas["ventas"]) == cat.N_VENTAS
     credito = tablas["ventas"][tablas["ventas"]["metodo_pago"] == "Crédito"]
     assert len(tablas["creditos"]) == len(credito[["id_cliente", "fecha"]].drop_duplicates())
+    assert len(tablas["despachos"]) == len(
+        tablas["ventas"][["id_cliente", "fecha"]].drop_duplicates()
+    )
+    assert len(tablas["tickets"]) == cat.N_TICKETS
+    assert len(tablas["postulaciones"]) == cat.N_POSTULACIONES
 
 
 @pytest.mark.parametrize(
@@ -77,6 +83,9 @@ def test_tamanos(tablas):
         ("clientes", "nombre"),
         ("ventas", "id_venta"),
         ("creditos", "id_credito"),
+        ("despachos", "id_despacho"),
+        ("tickets", "id_ticket"),
+        ("postulaciones", "id_postulacion"),
     ],
 )
 def test_identificadores_unicos(tablas, tabla, columna):
@@ -174,7 +183,19 @@ def test_duplicados_no_siempre_pegados(crudo):
     assert pegados.sum() < dup.sum()
 
 
-@pytest.mark.parametrize("nombre", ["productos", "empleados", "clientes", "ventas", "creditos"])
+@pytest.mark.parametrize(
+    "nombre",
+    [
+        "productos",
+        "empleados",
+        "clientes",
+        "ventas",
+        "creditos",
+        "despachos",
+        "tickets",
+        "postulaciones",
+    ],
+)
 def test_archivos_publicados_coinciden_con_el_generador(tablas, nombre):
     publicado = pd.read_csv(DATOS / f"{nombre}.csv", encoding=CODIFICACION)
     generado = tablas[nombre].copy()

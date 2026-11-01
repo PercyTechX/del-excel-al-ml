@@ -1,0 +1,3201 @@
+﻿id_postulacion,fecha,cargo,sede,sexo,anios_experiencia,meses_sin_empleo,puede_viajar,puntaje_prueba,entrevistado
+A00001,2022-01-01,Asistente administrativo,Trujillo,M,1.4,2,1,50,0
+A00002,2022-01-01,Almacenero,Arequipa,M,5.8,1,0,58,0
+A00003,2022-01-01,Asistente administrativo,Lima,F,5.8,13,0,67,0
+A00004,2022-01-02,Repartidor,Trujillo,M,1.3,0,1,70,1
+A00005,2022-01-03,Almacenero,Chiclayo,M,1.3,1,0,52,0
+A00006,2022-01-03,Almacenero,Lima,M,3.0,0,1,53,0
+A00007,2022-01-03,Vendedor,Trujillo,F,4.2,1,0,57,0
+A00008,2022-01-04,Almacenero,Lima,M,6.0,2,1,80,1
+A00009,2022-01-05,Vendedor,Lima,M,2.2,5,0,55,0
+A00010,2022-01-06,Vendedor,Cusco,F,2.7,13,1,51,0
+A00011,2022-01-06,Vendedor,Arequipa,M,6.5,2,1,20,0
+A00012,2022-01-07,Vendedor,Lima,M,3.6,6,1,48,0
+A00013,2022-01-07,Vendedor,Piura,M,3.8,2,1,72,0
+A00014,2022-01-07,Repartidor,Trujillo,M,2.9,2,1,55,0
+A00015,2022-01-08,Vendedor,Lima,F,5.6,31,0,66,0
+A00016,2022-01-08,Asistente administrativo,Lima,M,2.5,8,1,63,0
+A00017,2022-01-09,Repartidor,Lima,M,5.2,2,1,65,0
+A00018,2022-01-09,Repartidor,Cusco,M,6.4,2,1,61,0
+A00019,2022-01-10,Vendedor,Arequipa,F,7.1,18,0,44,0
+A00020,2022-01-10,Vendedor,Lima,F,1.4,7,0,53,0
+A00021,2022-01-10,Repartidor,Lima,M,6.4,0,1,65,1
+A00022,2022-01-10,Vendedor,Chiclayo,F,10.3,3,0,75,0
+A00023,2022-01-10,Asistente administrativo,Lima,F,2.4,5,0,45,0
+A00024,2022-01-12,Almacenero,Lima,M,4.5,0,0,44,0
+A00025,2022-01-13,Almacenero,Arequipa,M,0.9,10,1,69,0
+A00026,2022-01-13,Almacenero,Trujillo,M,5.2,3,1,40,0
+A00027,2022-01-14,Vendedor,Arequipa,M,8.7,5,0,50,0
+A00028,2022-01-14,Almacenero,Arequipa,M,2.7,1,1,83,1
+A00029,2022-01-14,Repartidor,Piura,M,2.6,0,1,70,1
+A00030,2022-01-14,Repartidor,Cusco,M,3.2,7,1,49,0
+A00031,2022-01-15,Vendedor,Piura,M,2.0,2,0,49,0
+A00032,2022-01-15,Repartidor,Trujillo,M,2.1,4,0,81,1
+A00033,2022-01-15,Vendedor,Arequipa,F,2.3,15,1,63,0
+A00034,2022-01-15,Vendedor,Trujillo,F,3.3,6,1,47,0
+A00035,2022-01-15,Vendedor,Trujillo,F,2.2,20,1,56,0
+A00036,2022-01-15,Repartidor,Lima,M,1.7,10,1,80,0
+A00037,2022-01-16,Vendedor,Cusco,M,1.4,4,1,76,1
+A00038,2022-01-16,Vendedor,Cusco,M,3.6,2,0,66,0
+A00039,2022-01-17,Repartidor,Lima,M,2.4,1,1,67,1
+A00040,2022-01-17,Vendedor,Arequipa,M,2.5,1,1,63,1
+A00041,2022-01-17,Asistente administrativo,Lima,F,2.1,1,0,53,0
+A00042,2022-01-18,Vendedor,Arequipa,M,3.5,3,1,79,0
+A00043,2022-01-18,Asistente administrativo,Chiclayo,F,5.7,6,0,23,0
+A00044,2022-01-18,Almacenero,Lima,M,5.6,6,1,69,0
+A00045,2022-01-21,Repartidor,Lima,F,10.2,4,0,88,1
+A00046,2022-01-21,Repartidor,Lima,M,1.6,14,0,82,0
+A00047,2022-01-22,Asistente administrativo,Chiclayo,F,6.6,17,0,59,0
+A00048,2022-01-22,Repartidor,Lima,M,1.7,3,0,58,0
+A00049,2022-01-22,Repartidor,Lima,M,12.6,7,1,79,1
+A00050,2022-01-22,Repartidor,Chiclayo,M,7.5,11,1,60,0
+A00051,2022-01-23,Vendedor,Trujillo,F,0.9,9,0,79,0
+A00052,2022-01-23,Asistente administrativo,Lima,F,4.1,12,0,70,0
+A00053,2022-01-23,Repartidor,Chiclayo,M,2.7,5,1,48,0
+A00054,2022-01-24,Repartidor,Lima,M,3.7,1,1,64,1
+A00055,2022-01-25,Almacenero,Lima,F,5.2,5,0,76,0
+A00056,2022-01-26,Repartidor,Cusco,M,1.6,2,1,74,0
+A00057,2022-01-26,Vendedor,Lima,M,4.0,3,0,37,0
+A00058,2022-01-27,Vendedor,Chiclayo,M,3.4,3,0,66,0
+A00059,2022-01-27,Almacenero,Lima,F,5.7,1,0,73,0
+A00060,2022-01-27,Vendedor,Lima,M,4.3,5,1,49,0
+A00061,2022-01-27,Vendedor,Cusco,M,3.9,2,1,73,0
+A00062,2022-01-28,Almacenero,Cusco,M,0.3,2,0,59,0
+A00063,2022-01-28,Repartidor,Trujillo,M,2.5,12,1,53,0
+A00064,2022-01-29,Repartidor,Lima,M,14.0,7,0,35,0
+A00065,2022-01-29,Almacenero,Piura,M,5.7,3,0,74,1
+A00066,2022-01-29,Almacenero,Piura,F,3.2,6,0,51,0
+A00067,2022-01-29,Vendedor,Piura,M,6.3,2,0,56,0
+A00068,2022-01-30,Asistente administrativo,Arequipa,F,2.9,28,1,63,1
+A00069,2022-01-30,Almacenero,Lima,M,0.3,1,1,48,0
+A00070,2022-01-30,Repartidor,Lima,F,2.3,23,0,72,0
+A00071,2022-01-30,Almacenero,Piura,F,4.2,42,0,69,0
+A00072,2022-01-31,Asistente administrativo,Trujillo,F,7.9,19,1,76,0
+A00073,2022-01-31,Almacenero,Lima,M,0.5,0,1,66,0
+A00074,2022-01-31,Vendedor,Trujillo,M,6.4,1,0,64,0
+A00075,2022-01-31,Asistente administrativo,Lima,M,0.4,14,0,28,0
+A00076,2022-02-01,Vendedor,Lima,F,2.5,11,0,42,0
+A00077,2022-02-01,Vendedor,Arequipa,M,4.5,1,1,52,0
+A00078,2022-02-01,Vendedor,Piura,F,1.5,38,0,48,0
+A00079,2022-02-01,Vendedor,Cusco,M,3.8,1,0,72,0
+A00080,2022-02-02,Repartidor,Lima,M,6.0,2,1,70,1
+A00081,2022-02-02,Almacenero,Lima,F,2.9,14,1,70,0
+A00082,2022-02-03,Vendedor,Chiclayo,M,7.3,5,1,57,0
+A00083,2022-02-03,Almacenero,Chiclayo,M,6.9,3,1,84,1
+A00084,2022-02-03,Asistente administrativo,Lima,F,4.8,22,1,72,1
+A00085,2022-02-03,Almacenero,Lima,M,0.6,1,1,64,0
+A00086,2022-02-04,Asistente administrativo,Chiclayo,F,3.7,42,1,57,0
+A00087,2022-02-05,Vendedor,Cusco,F,0.9,29,1,70,0
+A00088,2022-02-05,Almacenero,Cusco,F,8.0,16,0,68,0
+A00089,2022-02-06,Vendedor,Lima,F,4.4,19,1,73,0
+A00090,2022-02-06,Vendedor,Chiclayo,M,1.2,3,1,69,0
+A00091,2022-02-07,Asistente administrativo,Piura,F,1.4,3,0,49,0
+A00092,2022-02-08,Almacenero,Chiclayo,M,5.1,4,1,59,0
+A00093,2022-02-08,Almacenero,Lima,F,2.4,7,1,51,1
+A00094,2022-02-08,Vendedor,Lima,M,0.6,16,0,91,0
+A00095,2022-02-09,Vendedor,Lima,F,1.7,0,0,45,0
+A00096,2022-02-09,Asistente administrativo,Lima,F,8.8,3,1,44,0
+A00097,2022-02-10,Almacenero,Lima,M,3.5,8,0,63,0
+A00098,2022-02-10,Asistente administrativo,Chiclayo,F,2.0,3,0,77,1
+A00099,2022-02-11,Asistente administrativo,Lima,F,1.4,8,1,67,0
+A00100,2022-02-11,Repartidor,Chiclayo,M,4.1,2,1,50,0
+A00101,2022-02-11,Almacenero,Trujillo,F,5.0,50,0,83,0
+A00102,2022-02-12,Vendedor,Lima,M,1.3,5,0,48,0
+A00103,2022-02-13,Asistente administrativo,Lima,F,3.1,3,0,74,0
+A00104,2022-02-17,Repartidor,Arequipa,F,2.0,2,0,65,0
+A00105,2022-02-17,Almacenero,Piura,M,3.9,0,1,72,0
+A00106,2022-02-17,Vendedor,Cusco,M,6.9,4,1,50,0
+A00107,2022-02-19,Repartidor,Arequipa,F,6.0,3,0,74,0
+A00108,2022-02-19,Repartidor,Lima,M,0.5,10,1,59,0
+A00109,2022-02-19,Vendedor,Lima,M,5.2,0,1,62,1
+A00110,2022-02-20,Vendedor,Lima,M,9.4,1,1,49,0
+A00111,2022-02-22,Almacenero,Arequipa,M,5.1,5,1,60,1
+A00112,2022-02-22,Asistente administrativo,Arequipa,M,1.7,0,0,75,0
+A00113,2022-02-22,Asistente administrativo,Cusco,M,2.9,3,0,60,0
+A00114,2022-02-22,Almacenero,Piura,M,8.5,3,0,72,1
+A00115,2022-02-23,Almacenero,Trujillo,M,12.5,10,1,56,1
+A00116,2022-02-24,Almacenero,Lima,M,3.1,11,1,94,1
+A00117,2022-02-24,Vendedor,Piura,M,6.9,7,1,81,1
+A00118,2022-02-24,Repartidor,Cusco,M,0.4,2,1,72,0
+A00119,2022-02-24,Vendedor,Lima,F,4.0,29,0,59,0
+A00120,2022-02-25,Vendedor,Cusco,M,1.2,0,0,44,0
+A00121,2022-02-25,Repartidor,Piura,M,0.8,0,0,56,1
+A00122,2022-02-25,Vendedor,Lima,F,1.2,2,1,69,0
+A00123,2022-02-25,Almacenero,Trujillo,F,1.9,14,1,48,0
+A00124,2022-02-26,Vendedor,Trujillo,M,3.4,1,0,89,1
+A00125,2022-02-26,Asistente administrativo,Lima,F,2.4,6,0,71,0
+A00126,2022-02-27,Almacenero,Lima,M,2.8,1,1,53,0
+A00127,2022-02-27,Asistente administrativo,Lima,M,2.3,16,1,59,0
+A00128,2022-02-27,Repartidor,Piura,F,2.5,9,0,55,0
+A00129,2022-02-28,Asistente administrativo,Lima,M,10.4,3,1,48,1
+A00130,2022-02-28,Almacenero,Lima,M,2.9,6,1,73,0
+A00131,2022-02-28,Asistente administrativo,Lima,M,10.4,3,1,68,1
+A00132,2022-02-28,Repartidor,Cusco,M,2.2,9,1,74,0
+A00133,2022-03-01,Vendedor,Chiclayo,M,8.2,4,1,35,0
+A00134,2022-03-01,Repartidor,Arequipa,M,2.1,1,1,57,0
+A00135,2022-03-01,Vendedor,Arequipa,M,3.2,0,1,73,0
+A00136,2022-03-04,Repartidor,Trujillo,F,2.9,2,1,64,0
+A00137,2022-03-04,Repartidor,Cusco,M,4.2,2,1,51,0
+A00138,2022-03-04,Almacenero,Lima,F,0.6,29,0,51,0
+A00139,2022-03-05,Almacenero,Cusco,M,5.0,0,1,61,0
+A00140,2022-03-05,Asistente administrativo,Trujillo,M,4.2,14,1,83,1
+A00141,2022-03-06,Vendedor,Piura,M,4.4,5,1,62,1
+A00142,2022-03-07,Vendedor,Lima,M,5.5,3,0,66,0
+A00143,2022-03-07,Almacenero,Lima,M,4.5,1,1,50,0
+A00144,2022-03-07,Vendedor,Arequipa,F,1.3,5,0,81,0
+A00145,2022-03-08,Vendedor,Lima,M,4.7,0,1,61,0
+A00146,2022-03-08,Almacenero,Lima,M,2.6,4,0,68,0
+A00147,2022-03-08,Almacenero,Lima,M,5.4,0,1,89,1
+A00148,2022-03-08,Repartidor,Chiclayo,F,12.2,10,0,73,1
+A00149,2022-03-09,Asistente administrativo,Lima,F,3.7,7,0,59,0
+A00150,2022-03-09,Almacenero,Chiclayo,F,5.4,3,0,78,0
+A00151,2022-03-09,Repartidor,Chiclayo,M,8.5,2,1,61,0
+A00152,2022-03-10,Almacenero,Piura,M,3.7,1,1,57,0
+A00153,2022-03-10,Repartidor,Trujillo,M,2.5,1,1,70,0
+A00154,2022-03-11,Asistente administrativo,Chiclayo,M,3.0,3,1,45,0
+A00155,2022-03-12,Almacenero,Lima,M,9.9,1,1,72,0
+A00156,2022-03-12,Repartidor,Arequipa,M,5.0,6,1,53,0
+A00157,2022-03-12,Repartidor,Arequipa,M,5.3,1,1,69,1
+A00158,2022-03-13,Almacenero,Lima,M,6.5,2,1,41,0
+A00159,2022-03-13,Repartidor,Lima,M,3.9,1,1,81,1
+A00160,2022-03-14,Almacenero,Cusco,M,3.5,1,1,55,0
+A00161,2022-03-14,Vendedor,Piura,M,0.3,3,1,72,0
+A00162,2022-03-15,Vendedor,Piura,M,9.7,1,0,47,0
+A00163,2022-03-16,Repartidor,Piura,M,1.9,5,1,76,1
+A00164,2022-03-17,Asistente administrativo,Chiclayo,M,6.1,6,1,65,1
+A00165,2022-03-17,Vendedor,Lima,F,0.9,10,1,75,0
+A00166,2022-03-19,Asistente administrativo,Chiclayo,M,1.2,1,1,58,0
+A00167,2022-03-19,Vendedor,Trujillo,M,2.0,3,1,67,0
+A00168,2022-03-20,Vendedor,Lima,F,6.5,8,0,71,1
+A00169,2022-03-21,Vendedor,Lima,F,6.3,6,0,49,0
+A00170,2022-03-23,Repartidor,Arequipa,M,0.8,1,1,61,0
+A00171,2022-03-23,Vendedor,Cusco,M,4.2,3,1,71,0
+A00172,2022-03-24,Almacenero,Cusco,M,2.9,8,0,77,0
+A00173,2022-03-24,Vendedor,Arequipa,M,2.0,1,1,79,0
+A00174,2022-03-24,Vendedor,Lima,M,4.3,2,1,86,1
+A00175,2022-03-25,Repartidor,Chiclayo,M,4.6,2,1,78,0
+A00176,2022-03-25,Vendedor,Lima,F,8.5,19,0,27,0
+A00177,2022-03-25,Vendedor,Lima,M,6.2,1,1,67,0
+A00178,2022-03-26,Almacenero,Lima,M,6.7,0,1,52,1
+A00179,2022-03-27,Vendedor,Lima,M,3.8,1,0,60,0
+A00180,2022-03-28,Asistente administrativo,Cusco,F,2.5,2,0,63,0
+A00181,2022-03-28,Repartidor,Arequipa,M,3.7,13,0,71,0
+A00182,2022-03-28,Almacenero,Trujillo,M,0.8,1,0,87,0
+A00183,2022-03-29,Vendedor,Trujillo,M,0.5,1,1,66,1
+A00184,2022-03-29,Repartidor,Lima,M,0.3,2,1,63,1
+A00185,2022-03-29,Almacenero,Chiclayo,F,5.4,4,1,59,0
+A00186,2022-03-29,Vendedor,Lima,F,4.7,28,1,83,1
+A00187,2022-03-29,Repartidor,Piura,F,0.9,0,0,53,0
+A00188,2022-03-29,Repartidor,Arequipa,M,2.7,0,0,41,0
+A00189,2022-03-31,Almacenero,Piura,F,2.2,25,0,79,0
+A00190,2022-03-31,Almacenero,Piura,M,0.3,6,1,63,0
+A00191,2022-03-31,Vendedor,Arequipa,F,7.4,2,0,69,1
+A00192,2022-04-01,Repartidor,Lima,M,5.4,8,0,83,0
+A00193,2022-04-01,Repartidor,Lima,M,0.6,0,0,58,0
+A00194,2022-04-01,Asistente administrativo,Lima,F,4.6,23,1,85,0
+A00195,2022-04-01,Repartidor,Lima,M,0.8,5,1,62,0
+A00196,2022-04-01,Almacenero,Trujillo,M,0.4,18,1,43,0
+A00197,2022-04-03,Vendedor,Trujillo,M,5.3,1,1,60,1
+A00198,2022-04-03,Almacenero,Piura,M,5.5,7,1,41,0
+A00199,2022-04-03,Repartidor,Chiclayo,M,2.2,1,1,63,0
+A00200,2022-04-04,Vendedor,Piura,M,4.5,3,0,57,0
+A00201,2022-04-04,Vendedor,Lima,M,0.6,0,1,44,0
+A00202,2022-04-04,Almacenero,Cusco,F,1.4,6,1,97,0
+A00203,2022-04-04,Almacenero,Lima,M,3.7,1,1,62,1
+A00204,2022-04-05,Almacenero,Arequipa,M,6.4,7,1,81,1
+A00205,2022-04-07,Vendedor,Chiclayo,M,4.9,10,1,71,0
+A00206,2022-04-07,Vendedor,Lima,F,1.8,12,0,50,0
+A00207,2022-04-08,Repartidor,Chiclayo,M,3.9,14,1,73,1
+A00208,2022-04-08,Vendedor,Lima,F,5.5,1,1,76,0
+A00209,2022-04-08,Almacenero,Lima,M,1.2,6,1,80,0
+A00210,2022-04-09,Almacenero,Cusco,M,0.9,8,0,56,0
+A00211,2022-04-12,Asistente administrativo,Trujillo,M,1.0,0,0,46,0
+A00212,2022-04-13,Vendedor,Trujillo,M,2.9,13,1,67,0
+A00213,2022-04-13,Vendedor,Lima,F,5.8,14,1,80,0
+A00214,2022-04-14,Vendedor,Lima,F,2.9,12,1,73,0
+A00215,2022-04-14,Vendedor,Lima,F,3.5,5,0,83,0
+A00216,2022-04-14,Almacenero,Lima,F,5.8,1,0,53,0
+A00217,2022-04-15,Asistente administrativo,Piura,M,4.0,1,0,70,1
+A00218,2022-04-15,Repartidor,Arequipa,M,5.2,3,0,68,0
+A00219,2022-04-15,Almacenero,Lima,M,10.6,1,1,73,1
+A00220,2022-04-15,Repartidor,Piura,M,1.5,0,1,80,0
+A00221,2022-04-15,Almacenero,Arequipa,F,2.5,29,0,58,0
+A00222,2022-04-16,Almacenero,Lima,M,6.9,3,1,60,1
+A00223,2022-04-16,Vendedor,Arequipa,F,3.6,17,1,59,0
+A00224,2022-04-17,Asistente administrativo,Lima,M,3.4,1,1,40,1
+A00225,2022-04-20,Repartidor,Piura,M,1.7,1,0,56,1
+A00226,2022-04-20,Repartidor,Lima,M,3.5,6,1,72,1
+A00227,2022-04-20,Almacenero,Lima,M,3.3,4,1,88,1
+A00228,2022-04-20,Almacenero,Cusco,M,4.1,13,0,61,0
+A00229,2022-04-20,Repartidor,Chiclayo,M,3.5,2,0,54,0
+A00230,2022-04-21,Vendedor,Lima,F,2.5,26,0,83,0
+A00231,2022-04-21,Almacenero,Arequipa,M,10.6,1,1,61,1
+A00232,2022-04-22,Vendedor,Piura,M,7.2,4,1,68,0
+A00233,2022-04-22,Almacenero,Arequipa,F,3.3,5,1,61,0
+A00234,2022-04-22,Almacenero,Piura,M,0.5,1,1,59,0
+A00235,2022-04-23,Repartidor,Chiclayo,F,5.4,2,0,56,0
+A00236,2022-04-23,Repartidor,Lima,M,2.8,3,1,66,0
+A00237,2022-04-23,Asistente administrativo,Lima,F,7.8,6,0,83,1
+A00238,2022-04-23,Repartidor,Trujillo,M,1.9,11,1,68,1
+A00239,2022-04-23,Repartidor,Piura,F,3.2,33,1,52,0
+A00240,2022-04-23,Vendedor,Piura,F,5.2,0,1,49,0
+A00241,2022-04-25,Almacenero,Lima,M,1.0,3,1,91,1
+A00242,2022-04-25,Asistente administrativo,Trujillo,M,7.1,5,0,49,0
+A00243,2022-04-25,Asistente administrativo,Arequipa,F,4.7,47,1,69,0
+A00244,2022-04-25,Repartidor,Chiclayo,M,6.3,3,1,61,0
+A00245,2022-04-26,Vendedor,Chiclayo,F,7.6,4,0,64,0
+A00246,2022-04-26,Vendedor,Lima,F,4.3,3,0,71,0
+A00247,2022-04-27,Vendedor,Piura,F,2.6,40,0,30,0
+A00248,2022-04-27,Repartidor,Piura,M,2.1,7,1,37,0
+A00249,2022-04-29,Repartidor,Lima,M,1.8,3,1,58,1
+A00250,2022-04-29,Almacenero,Lima,F,8.0,13,1,57,0
+A00251,2022-04-29,Vendedor,Lima,M,4.2,2,1,59,0
+A00252,2022-04-30,Vendedor,Chiclayo,M,11.6,1,1,72,1
+A00253,2022-04-30,Vendedor,Lima,F,9.8,12,1,59,0
+A00254,2022-04-30,Vendedor,Chiclayo,M,0.3,16,0,67,0
+A00255,2022-04-30,Vendedor,Lima,F,1.4,16,1,50,0
+A00256,2022-04-30,Almacenero,Cusco,M,0.5,3,1,52,0
+A00257,2022-04-30,Almacenero,Lima,M,3.0,1,1,52,0
+A00258,2022-05-01,Asistente administrativo,Lima,F,2.3,10,1,64,0
+A00259,2022-05-02,Vendedor,Piura,F,3.4,21,0,70,0
+A00260,2022-05-02,Almacenero,Lima,M,3.8,3,1,80,1
+A00261,2022-05-03,Vendedor,Piura,M,8.7,8,1,32,0
+A00262,2022-05-04,Almacenero,Lima,M,11.4,0,1,46,0
+A00263,2022-05-04,Repartidor,Cusco,M,2.3,5,1,75,1
+A00264,2022-05-05,Repartidor,Arequipa,M,10.1,3,1,60,0
+A00265,2022-05-05,Almacenero,Arequipa,M,3.7,8,1,65,1
+A00266,2022-05-06,Vendedor,Lima,F,2.3,10,0,58,0
+A00267,2022-05-06,Almacenero,Lima,M,3.9,4,1,55,0
+A00268,2022-05-07,Almacenero,Trujillo,M,8.6,6,1,36,1
+A00269,2022-05-08,Almacenero,Arequipa,M,4.6,1,0,66,0
+A00270,2022-05-08,Almacenero,Cusco,F,7.3,9,0,77,1
+A00271,2022-05-08,Repartidor,Lima,M,6.8,7,1,89,0
+A00272,2022-05-08,Almacenero,Lima,M,2.4,0,1,53,0
+A00273,2022-05-08,Repartidor,Lima,M,5.4,5,1,58,0
+A00274,2022-05-09,Vendedor,Arequipa,M,4.1,3,0,58,1
+A00275,2022-05-09,Vendedor,Cusco,M,12.1,3,0,54,1
+A00276,2022-05-09,Vendedor,Cusco,F,2.7,13,0,85,0
+A00277,2022-05-10,Vendedor,Lima,M,2.2,4,1,57,0
+A00278,2022-05-10,Vendedor,Chiclayo,M,2.7,5,1,47,0
+A00279,2022-05-11,Vendedor,Lima,M,3.4,3,1,41,0
+A00280,2022-05-11,Repartidor,Chiclayo,M,11.6,1,1,62,0
+A00281,2022-05-12,Vendedor,Lima,M,5.7,7,1,57,0
+A00282,2022-05-12,Repartidor,Chiclayo,M,2.1,0,1,53,0
+A00283,2022-05-13,Repartidor,Piura,M,1.0,15,0,50,0
+A00284,2022-05-14,Asistente administrativo,Chiclayo,F,7.9,9,0,48,0
+A00285,2022-05-15,Repartidor,Arequipa,M,7.1,5,1,74,0
+A00286,2022-05-15,Vendedor,Cusco,F,3.9,2,0,68,0
+A00287,2022-05-17,Asistente administrativo,Trujillo,F,1.2,18,0,75,0
+A00288,2022-05-17,Repartidor,Trujillo,M,0.6,3,1,50,0
+A00289,2022-05-17,Almacenero,Cusco,M,5.3,5,1,46,0
+A00290,2022-05-18,Almacenero,Arequipa,M,1.1,2,1,50,0
+A00291,2022-05-18,Vendedor,Piura,F,4.8,0,0,85,0
+A00292,2022-05-18,Repartidor,Piura,M,2.9,2,1,49,0
+A00293,2022-05-19,Repartidor,Trujillo,M,1.3,8,0,71,0
+A00294,2022-05-19,Repartidor,Chiclayo,M,2.1,9,1,46,0
+A00295,2022-05-20,Vendedor,Cusco,M,3.1,2,1,41,0
+A00296,2022-05-20,Vendedor,Trujillo,M,3.0,1,0,87,1
+A00297,2022-05-20,Repartidor,Piura,M,8.1,6,1,69,0
+A00298,2022-05-20,Vendedor,Lima,F,8.3,1,0,94,1
+A00299,2022-05-21,Repartidor,Arequipa,M,11.9,2,0,46,0
+A00300,2022-05-21,Almacenero,Chiclayo,M,5.6,3,1,41,0
+A00301,2022-05-21,Almacenero,Cusco,F,2.8,3,1,73,0
+A00302,2022-05-21,Repartidor,Lima,M,2.0,0,0,97,1
+A00303,2022-05-22,Almacenero,Arequipa,M,3.1,4,0,55,0
+A00304,2022-05-22,Repartidor,Lima,M,6.6,2,1,85,1
+A00305,2022-05-22,Vendedor,Lima,F,7.8,1,0,69,0
+A00306,2022-05-22,Repartidor,Chiclayo,M,3.4,0,0,68,0
+A00307,2022-05-22,Repartidor,Cusco,M,7.5,2,0,83,1
+A00308,2022-05-24,Asistente administrativo,Piura,F,2.7,37,1,83,0
+A00309,2022-05-24,Vendedor,Trujillo,F,0.7,5,0,55,0
+A00310,2022-05-25,Repartidor,Lima,M,3.6,9,1,75,0
+A00311,2022-05-25,Repartidor,Lima,M,2.1,3,0,43,0
+A00312,2022-05-25,Almacenero,Cusco,M,2.9,5,0,68,0
+A00313,2022-05-25,Vendedor,Arequipa,M,1.1,3,0,68,0
+A00314,2022-05-26,Repartidor,Piura,M,3.1,1,1,51,0
+A00315,2022-05-26,Asistente administrativo,Lima,M,2.6,1,1,64,0
+A00316,2022-05-26,Vendedor,Lima,M,0.7,2,0,53,0
+A00317,2022-05-26,Asistente administrativo,Arequipa,M,3.1,4,1,55,0
+A00318,2022-05-27,Asistente administrativo,Lima,M,5.8,11,1,72,1
+A00319,2022-05-27,Almacenero,Lima,M,8.3,1,1,67,0
+A00320,2022-05-27,Asistente administrativo,Arequipa,M,3.0,5,1,55,0
+A00321,2022-05-27,Almacenero,Lima,M,1.9,8,1,73,0
+A00322,2022-05-27,Vendedor,Chiclayo,F,3.1,20,0,78,0
+A00323,2022-05-28,Asistente administrativo,Cusco,F,1.5,25,0,59,0
+A00324,2022-05-28,Almacenero,Piura,M,2.6,5,1,50,0
+A00325,2022-05-28,Repartidor,Trujillo,M,4.3,11,1,44,0
+A00326,2022-05-28,Repartidor,Arequipa,M,7.1,2,0,35,0
+A00327,2022-05-29,Vendedor,Trujillo,M,4.3,1,1,53,0
+A00328,2022-05-29,Vendedor,Piura,F,0.7,8,1,76,0
+A00329,2022-05-29,Repartidor,Trujillo,M,5.4,0,1,46,0
+A00330,2022-05-30,Repartidor,Cusco,M,3.8,11,1,68,0
+A00331,2022-05-31,Almacenero,Lima,M,1.8,1,0,69,0
+A00332,2022-06-01,Vendedor,Piura,M,7.3,1,1,83,1
+A00333,2022-06-02,Repartidor,Piura,M,2.5,3,1,60,0
+A00334,2022-06-02,Repartidor,Lima,M,4.6,1,1,82,1
+A00335,2022-06-03,Repartidor,Lima,M,0.2,0,0,71,0
+A00336,2022-06-04,Repartidor,Lima,M,4.2,6,1,56,0
+A00337,2022-06-05,Vendedor,Lima,F,9.8,2,1,47,0
+A00338,2022-06-05,Repartidor,Piura,M,1.6,0,1,60,1
+A00339,2022-06-06,Almacenero,Arequipa,F,6.3,33,1,69,0
+A00340,2022-06-07,Almacenero,Lima,M,6.0,2,0,65,0
+A00341,2022-06-08,Almacenero,Lima,F,3.1,6,0,77,0
+A00342,2022-06-08,Vendedor,Lima,F,1.5,4,1,68,0
+A00343,2022-06-08,Almacenero,Trujillo,M,0.3,15,1,54,0
+A00344,2022-06-08,Repartidor,Piura,M,8.9,1,1,67,1
+A00345,2022-06-09,Vendedor,Cusco,M,3.9,3,1,41,0
+A00346,2022-06-10,Vendedor,Arequipa,M,1.7,1,1,52,0
+A00347,2022-06-10,Repartidor,Arequipa,M,5.6,7,0,71,0
+A00348,2022-06-10,Almacenero,Chiclayo,M,2.2,1,0,43,0
+A00349,2022-06-11,Almacenero,Cusco,M,3.9,1,1,71,1
+A00350,2022-06-12,Vendedor,Lima,M,6.3,9,0,51,1
+A00351,2022-06-12,Vendedor,Piura,F,3.4,3,0,73,0
+A00352,2022-06-12,Vendedor,Arequipa,M,0.8,0,0,81,1
+A00353,2022-06-12,Vendedor,Lima,F,3.7,1,1,65,1
+A00354,2022-06-12,Repartidor,Lima,M,1.5,7,1,90,0
+A00355,2022-06-13,Almacenero,Lima,M,0.9,1,1,64,1
+A00356,2022-06-13,Almacenero,Lima,M,4.2,2,1,76,0
+A00357,2022-06-13,Vendedor,Chiclayo,F,10.0,2,1,25,0
+A00358,2022-06-13,Vendedor,Lima,M,3.5,1,1,90,1
+A00359,2022-06-13,Vendedor,Chiclayo,F,14.2,24,0,72,0
+A00360,2022-06-14,Vendedor,Trujillo,M,2.6,2,0,69,0
+A00361,2022-06-14,Almacenero,Trujillo,M,6.4,10,0,73,0
+A00362,2022-06-14,Almacenero,Lima,M,3.5,1,1,59,1
+A00363,2022-06-15,Vendedor,Piura,F,9.9,9,0,61,0
+A00364,2022-06-15,Vendedor,Lima,F,2.8,19,0,62,0
+A00365,2022-06-15,Vendedor,Piura,M,2.6,3,0,40,0
+A00366,2022-06-16,Vendedor,Cusco,F,3.1,2,0,58,0
+A00367,2022-06-17,Vendedor,Trujillo,M,3.2,8,1,61,0
+A00368,2022-06-17,Vendedor,Piura,M,3.8,2,1,79,1
+A00369,2022-06-17,Repartidor,Arequipa,M,3.0,8,0,67,1
+A00370,2022-06-18,Asistente administrativo,Lima,M,9.9,1,1,67,1
+A00371,2022-06-18,Repartidor,Lima,M,3.0,5,1,63,0
+A00372,2022-06-18,Vendedor,Lima,F,2.3,11,1,64,1
+A00373,2022-06-18,Asistente administrativo,Lima,F,5.3,35,0,57,0
+A00374,2022-06-18,Asistente administrativo,Arequipa,F,5.9,27,0,59,0
+A00375,2022-06-19,Repartidor,Piura,M,5.3,0,1,37,0
+A00376,2022-06-19,Vendedor,Lima,F,5.2,48,0,73,0
+A00377,2022-06-20,Vendedor,Cusco,M,3.2,6,1,61,1
+A00378,2022-06-20,Asistente administrativo,Arequipa,M,4.7,0,1,57,0
+A00379,2022-06-20,Vendedor,Arequipa,M,1.4,2,1,66,0
+A00380,2022-06-20,Repartidor,Arequipa,F,3.1,28,0,69,0
+A00381,2022-06-20,Asistente administrativo,Lima,M,6.3,11,0,71,0
+A00382,2022-06-21,Vendedor,Chiclayo,F,6.0,1,0,53,0
+A00383,2022-06-21,Repartidor,Cusco,F,2.9,8,0,49,0
+A00384,2022-06-22,Almacenero,Lima,M,7.5,1,1,41,0
+A00385,2022-06-22,Repartidor,Chiclayo,M,3.7,6,1,97,1
+A00386,2022-06-23,Vendedor,Arequipa,M,2.7,2,1,58,0
+A00387,2022-06-23,Almacenero,Lima,M,10.5,5,0,76,1
+A00388,2022-06-23,Almacenero,Chiclayo,M,8.5,1,0,43,0
+A00389,2022-06-25,Repartidor,Trujillo,M,4.4,1,0,43,0
+A00390,2022-06-26,Vendedor,Lima,M,2.0,2,1,68,0
+A00391,2022-06-26,Repartidor,Chiclayo,M,7.3,3,0,58,0
+A00392,2022-06-26,Almacenero,Lima,M,3.7,3,1,60,1
+A00393,2022-06-29,Vendedor,Trujillo,F,1.9,0,0,54,0
+A00394,2022-06-29,Asistente administrativo,Trujillo,M,1.6,4,0,57,0
+A00395,2022-06-29,Vendedor,Lima,F,1.0,25,1,43,0
+A00396,2022-06-30,Vendedor,Lima,F,1.0,2,1,51,0
+A00397,2022-06-30,Asistente administrativo,Lima,F,0.6,7,1,45,1
+A00398,2022-06-30,Almacenero,Chiclayo,F,0.9,2,0,55,0
+A00399,2022-06-30,Asistente administrativo,Cusco,M,4.5,4,0,64,0
+A00400,2022-07-03,Repartidor,Lima,F,0.9,32,1,64,0
+A00401,2022-07-03,Almacenero,Trujillo,M,4.7,2,1,63,1
+A00402,2022-07-03,Vendedor,Piura,F,14.4,25,0,76,1
+A00403,2022-07-05,Almacenero,Chiclayo,M,13.9,3,1,44,1
+A00404,2022-07-05,Repartidor,Cusco,M,4.8,8,0,86,0
+A00405,2022-07-05,Repartidor,Arequipa,M,2.1,5,0,66,0
+A00406,2022-07-05,Vendedor,Lima,F,4.9,16,0,41,0
+A00407,2022-07-06,Vendedor,Trujillo,F,3.1,12,1,66,0
+A00408,2022-07-08,Repartidor,Cusco,M,1.7,1,1,67,0
+A00409,2022-07-08,Vendedor,Arequipa,M,4.6,1,1,62,1
+A00410,2022-07-09,Vendedor,Lima,M,4.9,9,1,77,0
+A00411,2022-07-10,Almacenero,Piura,M,11.6,2,1,56,1
+A00412,2022-07-10,Vendedor,Chiclayo,M,2.1,0,1,69,1
+A00413,2022-07-10,Vendedor,Lima,M,5.1,3,1,62,0
+A00414,2022-07-11,Vendedor,Trujillo,M,3.3,1,1,58,0
+A00415,2022-07-11,Asistente administrativo,Trujillo,F,4.9,42,1,73,1
+A00416,2022-07-11,Vendedor,Piura,M,2.6,3,0,63,0
+A00417,2022-07-13,Repartidor,Trujillo,M,7.8,11,1,73,0
+A00418,2022-07-13,Vendedor,Trujillo,M,3.8,3,1,70,0
+A00419,2022-07-14,Vendedor,Piura,M,5.7,1,1,62,1
+A00420,2022-07-14,Repartidor,Piura,M,3.3,10,0,55,0
+A00421,2022-07-14,Almacenero,Trujillo,M,2.6,1,1,77,1
+A00422,2022-07-14,Repartidor,Lima,M,0.3,7,0,52,0
+A00423,2022-07-15,Vendedor,Trujillo,M,3.3,4,0,63,0
+A00424,2022-07-15,Vendedor,Piura,M,6.9,1,1,55,0
+A00425,2022-07-16,Repartidor,Cusco,M,4.8,1,1,56,1
+A00426,2022-07-16,Asistente administrativo,Chiclayo,F,1.1,12,0,61,0
+A00427,2022-07-16,Almacenero,Lima,M,8.0,0,1,45,0
+A00428,2022-07-17,Repartidor,Arequipa,F,4.9,2,0,48,0
+A00429,2022-07-18,Almacenero,Arequipa,F,2.8,70,0,95,0
+A00430,2022-07-19,Repartidor,Chiclayo,M,2.5,0,1,62,0
+A00431,2022-07-19,Vendedor,Lima,F,4.4,6,0,74,0
+A00432,2022-07-19,Vendedor,Cusco,F,1.1,2,0,75,1
+A00433,2022-07-20,Asistente administrativo,Lima,F,4.1,18,0,45,0
+A00434,2022-07-20,Repartidor,Lima,M,0.7,6,0,74,0
+A00435,2022-07-21,Vendedor,Chiclayo,F,2.4,19,1,70,1
+A00436,2022-07-22,Vendedor,Lima,M,2.9,0,1,61,0
+A00437,2022-07-22,Repartidor,Trujillo,M,4.1,6,1,60,0
+A00438,2022-07-23,Vendedor,Piura,F,2.3,6,1,68,0
+A00439,2022-07-23,Vendedor,Trujillo,F,3.7,3,0,91,0
+A00440,2022-07-23,Almacenero,Trujillo,F,0.6,2,1,63,1
+A00441,2022-07-23,Asistente administrativo,Trujillo,F,1.3,4,0,54,0
+A00442,2022-07-23,Vendedor,Lima,M,1.8,13,0,73,0
+A00443,2022-07-24,Almacenero,Trujillo,M,5.1,2,0,64,0
+A00444,2022-07-24,Repartidor,Piura,M,5.7,16,1,57,0
+A00445,2022-07-25,Almacenero,Piura,M,2.7,24,1,68,0
+A00446,2022-07-25,Almacenero,Arequipa,M,3.4,1,1,78,1
+A00447,2022-07-27,Repartidor,Lima,M,1.8,1,1,67,1
+A00448,2022-07-27,Repartidor,Lima,M,6.0,3,1,86,1
+A00449,2022-07-28,Vendedor,Lima,F,4.1,27,0,72,0
+A00450,2022-07-28,Asistente administrativo,Cusco,F,2.2,13,1,65,0
+A00451,2022-07-28,Vendedor,Chiclayo,M,5.4,3,1,63,0
+A00452,2022-07-28,Almacenero,Arequipa,M,3.2,0,1,89,1
+A00453,2022-07-29,Almacenero,Lima,M,9.0,3,1,71,1
+A00454,2022-07-29,Vendedor,Lima,F,5.2,2,0,54,0
+A00455,2022-07-29,Almacenero,Trujillo,M,5.7,2,1,84,0
+A00456,2022-07-29,Asistente administrativo,Trujillo,F,3.7,22,1,77,1
+A00457,2022-07-31,Vendedor,Arequipa,F,5.1,7,1,72,0
+A00458,2022-07-31,Repartidor,Trujillo,M,3.0,7,1,81,0
+A00459,2022-07-31,Vendedor,Lima,F,3.4,3,0,49,0
+A00460,2022-08-02,Vendedor,Piura,M,5.6,4,1,67,1
+A00461,2022-08-02,Almacenero,Chiclayo,M,0.9,16,1,65,0
+A00462,2022-08-02,Almacenero,Cusco,M,6.1,0,0,62,1
+A00463,2022-08-02,Almacenero,Trujillo,M,6.1,2,1,52,0
+A00464,2022-08-03,Almacenero,Lima,F,6.6,1,0,65,0
+A00465,2022-08-03,Almacenero,Lima,M,1.3,0,1,78,0
+A00466,2022-08-04,Vendedor,Cusco,M,2.0,0,1,46,0
+A00467,2022-08-05,Almacenero,Cusco,M,1.2,4,1,87,0
+A00468,2022-08-05,Almacenero,Cusco,M,0.7,9,1,46,0
+A00469,2022-08-06,Vendedor,Chiclayo,F,6.7,6,1,66,0
+A00470,2022-08-06,Almacenero,Trujillo,M,0.6,6,1,60,0
+A00471,2022-08-08,Almacenero,Trujillo,M,1.7,5,1,55,0
+A00472,2022-08-09,Vendedor,Lima,F,7.6,5,0,81,0
+A00473,2022-08-10,Repartidor,Piura,M,1.8,6,1,67,0
+A00474,2022-08-10,Asistente administrativo,Lima,M,1.0,4,1,85,1
+A00475,2022-08-10,Repartidor,Chiclayo,M,10.7,12,1,68,0
+A00476,2022-08-11,Repartidor,Chiclayo,M,2.5,3,0,64,1
+A00477,2022-08-12,Vendedor,Lima,F,5.5,14,1,56,0
+A00478,2022-08-12,Almacenero,Lima,M,3.3,5,0,41,0
+A00479,2022-08-12,Repartidor,Cusco,M,4.4,0,1,61,0
+A00480,2022-08-13,Asistente administrativo,Trujillo,F,1.8,7,0,61,1
+A00481,2022-08-15,Vendedor,Lima,F,3.2,17,0,55,0
+A00482,2022-08-15,Asistente administrativo,Chiclayo,F,3.5,28,0,62,0
+A00483,2022-08-16,Vendedor,Arequipa,M,1.8,5,1,55,0
+A00484,2022-08-16,Asistente administrativo,Lima,F,5.9,20,0,37,0
+A00485,2022-08-16,Vendedor,Arequipa,F,1.3,3,1,62,0
+A00486,2022-08-16,Vendedor,Trujillo,F,1.1,12,0,69,0
+A00487,2022-08-17,Almacenero,Trujillo,M,1.2,4,0,53,0
+A00488,2022-08-17,Repartidor,Cusco,M,6.1,2,1,59,1
+A00489,2022-08-18,Almacenero,Lima,M,2.4,3,1,71,0
+A00490,2022-08-18,Vendedor,Lima,M,0.8,6,0,47,0
+A00491,2022-08-18,Vendedor,Lima,M,3.1,5,1,35,0
+A00492,2022-08-18,Almacenero,Lima,M,2.1,3,0,53,0
+A00493,2022-08-19,Vendedor,Lima,M,8.8,2,1,42,1
+A00494,2022-08-19,Vendedor,Trujillo,F,4.8,19,1,85,1
+A00495,2022-08-19,Vendedor,Lima,F,0.6,3,0,73,0
+A00496,2022-08-20,Almacenero,Lima,M,8.1,0,0,70,0
+A00497,2022-08-21,Vendedor,Lima,M,0.8,1,0,59,0
+A00498,2022-08-21,Vendedor,Arequipa,M,2.0,3,1,40,0
+A00499,2022-08-21,Asistente administrativo,Lima,M,8.6,9,1,58,0
+A00500,2022-08-22,Vendedor,Lima,F,1.3,19,0,53,0
+A00501,2022-08-22,Repartidor,Chiclayo,M,1.9,0,1,94,0
+A00502,2022-08-22,Repartidor,Trujillo,M,7.5,1,0,59,0
+A00503,2022-08-22,Almacenero,Chiclayo,F,1.4,12,0,46,0
+A00504,2022-08-23,Repartidor,Cusco,M,1.0,2,0,72,0
+A00505,2022-08-23,Repartidor,Lima,M,3.5,4,1,85,1
+A00506,2022-08-24,Asistente administrativo,Trujillo,F,4.0,32,1,47,0
+A00507,2022-08-24,Almacenero,Lima,M,5.8,4,0,66,0
+A00508,2022-08-24,Almacenero,Chiclayo,M,18.1,5,1,50,0
+A00509,2022-08-25,Vendedor,Lima,F,2.6,28,1,63,0
+A00510,2022-08-25,Vendedor,Trujillo,F,4.9,13,0,80,0
+A00511,2022-08-25,Almacenero,Trujillo,F,0.7,28,0,75,0
+A00512,2022-08-26,Almacenero,Lima,M,2.7,2,1,61,0
+A00513,2022-08-26,Almacenero,Piura,M,3.4,3,1,54,0
+A00514,2022-08-26,Vendedor,Lima,M,1.2,2,1,31,0
+A00515,2022-08-26,Vendedor,Piura,M,6.5,2,0,65,0
+A00516,2022-08-26,Almacenero,Lima,M,1.5,5,1,78,0
+A00517,2022-08-26,Repartidor,Lima,M,5.8,5,1,62,1
+A00518,2022-08-26,Repartidor,Lima,M,6.4,2,1,69,1
+A00519,2022-08-27,Vendedor,Trujillo,M,12.0,6,1,44,0
+A00520,2022-08-27,Almacenero,Lima,M,0.9,4,1,44,0
+A00521,2022-08-27,Repartidor,Lima,M,1.3,9,1,80,0
+A00522,2022-08-28,Vendedor,Lima,F,3.5,15,0,87,1
+A00523,2022-08-29,Vendedor,Arequipa,M,3.5,1,1,67,0
+A00524,2022-08-30,Vendedor,Arequipa,F,3.0,3,0,49,0
+A00525,2022-08-30,Asistente administrativo,Piura,M,5.1,0,1,60,0
+A00526,2022-08-31,Almacenero,Arequipa,F,8.3,17,0,62,0
+A00527,2022-09-01,Repartidor,Piura,M,1.1,7,1,66,0
+A00528,2022-09-01,Almacenero,Trujillo,F,1.9,27,0,30,0
+A00529,2022-09-02,Asistente administrativo,Chiclayo,M,8.3,11,1,55,0
+A00530,2022-09-02,Repartidor,Lima,M,1.3,5,1,60,0
+A00531,2022-09-02,Vendedor,Trujillo,M,6.2,7,1,44,0
+A00532,2022-09-03,Almacenero,Lima,M,5.1,1,1,59,1
+A00533,2022-09-03,Vendedor,Lima,F,1.1,3,0,54,0
+A00534,2022-09-04,Almacenero,Trujillo,M,11.5,1,0,85,1
+A00535,2022-09-05,Almacenero,Cusco,M,1.9,6,0,35,0
+A00536,2022-09-05,Repartidor,Lima,M,3.5,4,1,42,0
+A00537,2022-09-05,Repartidor,Lima,M,9.5,9,0,72,1
+A00538,2022-09-06,Repartidor,Lima,M,2.8,1,1,67,0
+A00539,2022-09-06,Almacenero,Arequipa,F,3.7,5,1,72,1
+A00540,2022-09-07,Almacenero,Arequipa,M,9.0,1,1,43,0
+A00541,2022-09-07,Repartidor,Chiclayo,M,5.4,2,1,42,0
+A00542,2022-09-09,Vendedor,Chiclayo,F,8.1,7,0,52,0
+A00543,2022-09-10,Almacenero,Lima,M,6.7,4,1,57,0
+A00544,2022-09-10,Vendedor,Cusco,M,6.5,0,1,50,0
+A00545,2022-09-11,Vendedor,Lima,M,8.4,3,0,69,0
+A00546,2022-09-11,Almacenero,Piura,F,7.2,10,0,81,0
+A00547,2022-09-11,Almacenero,Lima,M,6.6,2,1,61,1
+A00548,2022-09-11,Almacenero,Cusco,M,9.5,1,1,100,1
+A00549,2022-09-11,Asistente administrativo,Arequipa,F,10.3,32,0,52,0
+A00550,2022-09-11,Vendedor,Piura,F,2.1,22,0,63,0
+A00551,2022-09-12,Vendedor,Trujillo,M,2.2,0,1,57,0
+A00552,2022-09-12,Vendedor,Trujillo,M,2.1,2,0,78,0
+A00553,2022-09-12,Vendedor,Lima,M,3.2,5,0,54,0
+A00554,2022-09-12,Almacenero,Trujillo,F,2.4,18,1,61,0
+A00555,2022-09-13,Vendedor,Arequipa,M,1.2,13,1,73,0
+A00556,2022-09-14,Asistente administrativo,Cusco,F,2.6,10,1,44,0
+A00557,2022-09-14,Repartidor,Piura,M,7.4,7,1,49,0
+A00558,2022-09-15,Vendedor,Arequipa,F,2.3,21,1,79,1
+A00559,2022-09-15,Asistente administrativo,Lima,F,0.5,15,0,74,0
+A00560,2022-09-16,Asistente administrativo,Lima,M,5.2,6,1,54,0
+A00561,2022-09-17,Almacenero,Lima,M,3.5,5,1,42,0
+A00562,2022-09-17,Vendedor,Cusco,F,4.7,5,1,72,0
+A00563,2022-09-17,Vendedor,Lima,M,9.3,0,0,61,0
+A00564,2022-09-18,Vendedor,Piura,M,2.5,7,1,45,1
+A00565,2022-09-18,Almacenero,Cusco,M,3.2,1,0,69,0
+A00566,2022-09-19,Asistente administrativo,Arequipa,F,3.5,31,1,65,0
+A00567,2022-09-19,Almacenero,Cusco,F,2.1,11,0,43,0
+A00568,2022-09-19,Almacenero,Lima,M,7.3,1,1,50,0
+A00569,2022-09-19,Asistente administrativo,Trujillo,M,1.5,1,1,67,0
+A00570,2022-09-20,Repartidor,Lima,M,1.9,1,1,78,1
+A00571,2022-09-20,Repartidor,Cusco,M,1.6,2,0,53,0
+A00572,2022-09-20,Repartidor,Chiclayo,F,3.4,26,0,57,0
+A00573,2022-09-21,Asistente administrativo,Trujillo,M,1.0,4,1,57,1
+A00574,2022-09-22,Vendedor,Lima,F,0.9,23,0,68,0
+A00575,2022-09-22,Repartidor,Arequipa,M,5.4,2,0,78,1
+A00576,2022-09-22,Almacenero,Cusco,F,0.7,9,0,51,0
+A00577,2022-09-22,Repartidor,Lima,M,4.7,2,1,70,1
+A00578,2022-09-23,Repartidor,Cusco,F,8.2,11,0,58,0
+A00579,2022-09-23,Repartidor,Piura,M,9.1,0,1,64,1
+A00580,2022-09-23,Vendedor,Cusco,M,6.9,2,1,53,1
+A00581,2022-09-23,Vendedor,Trujillo,F,1.1,12,0,58,0
+A00582,2022-09-24,Almacenero,Lima,M,1.5,0,1,100,1
+A00583,2022-09-24,Repartidor,Arequipa,M,4.3,1,1,62,0
+A00584,2022-09-24,Almacenero,Lima,M,1.1,12,1,83,1
+A00585,2022-09-25,Almacenero,Lima,M,6.7,0,1,60,0
+A00586,2022-09-26,Almacenero,Cusco,M,5.8,5,1,62,1
+A00587,2022-09-27,Repartidor,Lima,M,4.8,1,1,96,1
+A00588,2022-09-28,Almacenero,Lima,F,5.7,3,0,60,1
+A00589,2022-09-28,Almacenero,Cusco,F,2.3,2,1,51,0
+A00590,2022-09-28,Almacenero,Lima,M,5.5,1,1,54,0
+A00591,2022-09-28,Repartidor,Lima,M,0.4,1,1,66,0
+A00592,2022-09-28,Almacenero,Lima,M,1.5,3,0,70,0
+A00593,2022-09-28,Asistente administrativo,Arequipa,F,9.8,9,0,82,0
+A00594,2022-09-29,Repartidor,Cusco,M,10.6,0,1,47,0
+A00595,2022-09-29,Repartidor,Arequipa,M,2.2,3,0,70,0
+A00596,2022-09-29,Vendedor,Lima,F,1.7,24,0,60,0
+A00597,2022-09-30,Almacenero,Piura,M,1.9,1,1,56,1
+A00598,2022-09-30,Repartidor,Arequipa,F,3.6,6,1,69,1
+A00599,2022-10-01,Asistente administrativo,Cusco,F,0.4,0,1,58,1
+A00600,2022-10-01,Repartidor,Lima,M,3.1,1,1,49,0
+A00601,2022-10-01,Vendedor,Cusco,F,1.0,53,0,83,0
+A00602,2022-10-01,Almacenero,Lima,M,0.8,3,1,87,0
+A00603,2022-10-01,Repartidor,Piura,M,3.9,5,1,69,1
+A00604,2022-10-02,Asistente administrativo,Arequipa,M,0.9,8,1,65,1
+A00605,2022-10-02,Almacenero,Arequipa,M,1.3,1,1,63,1
+A00606,2022-10-04,Vendedor,Arequipa,M,1.9,2,1,55,0
+A00607,2022-10-04,Asistente administrativo,Lima,M,4.2,4,1,51,0
+A00608,2022-10-05,Almacenero,Lima,M,2.9,0,1,80,1
+A00609,2022-10-05,Asistente administrativo,Trujillo,M,2.9,3,1,65,0
+A00610,2022-10-05,Asistente administrativo,Lima,F,3.0,12,0,48,0
+A00611,2022-10-05,Asistente administrativo,Chiclayo,F,0.6,1,0,61,0
+A00612,2022-10-06,Repartidor,Chiclayo,M,0.5,0,1,50,0
+A00613,2022-10-06,Almacenero,Lima,M,1.0,3,1,17,0
+A00614,2022-10-07,Almacenero,Trujillo,M,3.9,0,0,57,0
+A00615,2022-10-08,Vendedor,Trujillo,F,2.7,35,0,74,0
+A00616,2022-10-09,Almacenero,Lima,M,1.6,9,1,70,0
+A00617,2022-10-09,Almacenero,Lima,F,5.6,8,0,68,0
+A00618,2022-10-09,Vendedor,Lima,M,6.3,0,1,79,0
+A00619,2022-10-10,Almacenero,Lima,F,4.2,0,0,40,0
+A00620,2022-10-10,Vendedor,Lima,F,8.1,16,1,61,1
+A00621,2022-10-10,Almacenero,Chiclayo,F,3.0,14,1,82,0
+A00622,2022-10-11,Asistente administrativo,Piura,F,0.8,24,1,38,0
+A00623,2022-10-11,Repartidor,Piura,M,3.4,2,0,64,1
+A00624,2022-10-11,Asistente administrativo,Lima,M,1.3,8,0,71,0
+A00625,2022-10-12,Vendedor,Cusco,F,7.1,1,0,68,0
+A00626,2022-10-12,Almacenero,Chiclayo,M,10.6,3,1,44,0
+A00627,2022-10-13,Repartidor,Cusco,M,2.6,6,0,44,0
+A00628,2022-10-14,Repartidor,Chiclayo,M,3.6,1,1,44,0
+A00629,2022-10-14,Almacenero,Arequipa,M,4.6,0,1,77,1
+A00630,2022-10-14,Vendedor,Lima,F,2.6,25,1,81,0
+A00631,2022-10-14,Vendedor,Lima,M,2.9,1,1,73,1
+A00632,2022-10-14,Repartidor,Lima,M,2.6,6,1,46,0
+A00633,2022-10-15,Almacenero,Lima,M,2.9,4,0,41,0
+A00634,2022-10-16,Asistente administrativo,Lima,F,0.6,33,0,58,0
+A00635,2022-10-16,Repartidor,Lima,M,1.2,1,1,50,0
+A00636,2022-10-16,Asistente administrativo,Chiclayo,F,1.2,21,0,48,0
+A00637,2022-10-17,Almacenero,Lima,M,1.8,4,0,73,0
+A00638,2022-10-17,Vendedor,Cusco,F,9.1,2,1,45,0
+A00639,2022-10-17,Vendedor,Arequipa,M,2.4,1,0,68,0
+A00640,2022-10-18,Repartidor,Lima,M,4.0,0,0,57,0
+A00641,2022-10-19,Almacenero,Chiclayo,M,3.5,2,1,55,1
+A00642,2022-10-20,Vendedor,Lima,F,4.7,10,0,36,0
+A00643,2022-10-20,Almacenero,Piura,M,0.9,2,1,76,1
+A00644,2022-10-20,Repartidor,Lima,F,5.5,38,0,69,0
+A00645,2022-10-21,Asistente administrativo,Trujillo,F,1.5,16,0,44,0
+A00646,2022-10-21,Vendedor,Piura,M,3.4,0,1,62,0
+A00647,2022-10-21,Vendedor,Arequipa,M,1.1,18,1,69,0
+A00648,2022-10-21,Vendedor,Lima,M,4.0,1,1,41,0
+A00649,2022-10-22,Repartidor,Trujillo,F,8.4,3,0,62,0
+A00650,2022-10-23,Vendedor,Chiclayo,F,0.8,35,0,72,0
+A00651,2022-10-24,Vendedor,Piura,F,3.6,4,0,48,0
+A00652,2022-10-24,Asistente administrativo,Lima,M,8.0,0,1,87,1
+A00653,2022-10-25,Vendedor,Lima,M,2.1,2,1,47,0
+A00654,2022-10-25,Repartidor,Piura,M,3.3,10,0,69,1
+A00655,2022-10-25,Almacenero,Trujillo,M,5.4,29,1,40,0
+A00656,2022-10-26,Repartidor,Trujillo,F,0.4,47,0,67,0
+A00657,2022-10-26,Vendedor,Chiclayo,M,2.9,3,1,65,1
+A00658,2022-10-27,Vendedor,Lima,F,5.9,19,1,49,0
+A00659,2022-10-27,Vendedor,Lima,F,1.0,7,1,76,0
+A00660,2022-10-27,Vendedor,Piura,M,7.9,2,1,60,0
+A00661,2022-10-27,Almacenero,Arequipa,M,8.8,11,0,72,0
+A00662,2022-10-28,Repartidor,Cusco,M,1.2,3,1,49,0
+A00663,2022-10-29,Vendedor,Trujillo,F,4.4,51,0,82,0
+A00664,2022-10-29,Almacenero,Chiclayo,F,0.9,5,0,69,0
+A00665,2022-10-29,Vendedor,Arequipa,M,5.8,1,0,100,0
+A00666,2022-10-30,Almacenero,Lima,F,6.6,0,0,72,0
+A00667,2022-10-30,Asistente administrativo,Chiclayo,M,1.9,2,0,72,0
+A00668,2022-10-30,Vendedor,Cusco,M,0.3,1,1,53,1
+A00669,2022-10-31,Vendedor,Arequipa,F,2.3,37,0,79,0
+A00670,2022-10-31,Repartidor,Arequipa,M,3.4,8,1,49,0
+A00671,2022-10-31,Vendedor,Arequipa,F,2.7,4,0,49,0
+A00672,2022-11-02,Almacenero,Lima,M,2.1,6,0,82,0
+A00673,2022-11-02,Repartidor,Lima,M,3.9,8,1,78,0
+A00674,2022-11-03,Repartidor,Arequipa,F,2.3,0,0,69,0
+A00675,2022-11-04,Asistente administrativo,Arequipa,M,1.9,7,0,45,0
+A00676,2022-11-04,Repartidor,Lima,M,3.9,2,0,39,0
+A00677,2022-11-05,Asistente administrativo,Lima,F,1.5,9,1,55,0
+A00678,2022-11-05,Asistente administrativo,Lima,M,3.0,8,1,95,1
+A00679,2022-11-05,Asistente administrativo,Piura,M,13.9,3,1,80,0
+A00680,2022-11-05,Vendedor,Lima,M,1.0,15,0,48,0
+A00681,2022-11-05,Asistente administrativo,Cusco,M,3.6,5,1,40,0
+A00682,2022-11-06,Repartidor,Arequipa,M,2.9,3,0,50,0
+A00683,2022-11-06,Vendedor,Lima,M,5.2,4,0,70,0
+A00684,2022-11-07,Asistente administrativo,Trujillo,F,4.8,20,1,51,0
+A00685,2022-11-07,Vendedor,Chiclayo,F,4.7,57,0,48,0
+A00686,2022-11-07,Asistente administrativo,Lima,M,5.1,4,1,84,1
+A00687,2022-11-07,Repartidor,Chiclayo,M,2.2,9,1,65,0
+A00688,2022-11-07,Asistente administrativo,Lima,M,3.2,3,1,60,0
+A00689,2022-11-08,Asistente administrativo,Cusco,F,3.4,2,0,54,0
+A00690,2022-11-10,Almacenero,Chiclayo,M,7.9,3,1,48,0
+A00691,2022-11-10,Almacenero,Lima,M,3.4,4,1,88,1
+A00692,2022-11-11,Asistente administrativo,Lima,M,1.6,3,1,54,0
+A00693,2022-11-12,Vendedor,Lima,M,4.3,2,1,44,1
+A00694,2022-11-12,Repartidor,Cusco,M,1.1,4,1,44,0
+A00695,2022-11-12,Vendedor,Lima,M,8.7,6,1,70,1
+A00696,2022-11-13,Repartidor,Lima,M,4.5,0,0,66,0
+A00697,2022-11-14,Almacenero,Cusco,M,14.5,1,1,86,0
+A00698,2022-11-14,Asistente administrativo,Lima,F,8.6,96,0,28,0
+A00699,2022-11-15,Almacenero,Piura,M,4.4,14,0,60,0
+A00700,2022-11-16,Asistente administrativo,Lima,M,5.7,2,0,79,0
+A00701,2022-11-16,Asistente administrativo,Lima,F,7.6,8,0,37,0
+A00702,2022-11-16,Vendedor,Trujillo,M,7.4,2,1,53,1
+A00703,2022-11-17,Almacenero,Lima,M,2.3,16,1,32,0
+A00704,2022-11-17,Repartidor,Lima,M,1.1,1,1,56,0
+A00705,2022-11-18,Vendedor,Chiclayo,F,2.0,18,0,69,0
+A00706,2022-11-19,Repartidor,Arequipa,M,1.3,2,0,51,0
+A00707,2022-11-19,Repartidor,Arequipa,M,6.0,0,1,51,0
+A00708,2022-11-19,Asistente administrativo,Piura,M,1.9,1,1,61,0
+A00709,2022-11-20,Vendedor,Chiclayo,M,7.5,5,1,50,0
+A00710,2022-11-20,Asistente administrativo,Chiclayo,M,3.8,15,1,50,0
+A00711,2022-11-20,Repartidor,Arequipa,M,1.0,4,1,60,0
+A00712,2022-11-20,Asistente administrativo,Piura,M,2.1,4,1,65,1
+A00713,2022-11-20,Vendedor,Lima,M,9.8,5,1,76,1
+A00714,2022-11-21,Vendedor,Cusco,F,0.5,6,1,67,0
+A00715,2022-11-21,Repartidor,Lima,M,6.8,4,1,86,1
+A00716,2022-11-21,Vendedor,Lima,M,4.4,6,1,54,1
+A00717,2022-11-21,Asistente administrativo,Cusco,F,15.1,25,0,72,1
+A00718,2022-11-22,Vendedor,Lima,M,5.9,2,1,76,0
+A00719,2022-11-22,Vendedor,Lima,M,7.7,19,1,57,0
+A00720,2022-11-23,Almacenero,Trujillo,M,9.5,0,0,39,0
+A00721,2022-11-24,Vendedor,Lima,F,2.5,4,0,66,0
+A00722,2022-11-25,Asistente administrativo,Piura,M,8.9,17,1,50,1
+A00723,2022-11-26,Repartidor,Trujillo,M,2.0,2,1,71,0
+A00724,2022-11-26,Vendedor,Arequipa,M,3.4,5,1,36,0
+A00725,2022-11-28,Vendedor,Lima,F,9.1,11,0,79,0
+A00726,2022-11-28,Vendedor,Lima,M,3.1,1,1,78,1
+A00727,2022-11-29,Repartidor,Chiclayo,M,5.3,3,1,29,0
+A00728,2022-11-30,Repartidor,Trujillo,M,5.1,3,0,75,1
+A00729,2022-11-30,Asistente administrativo,Lima,M,2.3,7,1,37,0
+A00730,2022-12-01,Repartidor,Arequipa,M,1.7,0,1,64,1
+A00731,2022-12-02,Asistente administrativo,Lima,M,9.1,2,1,88,1
+A00732,2022-12-04,Vendedor,Piura,F,7.7,9,0,64,0
+A00733,2022-12-04,Repartidor,Lima,M,8.0,9,1,96,1
+A00734,2022-12-04,Almacenero,Cusco,M,1.8,10,1,60,0
+A00735,2022-12-05,Vendedor,Lima,F,6.8,4,0,76,1
+A00736,2022-12-05,Repartidor,Trujillo,M,5.3,0,1,73,0
+A00737,2022-12-05,Repartidor,Lima,M,3.0,0,0,83,0
+A00738,2022-12-06,Asistente administrativo,Cusco,F,7.0,4,0,54,1
+A00739,2022-12-06,Vendedor,Lima,M,7.1,11,0,55,0
+A00740,2022-12-07,Asistente administrativo,Lima,F,2.2,4,1,49,1
+A00741,2022-12-07,Almacenero,Piura,M,5.0,3,1,63,0
+A00742,2022-12-07,Almacenero,Piura,M,2.3,3,1,52,0
+A00743,2022-12-08,Asistente administrativo,Arequipa,F,2.1,4,1,63,0
+A00744,2022-12-09,Almacenero,Cusco,M,0.9,1,1,54,0
+A00745,2022-12-09,Repartidor,Lima,M,0.7,9,0,57,1
+A00746,2022-12-10,Almacenero,Chiclayo,F,1.0,10,0,40,0
+A00747,2022-12-11,Vendedor,Arequipa,M,1.8,6,1,53,0
+A00748,2022-12-11,Almacenero,Arequipa,M,6.5,1,0,61,0
+A00749,2022-12-11,Vendedor,Lima,F,1.4,18,0,65,0
+A00750,2022-12-11,Repartidor,Arequipa,M,2.5,2,1,82,0
+A00751,2022-12-13,Almacenero,Trujillo,M,8.4,1,1,74,0
+A00752,2022-12-13,Vendedor,Trujillo,M,2.3,1,0,54,1
+A00753,2022-12-13,Repartidor,Arequipa,M,5.2,1,1,67,0
+A00754,2022-12-14,Repartidor,Cusco,M,9.1,0,0,70,0
+A00755,2022-12-15,Repartidor,Lima,M,7.5,12,0,65,1
+A00756,2022-12-15,Repartidor,Arequipa,M,7.6,1,1,41,0
+A00757,2022-12-16,Almacenero,Cusco,M,11.0,14,1,55,1
+A00758,2022-12-16,Almacenero,Trujillo,F,5.7,0,0,63,0
+A00759,2022-12-17,Almacenero,Lima,F,9.1,2,0,66,1
+A00760,2022-12-17,Almacenero,Lima,F,4.5,18,0,39,0
+A00761,2022-12-17,Asistente administrativo,Lima,M,2.6,1,1,51,0
+A00762,2022-12-17,Vendedor,Piura,M,11.2,2,1,58,1
+A00763,2022-12-17,Vendedor,Trujillo,M,3.1,0,1,58,0
+A00764,2022-12-17,Repartidor,Chiclayo,M,9.7,6,1,60,0
+A00765,2022-12-17,Almacenero,Lima,M,2.6,3,1,54,0
+A00766,2022-12-18,Vendedor,Arequipa,M,1.8,9,1,51,0
+A00767,2022-12-18,Repartidor,Arequipa,M,0.6,2,0,75,0
+A00768,2022-12-18,Almacenero,Chiclayo,M,5.3,1,1,77,1
+A00769,2022-12-19,Almacenero,Lima,M,7.1,6,0,82,1
+A00770,2022-12-20,Almacenero,Arequipa,F,5.4,6,0,75,0
+A00771,2022-12-20,Almacenero,Trujillo,M,2.3,2,1,79,1
+A00772,2022-12-20,Almacenero,Chiclayo,M,4.8,8,1,59,0
+A00773,2022-12-21,Repartidor,Lima,M,0.9,0,0,76,0
+A00774,2022-12-21,Vendedor,Lima,F,5.3,31,0,34,0
+A00775,2022-12-22,Almacenero,Arequipa,M,0.9,0,1,50,0
+A00776,2022-12-22,Repartidor,Lima,M,3.9,10,0,48,0
+A00777,2022-12-22,Vendedor,Arequipa,M,1.7,2,1,73,1
+A00778,2022-12-22,Repartidor,Arequipa,M,2.2,2,1,50,0
+A00779,2022-12-22,Asistente administrativo,Lima,M,0.8,2,1,64,0
+A00780,2022-12-22,Vendedor,Lima,F,11.9,2,1,58,1
+A00781,2022-12-22,Asistente administrativo,Chiclayo,M,0.9,2,1,47,0
+A00782,2022-12-23,Vendedor,Arequipa,F,3.3,3,1,78,0
+A00783,2022-12-23,Vendedor,Trujillo,F,3.5,62,1,65,0
+A00784,2022-12-23,Almacenero,Lima,M,4.2,5,1,58,0
+A00785,2022-12-24,Asistente administrativo,Cusco,M,4.2,3,1,72,1
+A00786,2022-12-24,Vendedor,Lima,M,4.5,5,1,55,0
+A00787,2022-12-25,Almacenero,Trujillo,M,7.3,3,1,60,1
+A00788,2022-12-25,Almacenero,Lima,M,7.9,2,1,63,0
+A00789,2022-12-25,Vendedor,Arequipa,M,3.9,2,0,66,0
+A00790,2022-12-25,Vendedor,Lima,M,1.7,1,0,43,0
+A00791,2022-12-27,Vendedor,Piura,F,1.8,2,1,76,0
+A00792,2022-12-27,Almacenero,Lima,M,2.7,10,0,51,0
+A00793,2022-12-28,Asistente administrativo,Lima,F,2.2,21,0,75,0
+A00794,2022-12-28,Almacenero,Arequipa,M,2.8,5,1,72,0
+A00795,2022-12-29,Vendedor,Arequipa,M,3.3,3,0,61,0
+A00796,2022-12-29,Vendedor,Lima,M,0.6,2,1,99,1
+A00797,2022-12-30,Vendedor,Lima,F,3.2,1,1,81,0
+A00798,2022-12-30,Almacenero,Lima,M,6.1,2,0,62,0
+A00799,2022-12-31,Almacenero,Trujillo,M,4.8,1,1,79,0
+A00800,2022-12-31,Almacenero,Lima,F,1.4,4,0,48,0
+A00801,2022-12-31,Repartidor,Piura,M,2.7,2,0,47,0
+A00802,2022-12-31,Almacenero,Arequipa,M,6.4,1,1,75,1
+A00803,2022-12-31,Almacenero,Lima,M,1.1,6,1,48,1
+A00804,2023-01-01,Asistente administrativo,Lima,F,1.9,9,1,66,0
+A00805,2023-01-03,Asistente administrativo,Lima,F,2.7,31,0,55,0
+A00806,2023-01-03,Vendedor,Chiclayo,F,3.5,0,0,62,0
+A00807,2023-01-03,Repartidor,Lima,M,2.0,2,1,72,1
+A00808,2023-01-04,Asistente administrativo,Trujillo,F,3.7,12,1,40,0
+A00809,2023-01-04,Repartidor,Piura,F,1.4,14,0,65,1
+A00810,2023-01-04,Asistente administrativo,Piura,M,7.3,6,1,57,0
+A00811,2023-01-04,Almacenero,Lima,M,0.4,2,1,74,1
+A00812,2023-01-04,Asistente administrativo,Cusco,F,4.0,0,0,55,0
+A00813,2023-01-04,Almacenero,Lima,M,5.6,0,1,74,0
+A00814,2023-01-05,Almacenero,Arequipa,M,3.0,6,1,72,0
+A00815,2023-01-06,Vendedor,Lima,F,9.0,25,0,72,0
+A00816,2023-01-06,Almacenero,Lima,M,6.4,0,1,64,0
+A00817,2023-01-06,Vendedor,Cusco,F,1.1,2,1,39,0
+A00818,2023-01-06,Vendedor,Lima,F,3.6,3,1,80,0
+A00819,2023-01-06,Vendedor,Cusco,F,8.9,19,0,73,0
+A00820,2023-01-07,Vendedor,Lima,M,11.8,1,1,49,0
+A00821,2023-01-08,Almacenero,Piura,M,3.2,5,0,55,0
+A00822,2023-01-08,Almacenero,Arequipa,M,6.3,2,1,67,0
+A00823,2023-01-09,Asistente administrativo,Arequipa,M,1.4,3,0,48,0
+A00824,2023-01-09,Vendedor,Cusco,F,4.6,41,1,77,0
+A00825,2023-01-11,Repartidor,Arequipa,M,2.6,4,0,55,0
+A00826,2023-01-11,Vendedor,Cusco,F,9.3,6,1,60,0
+A00827,2023-01-12,Almacenero,Lima,M,2.6,5,1,68,0
+A00828,2023-01-13,Almacenero,Trujillo,M,2.1,2,1,63,0
+A00829,2023-01-14,Vendedor,Piura,F,1.7,6,0,69,0
+A00830,2023-01-14,Almacenero,Trujillo,M,3.4,2,1,63,1
+A00831,2023-01-15,Vendedor,Piura,M,2.5,2,1,65,1
+A00832,2023-01-15,Repartidor,Arequipa,M,2.7,0,1,77,0
+A00833,2023-01-15,Vendedor,Piura,F,1.1,5,0,51,1
+A00834,2023-01-16,Repartidor,Trujillo,M,7.2,0,1,67,0
+A00835,2023-01-16,Repartidor,Lima,M,5.1,1,1,60,1
+A00836,2023-01-17,Vendedor,Cusco,M,1.8,5,1,41,0
+A00837,2023-01-17,Almacenero,Lima,M,3.2,0,1,62,0
+A00838,2023-01-17,Almacenero,Piura,M,0.8,8,0,53,0
+A00839,2023-01-17,Almacenero,Arequipa,M,8.3,4,1,53,1
+A00840,2023-01-17,Vendedor,Lima,M,2.1,9,0,59,1
+A00841,2023-01-17,Almacenero,Piura,M,2.3,5,1,75,0
+A00842,2023-01-18,Almacenero,Cusco,M,1.7,1,1,43,0
+A00843,2023-01-18,Almacenero,Trujillo,M,2.6,2,1,60,0
+A00844,2023-01-18,Asistente administrativo,Arequipa,F,1.8,2,0,61,0
+A00845,2023-01-19,Asistente administrativo,Arequipa,F,5.8,4,0,66,0
+A00846,2023-01-19,Vendedor,Lima,F,3.8,11,0,53,0
+A00847,2023-01-19,Repartidor,Chiclayo,M,5.6,3,1,89,1
+A00848,2023-01-20,Repartidor,Lima,M,1.7,12,1,68,0
+A00849,2023-01-21,Vendedor,Lima,F,0.8,11,0,39,1
+A00850,2023-01-21,Asistente administrativo,Arequipa,F,1.9,1,0,56,0
+A00851,2023-01-21,Asistente administrativo,Arequipa,F,6.1,40,0,47,0
+A00852,2023-01-22,Asistente administrativo,Chiclayo,F,0.7,18,0,42,0
+A00853,2023-01-22,Almacenero,Piura,M,4.0,6,1,85,0
+A00854,2023-01-22,Repartidor,Chiclayo,M,1.0,7,0,92,1
+A00855,2023-01-24,Almacenero,Arequipa,M,2.4,3,0,82,0
+A00856,2023-01-24,Repartidor,Lima,F,10.2,59,1,49,0
+A00857,2023-01-25,Almacenero,Lima,F,7.3,13,0,73,0
+A00858,2023-01-25,Almacenero,Lima,M,3.9,2,1,74,0
+A00859,2023-01-27,Vendedor,Lima,F,2.4,3,0,65,1
+A00860,2023-01-27,Vendedor,Lima,M,7.8,5,1,89,1
+A00861,2023-01-27,Vendedor,Lima,F,10.8,11,0,39,0
+A00862,2023-01-29,Repartidor,Chiclayo,M,0.7,3,1,63,1
+A00863,2023-01-30,Almacenero,Arequipa,M,3.6,26,1,75,1
+A00864,2023-01-30,Vendedor,Arequipa,M,2.3,4,1,67,1
+A00865,2023-01-31,Asistente administrativo,Piura,F,5.2,20,1,62,0
+A00866,2023-01-31,Vendedor,Piura,F,5.1,22,0,35,0
+A00867,2023-01-31,Almacenero,Lima,M,1.2,3,0,62,0
+A00868,2023-01-31,Asistente administrativo,Lima,F,2.3,7,0,67,1
+A00869,2023-01-31,Vendedor,Trujillo,M,6.0,1,1,62,1
+A00870,2023-01-31,Almacenero,Trujillo,F,3.9,27,0,62,0
+A00871,2023-01-31,Vendedor,Trujillo,M,7.2,5,1,88,1
+A00872,2023-02-01,Asistente administrativo,Piura,F,4.3,22,0,69,0
+A00873,2023-02-01,Vendedor,Arequipa,F,1.2,17,1,68,0
+A00874,2023-02-02,Vendedor,Arequipa,F,2.8,6,0,52,0
+A00875,2023-02-02,Vendedor,Chiclayo,M,10.5,3,0,67,0
+A00876,2023-02-03,Vendedor,Arequipa,M,1.8,8,0,57,0
+A00877,2023-02-03,Vendedor,Lima,F,15.2,6,1,60,0
+A00878,2023-02-03,Vendedor,Piura,M,1.8,0,1,54,1
+A00879,2023-02-03,Vendedor,Lima,F,3.3,2,0,67,0
+A00880,2023-02-03,Asistente administrativo,Arequipa,F,3.7,5,0,54,0
+A00881,2023-02-03,Vendedor,Lima,M,3.5,1,1,52,0
+A00882,2023-02-04,Asistente administrativo,Lima,F,2.1,32,1,40,0
+A00883,2023-02-04,Repartidor,Lima,M,1.3,3,1,82,1
+A00884,2023-02-04,Vendedor,Lima,M,4.0,1,0,66,0
+A00885,2023-02-04,Repartidor,Arequipa,M,1.9,1,1,70,0
+A00886,2023-02-04,Almacenero,Lima,M,3.3,2,1,79,1
+A00887,2023-02-06,Asistente administrativo,Arequipa,F,1.8,7,1,69,1
+A00888,2023-02-06,Vendedor,Lima,M,2.4,1,1,68,1
+A00889,2023-02-06,Repartidor,Chiclayo,M,7.5,2,1,59,0
+A00890,2023-02-07,Almacenero,Trujillo,M,1.1,5,1,58,0
+A00891,2023-02-07,Vendedor,Chiclayo,F,11.0,42,0,68,1
+A00892,2023-02-09,Repartidor,Chiclayo,M,7.5,4,1,73,1
+A00893,2023-02-09,Repartidor,Chiclayo,F,7.3,11,1,58,0
+A00894,2023-02-09,Repartidor,Piura,F,3.3,6,1,92,0
+A00895,2023-02-10,Asistente administrativo,Chiclayo,F,2.4,21,0,31,0
+A00896,2023-02-10,Vendedor,Lima,F,8.4,20,0,53,0
+A00897,2023-02-10,Almacenero,Arequipa,F,1.0,10,0,66,1
+A00898,2023-02-12,Asistente administrativo,Chiclayo,F,5.5,15,0,61,0
+A00899,2023-02-12,Vendedor,Trujillo,M,2.5,8,1,75,0
+A00900,2023-02-12,Almacenero,Lima,M,4.5,9,1,81,0
+A00901,2023-02-12,Asistente administrativo,Piura,F,3.4,3,0,33,0
+A00902,2023-02-13,Asistente administrativo,Lima,F,0.8,5,0,51,0
+A00903,2023-02-14,Asistente administrativo,Piura,M,5.9,4,0,56,1
+A00904,2023-02-14,Repartidor,Trujillo,M,7.6,4,1,73,1
+A00905,2023-02-15,Vendedor,Lima,M,3.8,10,0,69,0
+A00906,2023-02-15,Vendedor,Lima,F,1.5,10,0,59,0
+A00907,2023-02-15,Repartidor,Lima,M,7.5,1,0,55,0
+A00908,2023-02-15,Repartidor,Cusco,M,2.9,2,1,74,1
+A00909,2023-02-16,Vendedor,Lima,F,1.7,3,1,64,0
+A00910,2023-02-16,Asistente administrativo,Trujillo,F,1.0,21,0,56,0
+A00911,2023-02-16,Asistente administrativo,Arequipa,F,3.5,4,1,48,0
+A00912,2023-02-17,Vendedor,Piura,M,2.9,2,1,73,1
+A00913,2023-02-18,Vendedor,Piura,F,2.3,9,0,72,0
+A00914,2023-02-19,Repartidor,Trujillo,M,4.3,2,0,38,0
+A00915,2023-02-19,Almacenero,Trujillo,M,4.9,4,1,74,0
+A00916,2023-02-19,Asistente administrativo,Lima,M,5.8,0,1,58,0
+A00917,2023-02-20,Almacenero,Lima,M,11.3,4,0,55,0
+A00918,2023-02-20,Repartidor,Cusco,M,3.1,9,1,54,1
+A00919,2023-02-20,Vendedor,Cusco,M,2.0,1,0,67,0
+A00920,2023-02-21,Almacenero,Trujillo,F,0.8,3,0,69,0
+A00921,2023-02-21,Repartidor,Arequipa,M,3.2,1,1,48,0
+A00922,2023-02-21,Repartidor,Cusco,F,3.5,1,0,57,1
+A00923,2023-02-21,Repartidor,Lima,M,4.9,1,1,52,0
+A00924,2023-02-21,Asistente administrativo,Lima,F,2.2,8,1,59,0
+A00925,2023-02-22,Asistente administrativo,Lima,M,2.4,3,0,70,1
+A00926,2023-02-22,Repartidor,Lima,M,2.8,1,1,91,1
+A00927,2023-02-23,Repartidor,Piura,M,8.7,4,1,57,0
+A00928,2023-02-23,Vendedor,Arequipa,F,1.9,16,1,71,0
+A00929,2023-02-23,Asistente administrativo,Piura,M,1.7,1,1,74,0
+A00930,2023-02-24,Repartidor,Piura,M,2.9,0,0,44,0
+A00931,2023-02-25,Vendedor,Lima,F,1.5,22,1,74,0
+A00932,2023-02-26,Vendedor,Lima,M,4.0,7,1,40,1
+A00933,2023-02-27,Almacenero,Piura,M,7.4,0,0,64,0
+A00934,2023-03-01,Almacenero,Chiclayo,F,4.1,5,1,79,0
+A00935,2023-03-01,Asistente administrativo,Arequipa,F,6.0,4,1,67,1
+A00936,2023-03-01,Almacenero,Cusco,M,2.6,6,1,66,1
+A00937,2023-03-02,Asistente administrativo,Chiclayo,F,10.7,4,1,88,1
+A00938,2023-03-02,Almacenero,Arequipa,M,2.6,15,1,80,1
+A00939,2023-03-02,Vendedor,Cusco,M,5.1,1,0,65,0
+A00940,2023-03-02,Repartidor,Lima,M,5.7,3,1,74,1
+A00941,2023-03-02,Almacenero,Lima,M,1.6,5,1,42,0
+A00942,2023-03-03,Repartidor,Piura,F,1.8,16,0,82,0
+A00943,2023-03-03,Almacenero,Lima,F,2.7,0,1,49,0
+A00944,2023-03-04,Almacenero,Arequipa,M,0.7,1,1,68,1
+A00945,2023-03-05,Asistente administrativo,Lima,F,1.3,10,0,63,0
+A00946,2023-03-05,Asistente administrativo,Lima,F,1.9,17,1,55,0
+A00947,2023-03-05,Vendedor,Arequipa,M,3.8,23,0,54,0
+A00948,2023-03-06,Repartidor,Arequipa,M,14.3,1,0,58,0
+A00949,2023-03-06,Repartidor,Cusco,M,0.7,5,1,57,1
+A00950,2023-03-06,Vendedor,Lima,F,2.2,4,0,76,0
+A00951,2023-03-07,Vendedor,Lima,F,3.4,1,0,47,0
+A00952,2023-03-07,Repartidor,Chiclayo,F,3.9,29,0,63,0
+A00953,2023-03-08,Almacenero,Arequipa,M,3.3,2,1,47,0
+A00954,2023-03-08,Repartidor,Arequipa,F,0.3,4,1,43,0
+A00955,2023-03-08,Vendedor,Lima,M,3.2,1,0,50,0
+A00956,2023-03-08,Repartidor,Trujillo,F,0.7,7,1,70,1
+A00957,2023-03-08,Vendedor,Cusco,M,6.3,0,1,67,0
+A00958,2023-03-08,Almacenero,Piura,F,0.9,13,0,64,0
+A00959,2023-03-09,Repartidor,Cusco,M,3.0,3,1,92,1
+A00960,2023-03-09,Almacenero,Arequipa,M,4.5,1,1,78,1
+A00961,2023-03-10,Vendedor,Lima,F,6.6,1,1,56,0
+A00962,2023-03-10,Vendedor,Lima,F,3.6,4,0,56,0
+A00963,2023-03-11,Asistente administrativo,Chiclayo,M,1.0,6,1,57,0
+A00964,2023-03-11,Vendedor,Lima,F,2.7,4,0,59,1
+A00965,2023-03-12,Asistente administrativo,Lima,F,4.0,0,0,59,1
+A00966,2023-03-12,Repartidor,Cusco,F,4.0,12,0,58,0
+A00967,2023-03-13,Repartidor,Chiclayo,M,3.0,1,1,65,0
+A00968,2023-03-13,Almacenero,Cusco,M,2.6,6,1,66,1
+A00969,2023-03-14,Vendedor,Lima,F,3.1,4,0,44,0
+A00970,2023-03-15,Almacenero,Trujillo,M,4.7,0,1,45,0
+A00971,2023-03-16,Almacenero,Lima,F,0.4,8,0,67,0
+A00972,2023-03-16,Asistente administrativo,Cusco,F,2.8,1,0,90,0
+A00973,2023-03-16,Asistente administrativo,Lima,M,0.5,3,1,66,0
+A00974,2023-03-17,Vendedor,Lima,F,4.1,21,0,48,0
+A00975,2023-03-18,Asistente administrativo,Cusco,F,1.9,41,1,83,0
+A00976,2023-03-18,Almacenero,Lima,F,19.5,28,0,80,1
+A00977,2023-03-19,Almacenero,Lima,M,2.8,6,1,83,0
+A00978,2023-03-19,Repartidor,Lima,M,4.5,9,1,87,1
+A00979,2023-03-20,Asistente administrativo,Arequipa,F,4.0,4,1,69,1
+A00980,2023-03-21,Almacenero,Trujillo,F,5.5,26,1,60,1
+A00981,2023-03-21,Asistente administrativo,Arequipa,M,5.1,3,1,35,0
+A00982,2023-03-22,Almacenero,Lima,M,4.6,5,0,57,0
+A00983,2023-03-22,Vendedor,Lima,F,1.2,12,0,82,0
+A00984,2023-03-23,Almacenero,Lima,M,2.0,1,0,67,0
+A00985,2023-03-23,Vendedor,Cusco,F,1.9,15,1,59,0
+A00986,2023-03-23,Almacenero,Lima,M,3.0,3,1,58,0
+A00987,2023-03-24,Repartidor,Lima,M,9.1,1,1,84,1
+A00988,2023-03-24,Repartidor,Cusco,M,3.3,5,0,67,0
+A00989,2023-03-24,Repartidor,Trujillo,F,1.3,15,0,50,0
+A00990,2023-03-24,Repartidor,Lima,M,2.9,5,1,85,0
+A00991,2023-03-25,Almacenero,Chiclayo,M,4.5,3,1,78,0
+A00992,2023-03-25,Asistente administrativo,Lima,M,2.1,13,0,54,0
+A00993,2023-03-26,Asistente administrativo,Lima,F,0.3,29,1,74,0
+A00994,2023-03-27,Repartidor,Piura,M,5.2,0,1,66,0
+A00995,2023-03-27,Vendedor,Trujillo,F,1.4,36,1,67,0
+A00996,2023-03-29,Almacenero,Lima,M,2.4,0,1,52,0
+A00997,2023-03-29,Asistente administrativo,Lima,F,2.9,13,0,68,0
+A00998,2023-03-30,Almacenero,Lima,M,3.8,3,0,75,0
+A00999,2023-03-30,Asistente administrativo,Arequipa,M,3.7,2,0,50,0
+A01000,2023-03-30,Vendedor,Lima,F,3.1,7,0,55,0
+A01001,2023-03-31,Vendedor,Chiclayo,M,3.8,1,1,100,1
+A01002,2023-03-31,Almacenero,Lima,M,1.7,1,0,76,1
+A01003,2023-04-01,Repartidor,Lima,F,0.9,5,0,59,0
+A01004,2023-04-01,Almacenero,Piura,M,3.0,7,1,66,1
+A01005,2023-04-01,Almacenero,Lima,M,0.6,2,1,40,1
+A01006,2023-04-01,Repartidor,Cusco,M,4.8,8,0,100,1
+A01007,2023-04-02,Vendedor,Trujillo,M,1.8,1,1,54,0
+A01008,2023-04-02,Repartidor,Lima,F,2.4,21,1,61,0
+A01009,2023-04-02,Vendedor,Chiclayo,F,1.8,7,1,53,0
+A01010,2023-04-04,Asistente administrativo,Cusco,F,3.7,7,0,60,0
+A01011,2023-04-05,Asistente administrativo,Lima,F,5.4,5,1,63,0
+A01012,2023-04-06,Vendedor,Lima,M,6.9,3,1,56,0
+A01013,2023-04-06,Almacenero,Lima,M,5.7,5,1,31,0
+A01014,2023-04-07,Asistente administrativo,Piura,F,1.4,1,0,81,0
+A01015,2023-04-07,Repartidor,Arequipa,M,12.6,1,1,44,0
+A01016,2023-04-09,Repartidor,Trujillo,M,4.0,7,1,84,0
+A01017,2023-04-09,Vendedor,Lima,M,3.4,5,1,53,0
+A01018,2023-04-10,Almacenero,Cusco,M,4.2,4,0,84,0
+A01019,2023-04-10,Asistente administrativo,Lima,F,5.0,8,0,70,0
+A01020,2023-04-10,Asistente administrativo,Lima,M,1.9,2,1,59,1
+A01021,2023-04-10,Vendedor,Chiclayo,F,1.3,0,0,46,0
+A01022,2023-04-10,Asistente administrativo,Trujillo,M,0.5,3,0,67,0
+A01023,2023-04-11,Repartidor,Lima,F,8.5,4,0,78,0
+A01024,2023-04-12,Vendedor,Lima,M,3.2,0,1,67,0
+A01025,2023-04-12,Asistente administrativo,Lima,F,2.8,25,0,52,0
+A01026,2023-04-13,Asistente administrativo,Lima,M,1.8,2,0,64,0
+A01027,2023-04-13,Almacenero,Arequipa,F,9.1,3,0,64,0
+A01028,2023-04-13,Repartidor,Arequipa,M,2.7,0,0,48,0
+A01029,2023-04-13,Repartidor,Cusco,M,5.1,6,1,83,1
+A01030,2023-04-13,Repartidor,Chiclayo,M,6.2,7,1,28,0
+A01031,2023-04-13,Almacenero,Lima,M,3.8,6,1,71,1
+A01032,2023-04-14,Almacenero,Piura,F,2.4,13,0,56,0
+A01033,2023-04-14,Almacenero,Lima,F,0.8,16,0,46,0
+A01034,2023-04-15,Asistente administrativo,Piura,F,2.5,0,1,18,0
+A01035,2023-04-16,Almacenero,Lima,M,1.9,2,1,79,1
+A01036,2023-04-16,Almacenero,Lima,M,12.6,4,1,54,1
+A01037,2023-04-17,Vendedor,Piura,F,2.3,9,0,77,0
+A01038,2023-04-17,Almacenero,Lima,F,6.9,28,0,47,0
+A01039,2023-04-17,Vendedor,Cusco,M,5.8,3,1,48,0
+A01040,2023-04-17,Almacenero,Trujillo,M,3.2,7,1,43,0
+A01041,2023-04-18,Almacenero,Trujillo,M,4.1,10,1,31,0
+A01042,2023-04-18,Vendedor,Lima,F,0.7,0,0,53,0
+A01043,2023-04-18,Vendedor,Lima,M,2.7,1,1,62,0
+A01044,2023-04-19,Vendedor,Cusco,M,2.7,2,0,74,0
+A01045,2023-04-19,Vendedor,Lima,F,6.3,23,1,82,0
+A01046,2023-04-19,Vendedor,Arequipa,M,3.3,2,1,85,1
+A01047,2023-04-19,Vendedor,Lima,F,1.9,1,0,72,0
+A01048,2023-04-19,Asistente administrativo,Trujillo,F,4.3,8,0,68,0
+A01049,2023-04-20,Vendedor,Lima,M,5.4,2,1,51,0
+A01050,2023-04-20,Vendedor,Lima,F,1.8,14,0,53,0
+A01051,2023-04-20,Almacenero,Cusco,F,3.4,5,0,69,0
+A01052,2023-04-21,Vendedor,Chiclayo,M,3.0,10,0,75,0
+A01053,2023-04-21,Almacenero,Lima,M,0.5,4,0,59,0
+A01054,2023-04-22,Almacenero,Lima,F,3.9,52,1,48,0
+A01055,2023-04-22,Asistente administrativo,Piura,F,2.9,5,0,48,0
+A01056,2023-04-23,Vendedor,Chiclayo,M,1.2,3,1,60,0
+A01057,2023-04-23,Vendedor,Cusco,M,5.2,0,1,57,0
+A01058,2023-04-24,Vendedor,Lima,F,4.5,14,0,54,0
+A01059,2023-04-24,Vendedor,Lima,M,3.7,6,1,64,0
+A01060,2023-04-25,Vendedor,Cusco,M,3.9,0,1,68,0
+A01061,2023-04-25,Almacenero,Lima,M,6.3,1,0,62,0
+A01062,2023-04-25,Almacenero,Lima,M,0.6,13,1,60,0
+A01063,2023-04-25,Almacenero,Lima,M,0.8,3,1,67,0
+A01064,2023-04-25,Repartidor,Lima,M,4.2,2,1,54,1
+A01065,2023-04-26,Vendedor,Lima,F,2.4,13,0,54,0
+A01066,2023-04-26,Almacenero,Trujillo,F,3.8,10,0,74,0
+A01067,2023-04-27,Almacenero,Lima,M,4.7,0,0,99,0
+A01068,2023-04-27,Almacenero,Lima,M,6.0,2,1,52,1
+A01069,2023-04-28,Vendedor,Chiclayo,M,4.3,15,1,45,0
+A01070,2023-04-28,Repartidor,Lima,M,2.9,9,0,77,0
+A01071,2023-04-28,Repartidor,Arequipa,M,10.5,2,0,79,1
+A01072,2023-04-28,Almacenero,Piura,M,8.0,2,1,91,1
+A01073,2023-04-28,Repartidor,Piura,M,1.1,4,1,59,0
+A01074,2023-04-28,Asistente administrativo,Lima,F,0.8,2,0,84,1
+A01075,2023-04-29,Vendedor,Lima,F,2.3,13,0,77,0
+A01076,2023-04-29,Almacenero,Cusco,F,7.3,28,0,42,0
+A01077,2023-05-01,Vendedor,Lima,M,0.5,3,0,63,0
+A01078,2023-05-02,Almacenero,Arequipa,M,3.0,8,1,73,0
+A01079,2023-05-02,Vendedor,Trujillo,M,1.2,13,1,47,0
+A01080,2023-05-02,Asistente administrativo,Arequipa,F,0.6,5,0,62,0
+A01081,2023-05-03,Almacenero,Lima,M,5.0,2,1,84,1
+A01082,2023-05-03,Repartidor,Trujillo,F,6.9,2,1,63,0
+A01083,2023-05-03,Almacenero,Piura,M,4.0,5,1,58,0
+A01084,2023-05-03,Almacenero,Lima,M,4.3,7,1,55,0
+A01085,2023-05-04,Vendedor,Lima,F,1.6,3,0,80,0
+A01086,2023-05-05,Vendedor,Chiclayo,M,10.0,2,1,39,1
+A01087,2023-05-05,Vendedor,Lima,M,2.2,7,1,48,0
+A01088,2023-05-05,Almacenero,Lima,M,5.9,1,1,76,1
+A01089,2023-05-05,Repartidor,Lima,M,4.2,0,1,77,1
+A01090,2023-05-05,Vendedor,Lima,F,2.0,3,0,69,0
+A01091,2023-05-06,Almacenero,Chiclayo,M,5.1,7,1,50,1
+A01092,2023-05-06,Repartidor,Trujillo,M,1.6,4,1,64,1
+A01093,2023-05-06,Almacenero,Lima,M,2.9,16,1,53,0
+A01094,2023-05-06,Vendedor,Cusco,F,1.1,43,1,36,0
+A01095,2023-05-06,Vendedor,Chiclayo,M,1.8,1,1,67,0
+A01096,2023-05-07,Almacenero,Trujillo,M,1.3,2,1,49,0
+A01097,2023-05-07,Almacenero,Cusco,F,5.8,6,0,47,0
+A01098,2023-05-08,Vendedor,Lima,M,7.3,10,1,89,1
+A01099,2023-05-08,Repartidor,Lima,M,5.2,5,1,50,0
+A01100,2023-05-08,Asistente administrativo,Trujillo,M,1.7,0,0,60,0
+A01101,2023-05-08,Vendedor,Piura,M,4.2,0,0,58,0
+A01102,2023-05-08,Repartidor,Piura,M,7.5,2,1,61,1
+A01103,2023-05-10,Vendedor,Lima,M,8.6,3,1,70,0
+A01104,2023-05-10,Vendedor,Lima,M,5.7,5,1,85,1
+A01105,2023-05-10,Vendedor,Chiclayo,M,8.3,12,1,51,1
+A01106,2023-05-10,Almacenero,Arequipa,F,1.6,6,1,67,0
+A01107,2023-05-10,Repartidor,Cusco,M,1.0,12,1,89,0
+A01108,2023-05-11,Almacenero,Arequipa,M,4.7,0,1,59,0
+A01109,2023-05-11,Vendedor,Trujillo,M,8.3,6,0,54,0
+A01110,2023-05-12,Asistente administrativo,Trujillo,F,5.2,89,0,40,0
+A01111,2023-05-12,Almacenero,Lima,M,6.2,12,1,76,0
+A01112,2023-05-12,Vendedor,Piura,M,4.7,2,1,94,1
+A01113,2023-05-13,Repartidor,Lima,M,3.4,12,1,65,0
+A01114,2023-05-14,Vendedor,Chiclayo,M,0.8,3,1,48,0
+A01115,2023-05-14,Repartidor,Arequipa,M,1.9,0,0,61,0
+A01116,2023-05-15,Asistente administrativo,Piura,M,1.4,3,1,84,0
+A01117,2023-05-15,Asistente administrativo,Lima,F,0.7,8,1,51,0
+A01118,2023-05-16,Repartidor,Lima,F,1.7,16,0,45,1
+A01119,2023-05-16,Vendedor,Lima,M,7.1,11,1,57,0
+A01120,2023-05-17,Almacenero,Trujillo,M,1.5,3,0,56,0
+A01121,2023-05-17,Repartidor,Trujillo,M,5.1,4,1,70,1
+A01122,2023-05-19,Almacenero,Cusco,M,2.2,7,1,83,1
+A01123,2023-05-19,Repartidor,Trujillo,M,8.5,4,1,47,1
+A01124,2023-05-20,Almacenero,Piura,M,1.5,2,1,78,1
+A01125,2023-05-20,Repartidor,Chiclayo,M,5.5,8,1,77,0
+A01126,2023-05-20,Asistente administrativo,Lima,F,3.7,13,0,53,0
+A01127,2023-05-21,Vendedor,Lima,M,5.8,2,1,76,1
+A01128,2023-05-22,Asistente administrativo,Lima,F,0.6,11,0,73,0
+A01129,2023-05-22,Asistente administrativo,Lima,F,7.0,9,0,67,1
+A01130,2023-05-23,Vendedor,Lima,F,1.6,10,0,68,0
+A01131,2023-05-23,Asistente administrativo,Cusco,F,4.1,11,0,40,0
+A01132,2023-05-24,Almacenero,Trujillo,M,12.4,13,1,70,1
+A01133,2023-05-24,Asistente administrativo,Cusco,F,2.4,0,0,59,0
+A01134,2023-05-24,Asistente administrativo,Arequipa,F,3.1,1,1,58,0
+A01135,2023-05-24,Asistente administrativo,Chiclayo,F,5.1,3,0,76,0
+A01136,2023-05-25,Vendedor,Arequipa,M,4.3,2,1,67,0
+A01137,2023-05-25,Almacenero,Piura,M,11.1,0,1,46,0
+A01138,2023-05-25,Asistente administrativo,Arequipa,F,3.1,4,0,62,1
+A01139,2023-05-27,Repartidor,Arequipa,M,1.6,8,1,58,0
+A01140,2023-05-27,Vendedor,Cusco,F,7.2,2,1,17,0
+A01141,2023-05-27,Almacenero,Lima,M,1.3,2,1,51,1
+A01142,2023-05-27,Almacenero,Cusco,M,2.6,7,0,68,0
+A01143,2023-05-28,Asistente administrativo,Lima,F,2.3,1,1,76,1
+A01144,2023-05-28,Repartidor,Arequipa,F,3.6,10,1,47,0
+A01145,2023-05-29,Almacenero,Lima,M,4.5,1,0,96,1
+A01146,2023-05-29,Repartidor,Trujillo,M,2.5,1,1,86,0
+A01147,2023-05-30,Repartidor,Trujillo,M,2.7,4,1,77,1
+A01148,2023-05-30,Asistente administrativo,Arequipa,F,4.9,1,0,79,0
+A01149,2023-05-30,Vendedor,Lima,F,10.4,13,0,67,0
+A01150,2023-05-30,Almacenero,Cusco,M,1.0,9,0,51,0
+A01151,2023-05-30,Repartidor,Trujillo,M,4.4,5,0,65,0
+A01152,2023-06-01,Almacenero,Lima,M,2.4,5,1,55,1
+A01153,2023-06-01,Vendedor,Lima,F,9.2,25,0,70,0
+A01154,2023-06-01,Repartidor,Trujillo,M,7.3,1,1,26,0
+A01155,2023-06-03,Almacenero,Trujillo,M,2.7,4,0,23,0
+A01156,2023-06-03,Almacenero,Lima,M,0.8,3,1,69,1
+A01157,2023-06-04,Almacenero,Cusco,M,5.6,1,1,53,0
+A01158,2023-06-04,Asistente administrativo,Lima,F,3.4,8,0,54,0
+A01159,2023-06-05,Almacenero,Arequipa,M,9.4,6,1,76,0
+A01160,2023-06-05,Vendedor,Chiclayo,F,4.4,16,0,63,0
+A01161,2023-06-05,Asistente administrativo,Lima,F,6.7,2,0,58,1
+A01162,2023-06-05,Vendedor,Lima,F,3.9,8,0,42,0
+A01163,2023-06-06,Vendedor,Lima,F,6.2,7,1,56,0
+A01164,2023-06-08,Asistente administrativo,Lima,F,3.6,0,1,69,1
+A01165,2023-06-09,Almacenero,Arequipa,M,8.1,3,1,66,1
+A01166,2023-06-09,Repartidor,Lima,M,2.0,1,1,58,0
+A01167,2023-06-09,Vendedor,Lima,F,3.2,29,0,44,0
+A01168,2023-06-10,Vendedor,Lima,F,1.7,6,1,62,1
+A01169,2023-06-10,Almacenero,Lima,M,7.9,1,1,36,0
+A01170,2023-06-11,Vendedor,Piura,F,6.2,1,1,60,0
+A01171,2023-06-11,Vendedor,Trujillo,M,3.1,0,1,58,1
+A01172,2023-06-12,Repartidor,Lima,M,7.2,1,0,57,1
+A01173,2023-06-12,Vendedor,Lima,F,2.0,11,0,29,0
+A01174,2023-06-12,Repartidor,Arequipa,M,6.7,0,1,65,1
+A01175,2023-06-14,Repartidor,Cusco,M,5.2,11,0,62,0
+A01176,2023-06-14,Asistente administrativo,Cusco,F,4.3,27,0,51,0
+A01177,2023-06-14,Vendedor,Chiclayo,M,1.9,1,1,65,1
+A01178,2023-06-14,Vendedor,Lima,M,0.7,2,0,59,0
+A01179,2023-06-15,Almacenero,Arequipa,M,1.8,1,0,57,0
+A01180,2023-06-17,Repartidor,Piura,F,1.6,8,0,49,0
+A01181,2023-06-17,Almacenero,Lima,M,10.9,6,0,40,0
+A01182,2023-06-17,Repartidor,Lima,M,1.9,6,1,46,0
+A01183,2023-06-18,Almacenero,Piura,M,1.2,1,1,55,0
+A01184,2023-06-18,Repartidor,Chiclayo,M,5.2,7,0,73,1
+A01185,2023-06-18,Asistente administrativo,Lima,F,1.9,0,0,45,0
+A01186,2023-06-20,Vendedor,Piura,M,9.6,1,0,54,0
+A01187,2023-06-21,Vendedor,Lima,M,4.5,2,0,78,0
+A01188,2023-06-21,Almacenero,Lima,M,3.5,2,0,82,0
+A01189,2023-06-22,Vendedor,Cusco,M,1.7,16,1,57,0
+A01190,2023-06-23,Asistente administrativo,Lima,F,6.6,21,0,33,0
+A01191,2023-06-24,Vendedor,Arequipa,M,0.7,1,1,79,0
+A01192,2023-06-24,Vendedor,Piura,M,3.0,1,1,60,0
+A01193,2023-06-24,Vendedor,Lima,M,1.3,2,0,63,0
+A01194,2023-06-24,Vendedor,Chiclayo,M,0.6,3,0,67,0
+A01195,2023-06-25,Almacenero,Arequipa,M,1.5,6,1,74,0
+A01196,2023-06-25,Vendedor,Piura,F,6.8,29,1,37,0
+A01197,2023-06-25,Vendedor,Lima,F,2.7,10,1,72,0
+A01198,2023-06-26,Asistente administrativo,Lima,F,4.5,5,0,47,0
+A01199,2023-06-26,Vendedor,Lima,F,5.6,12,1,69,0
+A01200,2023-06-27,Repartidor,Arequipa,M,3.6,0,0,68,1
+A01201,2023-06-27,Asistente administrativo,Arequipa,M,11.9,3,1,33,0
+A01202,2023-06-27,Vendedor,Lima,F,6.7,5,1,68,0
+A01203,2023-06-28,Repartidor,Trujillo,M,4.5,2,1,66,0
+A01204,2023-06-28,Vendedor,Lima,F,5.0,35,1,77,0
+A01205,2023-06-28,Repartidor,Chiclayo,M,1.0,3,1,85,1
+A01206,2023-06-28,Almacenero,Lima,M,3.3,2,1,59,0
+A01207,2023-06-28,Vendedor,Trujillo,M,12.9,1,1,71,1
+A01208,2023-06-28,Vendedor,Lima,M,0.1,0,0,63,0
+A01209,2023-06-28,Asistente administrativo,Lima,M,3.0,3,1,55,0
+A01210,2023-06-29,Vendedor,Lima,F,5.5,22,0,53,0
+A01211,2023-06-30,Vendedor,Lima,M,1.3,10,0,60,0
+A01212,2023-07-01,Vendedor,Lima,F,3.0,1,0,45,0
+A01213,2023-07-01,Vendedor,Piura,M,2.4,3,0,38,0
+A01214,2023-07-01,Repartidor,Lima,M,2.0,1,1,79,1
+A01215,2023-07-02,Repartidor,Arequipa,M,4.5,4,1,60,0
+A01216,2023-07-03,Vendedor,Chiclayo,F,2.6,13,0,63,0
+A01217,2023-07-04,Vendedor,Arequipa,F,8.0,16,0,64,0
+A01218,2023-07-04,Almacenero,Arequipa,M,3.0,3,0,63,0
+A01219,2023-07-04,Vendedor,Chiclayo,M,7.5,1,1,96,1
+A01220,2023-07-04,Repartidor,Chiclayo,M,4.2,1,1,41,1
+A01221,2023-07-04,Asistente administrativo,Piura,F,0.8,1,0,79,1
+A01222,2023-07-05,Almacenero,Lima,M,8.4,2,1,76,1
+A01223,2023-07-05,Vendedor,Lima,F,2.1,19,1,74,0
+A01224,2023-07-05,Repartidor,Lima,F,3.2,14,1,54,0
+A01225,2023-07-05,Asistente administrativo,Cusco,F,1.2,5,1,50,0
+A01226,2023-07-06,Asistente administrativo,Trujillo,F,4.8,18,0,70,0
+A01227,2023-07-06,Asistente administrativo,Trujillo,M,1.5,2,1,100,1
+A01228,2023-07-07,Repartidor,Lima,M,0.9,5,1,47,0
+A01229,2023-07-07,Almacenero,Trujillo,M,1.1,1,0,65,1
+A01230,2023-07-07,Asistente administrativo,Arequipa,M,1.1,1,1,41,0
+A01231,2023-07-07,Repartidor,Trujillo,M,5.8,1,1,43,0
+A01232,2023-07-07,Almacenero,Lima,M,0.7,1,1,40,0
+A01233,2023-07-07,Almacenero,Arequipa,M,7.9,2,1,60,0
+A01234,2023-07-08,Asistente administrativo,Lima,M,2.7,19,1,54,0
+A01235,2023-07-08,Almacenero,Lima,M,1.7,1,1,62,0
+A01236,2023-07-09,Asistente administrativo,Trujillo,M,2.9,4,0,100,0
+A01237,2023-07-09,Almacenero,Lima,M,10.0,13,0,47,1
+A01238,2023-07-09,Repartidor,Cusco,M,1.4,7,1,71,0
+A01239,2023-07-09,Vendedor,Lima,F,2.4,6,0,55,0
+A01240,2023-07-10,Vendedor,Lima,F,5.8,58,0,47,0
+A01241,2023-07-10,Vendedor,Lima,M,7.6,13,0,48,0
+A01242,2023-07-10,Vendedor,Lima,F,2.8,4,0,53,1
+A01243,2023-07-11,Repartidor,Arequipa,M,9.4,3,1,46,1
+A01244,2023-07-11,Asistente administrativo,Arequipa,F,4.8,3,0,47,0
+A01245,2023-07-11,Asistente administrativo,Cusco,F,2.7,11,0,46,0
+A01246,2023-07-12,Vendedor,Lima,M,4.8,3,1,55,0
+A01247,2023-07-12,Asistente administrativo,Chiclayo,F,0.1,0,1,54,1
+A01248,2023-07-12,Vendedor,Chiclayo,F,1.4,3,1,89,1
+A01249,2023-07-12,Repartidor,Trujillo,M,7.9,4,1,63,1
+A01250,2023-07-13,Asistente administrativo,Chiclayo,F,1.8,7,0,72,0
+A01251,2023-07-14,Repartidor,Arequipa,M,8.5,5,1,51,1
+A01252,2023-07-14,Vendedor,Trujillo,M,2.6,1,1,83,0
+A01253,2023-07-14,Vendedor,Lima,M,4.6,2,1,67,0
+A01254,2023-07-14,Asistente administrativo,Lima,M,6.3,8,0,49,0
+A01255,2023-07-15,Almacenero,Trujillo,M,1.6,10,1,60,0
+A01256,2023-07-15,Vendedor,Lima,M,7.2,18,1,62,0
+A01257,2023-07-15,Repartidor,Chiclayo,M,1.7,0,1,74,0
+A01258,2023-07-16,Almacenero,Trujillo,M,9.7,4,0,70,0
+A01259,2023-07-16,Almacenero,Piura,M,2.8,7,1,51,0
+A01260,2023-07-16,Repartidor,Arequipa,M,0.5,1,0,72,1
+A01261,2023-07-17,Repartidor,Lima,M,4.7,10,1,45,0
+A01262,2023-07-17,Vendedor,Arequipa,M,2.9,3,1,40,0
+A01263,2023-07-18,Almacenero,Lima,M,5.0,5,1,48,0
+A01264,2023-07-19,Repartidor,Lima,M,4.4,16,0,61,0
+A01265,2023-07-19,Almacenero,Piura,M,1.2,1,0,47,0
+A01266,2023-07-19,Repartidor,Arequipa,M,2.7,1,1,95,1
+A01267,2023-07-19,Repartidor,Lima,M,6.6,2,0,42,0
+A01268,2023-07-20,Repartidor,Piura,F,11.0,7,0,55,0
+A01269,2023-07-20,Asistente administrativo,Cusco,F,1.1,10,0,70,0
+A01270,2023-07-20,Almacenero,Chiclayo,F,6.5,4,1,51,0
+A01271,2023-07-20,Repartidor,Arequipa,M,6.7,20,0,72,1
+A01272,2023-07-20,Asistente administrativo,Lima,F,4.1,67,0,35,0
+A01273,2023-07-21,Vendedor,Lima,M,2.6,3,0,71,1
+A01274,2023-07-22,Vendedor,Lima,F,1.4,11,1,70,0
+A01275,2023-07-23,Repartidor,Arequipa,M,4.6,1,1,44,0
+A01276,2023-07-23,Asistente administrativo,Piura,M,3.1,1,1,90,1
+A01277,2023-07-23,Repartidor,Arequipa,M,3.7,3,1,65,0
+A01278,2023-07-23,Vendedor,Cusco,F,12.7,5,1,55,1
+A01279,2023-07-25,Almacenero,Piura,M,6.4,3,1,45,0
+A01280,2023-07-25,Vendedor,Trujillo,F,9.3,1,0,34,0
+A01281,2023-07-25,Almacenero,Chiclayo,M,7.2,3,1,56,0
+A01282,2023-07-25,Vendedor,Lima,F,3.6,15,1,37,0
+A01283,2023-07-28,Vendedor,Arequipa,M,7.2,0,1,64,0
+A01284,2023-07-28,Asistente administrativo,Arequipa,M,4.7,6,1,62,1
+A01285,2023-07-29,Asistente administrativo,Lima,F,3.6,7,0,36,0
+A01286,2023-07-29,Almacenero,Trujillo,M,1.9,2,1,55,0
+A01287,2023-07-30,Vendedor,Lima,M,5.3,4,1,71,1
+A01288,2023-08-01,Asistente administrativo,Chiclayo,F,4.3,16,0,54,0
+A01289,2023-08-01,Repartidor,Cusco,M,2.1,1,0,99,0
+A01290,2023-08-01,Almacenero,Arequipa,M,2.8,13,1,59,0
+A01291,2023-08-01,Vendedor,Arequipa,F,10.3,23,1,42,0
+A01292,2023-08-02,Repartidor,Lima,M,3.5,3,1,65,0
+A01293,2023-08-02,Asistente administrativo,Lima,F,2.6,42,1,66,0
+A01294,2023-08-02,Vendedor,Lima,F,2.0,2,1,46,0
+A01295,2023-08-02,Vendedor,Piura,F,0.1,9,1,56,0
+A01296,2023-08-02,Almacenero,Arequipa,M,2.4,5,1,69,1
+A01297,2023-08-03,Repartidor,Lima,M,6.0,12,1,72,0
+A01298,2023-08-04,Almacenero,Cusco,M,2.2,1,1,68,1
+A01299,2023-08-04,Almacenero,Lima,F,4.1,12,0,70,0
+A01300,2023-08-04,Vendedor,Arequipa,M,0.5,1,1,86,1
+A01301,2023-08-04,Almacenero,Lima,F,5.1,7,0,68,0
+A01302,2023-08-04,Vendedor,Lima,F,8.2,22,0,55,0
+A01303,2023-08-05,Vendedor,Chiclayo,M,3.0,3,1,58,0
+A01304,2023-08-05,Almacenero,Cusco,M,5.0,1,0,66,1
+A01305,2023-08-05,Vendedor,Cusco,F,0.8,3,0,51,0
+A01306,2023-08-06,Repartidor,Lima,F,7.9,1,1,82,0
+A01307,2023-08-07,Repartidor,Chiclayo,M,2.1,8,1,59,0
+A01308,2023-08-07,Almacenero,Trujillo,M,0.6,8,0,53,0
+A01309,2023-08-07,Almacenero,Trujillo,F,6.6,8,1,85,0
+A01310,2023-08-07,Asistente administrativo,Piura,F,9.0,2,0,66,0
+A01311,2023-08-07,Vendedor,Lima,F,5.2,4,0,81,0
+A01312,2023-08-07,Asistente administrativo,Arequipa,F,2.0,5,1,53,0
+A01313,2023-08-10,Asistente administrativo,Lima,F,5.2,0,0,74,1
+A01314,2023-08-11,Vendedor,Piura,F,1.2,3,0,43,0
+A01315,2023-08-11,Vendedor,Trujillo,M,2.7,7,0,83,0
+A01316,2023-08-12,Almacenero,Lima,M,1.7,1,1,48,0
+A01317,2023-08-12,Repartidor,Lima,M,3.9,1,1,87,1
+A01318,2023-08-12,Vendedor,Piura,M,5.0,9,0,41,0
+A01319,2023-08-12,Vendedor,Piura,F,2.6,2,0,78,0
+A01320,2023-08-13,Asistente administrativo,Lima,F,0.1,3,0,91,0
+A01321,2023-08-13,Vendedor,Lima,F,0.8,7,0,69,0
+A01322,2023-08-13,Vendedor,Lima,F,4.3,21,1,66,0
+A01323,2023-08-13,Repartidor,Cusco,M,6.4,3,0,47,0
+A01324,2023-08-14,Repartidor,Cusco,F,9.8,9,0,62,0
+A01325,2023-08-14,Almacenero,Lima,M,6.3,9,1,39,0
+A01326,2023-08-15,Vendedor,Lima,F,4.7,0,1,69,0
+A01327,2023-08-15,Vendedor,Lima,F,10.4,0,0,44,1
+A01328,2023-08-16,Asistente administrativo,Lima,M,7.1,3,1,63,0
+A01329,2023-08-17,Vendedor,Lima,F,4.9,15,0,70,0
+A01330,2023-08-17,Almacenero,Lima,M,0.5,6,1,44,0
+A01331,2023-08-18,Vendedor,Trujillo,M,1.5,1,0,62,1
+A01332,2023-08-18,Repartidor,Lima,M,8.8,1,1,79,1
+A01333,2023-08-19,Almacenero,Piura,M,5.6,0,1,60,0
+A01334,2023-08-19,Almacenero,Trujillo,M,9.9,2,0,53,0
+A01335,2023-08-19,Asistente administrativo,Chiclayo,M,0.8,7,1,41,0
+A01336,2023-08-20,Vendedor,Lima,M,3.4,1,1,56,0
+A01337,2023-08-20,Almacenero,Trujillo,M,2.9,0,1,61,0
+A01338,2023-08-20,Vendedor,Lima,M,1.0,4,0,56,0
+A01339,2023-08-21,Asistente administrativo,Arequipa,F,0.5,3,0,66,0
+A01340,2023-08-21,Repartidor,Lima,M,1.2,17,1,50,0
+A01341,2023-08-22,Asistente administrativo,Lima,F,1.0,2,0,60,0
+A01342,2023-08-23,Vendedor,Lima,M,0.6,2,1,36,0
+A01343,2023-08-23,Repartidor,Lima,M,1.7,2,1,79,1
+A01344,2023-08-25,Vendedor,Lima,F,0.6,23,1,64,0
+A01345,2023-08-26,Repartidor,Arequipa,M,3.6,1,1,81,1
+A01346,2023-08-26,Almacenero,Lima,M,1.3,1,0,58,0
+A01347,2023-08-27,Asistente administrativo,Arequipa,M,0.2,7,0,97,1
+A01348,2023-08-27,Vendedor,Trujillo,F,3.5,5,0,49,0
+A01349,2023-08-27,Almacenero,Arequipa,M,9.7,2,1,53,0
+A01350,2023-08-28,Almacenero,Lima,F,3.8,4,0,71,0
+A01351,2023-08-28,Almacenero,Lima,M,1.2,10,0,67,1
+A01352,2023-08-28,Asistente administrativo,Lima,M,2.4,8,0,73,0
+A01353,2023-08-28,Repartidor,Trujillo,M,1.8,13,1,43,0
+A01354,2023-08-28,Repartidor,Cusco,M,1.4,1,0,73,1
+A01355,2023-08-29,Repartidor,Lima,M,6.6,4,1,52,1
+A01356,2023-08-29,Asistente administrativo,Arequipa,F,1.6,0,1,64,0
+A01357,2023-08-29,Asistente administrativo,Arequipa,F,6.1,27,0,76,1
+A01358,2023-08-30,Asistente administrativo,Lima,F,1.7,6,1,100,1
+A01359,2023-08-30,Vendedor,Lima,M,4.9,2,1,64,0
+A01360,2023-08-30,Asistente administrativo,Lima,F,3.0,34,1,67,0
+A01361,2023-09-01,Vendedor,Lima,F,3.3,27,1,50,0
+A01362,2023-09-01,Asistente administrativo,Lima,F,0.3,20,0,39,0
+A01363,2023-09-03,Vendedor,Lima,M,4.4,6,1,61,1
+A01364,2023-09-03,Vendedor,Trujillo,M,4.3,2,1,39,0
+A01365,2023-09-03,Asistente administrativo,Arequipa,F,5.7,27,0,67,0
+A01366,2023-09-04,Vendedor,Lima,F,4.6,18,1,100,1
+A01367,2023-09-06,Vendedor,Chiclayo,F,12.2,6,0,64,0
+A01368,2023-09-06,Repartidor,Chiclayo,M,3.0,2,1,68,1
+A01369,2023-09-07,Repartidor,Piura,M,2.0,2,1,61,1
+A01370,2023-09-07,Vendedor,Arequipa,F,4.7,12,1,39,0
+A01371,2023-09-07,Repartidor,Arequipa,M,2.7,0,1,61,0
+A01372,2023-09-07,Repartidor,Chiclayo,M,5.6,6,1,61,0
+A01373,2023-09-08,Almacenero,Lima,F,3.2,10,0,89,0
+A01374,2023-09-08,Almacenero,Arequipa,M,3.9,3,0,46,0
+A01375,2023-09-08,Vendedor,Lima,F,7.6,0,1,56,0
+A01376,2023-09-09,Asistente administrativo,Lima,M,8.9,1,1,55,1
+A01377,2023-09-09,Almacenero,Lima,F,8.0,11,0,79,0
+A01378,2023-09-09,Vendedor,Trujillo,M,4.3,6,1,77,0
+A01379,2023-09-09,Vendedor,Lima,M,2.8,11,0,63,1
+A01380,2023-09-09,Almacenero,Cusco,F,1.9,1,1,64,0
+A01381,2023-09-09,Vendedor,Chiclayo,F,1.5,17,0,64,0
+A01382,2023-09-10,Repartidor,Cusco,M,1.0,6,1,67,0
+A01383,2023-09-10,Almacenero,Lima,M,0.9,6,1,49,1
+A01384,2023-09-10,Vendedor,Lima,F,1.7,4,0,52,0
+A01385,2023-09-12,Asistente administrativo,Trujillo,M,2.3,1,1,49,1
+A01386,2023-09-12,Almacenero,Lima,M,2.6,7,0,69,0
+A01387,2023-09-12,Almacenero,Trujillo,M,5.5,1,1,60,0
+A01388,2023-09-14,Asistente administrativo,Cusco,F,4.4,0,0,41,0
+A01389,2023-09-14,Repartidor,Lima,M,5.0,3,1,30,0
+A01390,2023-09-15,Asistente administrativo,Trujillo,F,1.2,17,0,63,0
+A01391,2023-09-15,Vendedor,Arequipa,M,5.3,13,1,63,0
+A01392,2023-09-15,Vendedor,Lima,F,3.6,17,0,64,0
+A01393,2023-09-16,Almacenero,Cusco,M,2.6,1,1,89,0
+A01394,2023-09-16,Almacenero,Lima,M,2.6,3,0,63,0
+A01395,2023-09-16,Vendedor,Chiclayo,M,5.2,1,1,56,0
+A01396,2023-09-16,Asistente administrativo,Piura,F,4.1,5,0,56,0
+A01397,2023-09-16,Asistente administrativo,Lima,F,0.3,17,0,69,0
+A01398,2023-09-16,Vendedor,Lima,F,4.3,2,0,34,0
+A01399,2023-09-17,Vendedor,Lima,M,1.9,2,1,39,1
+A01400,2023-09-19,Asistente administrativo,Chiclayo,F,1.3,2,0,71,0
+A01401,2023-09-20,Repartidor,Cusco,M,9.0,15,1,68,0
+A01402,2023-09-20,Vendedor,Piura,F,4.1,5,1,61,0
+A01403,2023-09-20,Vendedor,Lima,F,4.2,29,0,75,0
+A01404,2023-09-21,Vendedor,Cusco,F,5.8,12,0,52,0
+A01405,2023-09-22,Almacenero,Trujillo,M,1.4,5,1,45,0
+A01406,2023-09-22,Vendedor,Lima,F,4.5,39,0,67,0
+A01407,2023-09-23,Almacenero,Chiclayo,F,5.4,27,0,81,0
+A01408,2023-09-24,Almacenero,Piura,M,8.6,4,0,53,1
+A01409,2023-09-25,Almacenero,Lima,F,5.0,13,1,64,0
+A01410,2023-09-25,Asistente administrativo,Lima,F,1.6,19,0,47,0
+A01411,2023-09-25,Vendedor,Trujillo,M,4.5,3,0,58,0
+A01412,2023-09-26,Almacenero,Cusco,M,1.0,3,0,62,0
+A01413,2023-09-26,Almacenero,Cusco,M,2.3,4,0,66,0
+A01414,2023-09-26,Vendedor,Arequipa,F,2.8,1,0,72,0
+A01415,2023-09-26,Asistente administrativo,Lima,F,0.3,15,1,60,0
+A01416,2023-09-26,Vendedor,Lima,F,2.7,7,0,69,0
+A01417,2023-09-28,Almacenero,Lima,M,1.1,3,0,58,0
+A01418,2023-09-28,Almacenero,Piura,M,2.9,3,1,83,1
+A01419,2023-09-28,Vendedor,Lima,M,1.3,3,1,66,1
+A01420,2023-09-29,Almacenero,Lima,M,7.6,4,1,38,0
+A01421,2023-09-29,Repartidor,Trujillo,F,1.1,5,1,53,0
+A01422,2023-09-29,Vendedor,Piura,M,5.3,1,1,72,0
+A01423,2023-09-29,Asistente administrativo,Trujillo,F,5.5,9,1,64,1
+A01424,2023-09-29,Vendedor,Arequipa,F,2.2,18,1,63,0
+A01425,2023-09-30,Repartidor,Trujillo,M,2.1,4,1,67,0
+A01426,2023-09-30,Almacenero,Lima,M,13.2,3,1,29,1
+A01427,2023-10-01,Vendedor,Lima,M,1.4,1,1,82,0
+A01428,2023-10-02,Repartidor,Arequipa,M,2.1,4,1,52,0
+A01429,2023-10-03,Vendedor,Lima,F,4.2,10,0,60,0
+A01430,2023-10-03,Repartidor,Lima,M,0.3,1,1,74,1
+A01431,2023-10-03,Vendedor,Cusco,M,7.6,8,1,57,0
+A01432,2023-10-04,Almacenero,Lima,M,7.0,4,1,68,0
+A01433,2023-10-04,Vendedor,Cusco,F,0.8,11,0,33,0
+A01434,2023-10-05,Repartidor,Cusco,F,5.4,23,0,51,0
+A01435,2023-10-06,Vendedor,Lima,F,3.3,1,1,72,0
+A01436,2023-10-06,Vendedor,Lima,F,8.5,6,0,49,0
+A01437,2023-10-07,Repartidor,Lima,M,9.5,3,1,37,0
+A01438,2023-10-07,Almacenero,Piura,F,4.7,2,0,49,0
+A01439,2023-10-07,Vendedor,Chiclayo,F,5.3,8,0,41,0
+A01440,2023-10-07,Repartidor,Cusco,M,5.3,0,1,65,0
+A01441,2023-10-08,Asistente administrativo,Arequipa,F,2.2,8,1,32,0
+A01442,2023-10-08,Asistente administrativo,Cusco,F,3.3,2,0,62,0
+A01443,2023-10-09,Asistente administrativo,Chiclayo,F,2.3,2,0,39,0
+A01444,2023-10-09,Vendedor,Arequipa,F,3.8,1,0,67,0
+A01445,2023-10-10,Almacenero,Cusco,M,2.5,0,1,69,0
+A01446,2023-10-10,Almacenero,Arequipa,M,7.4,2,1,61,0
+A01447,2023-10-10,Asistente administrativo,Lima,F,1.8,2,0,68,0
+A01448,2023-10-10,Repartidor,Arequipa,M,4.0,1,1,68,0
+A01449,2023-10-10,Vendedor,Lima,M,0.5,0,0,69,1
+A01450,2023-10-10,Vendedor,Lima,F,3.0,2,0,65,0
+A01451,2023-10-11,Vendedor,Cusco,M,1.5,2,1,56,0
+A01452,2023-10-11,Vendedor,Trujillo,M,2.6,12,0,75,0
+A01453,2023-10-11,Vendedor,Lima,F,2.7,2,1,63,0
+A01454,2023-10-11,Repartidor,Lima,M,1.1,1,0,56,0
+A01455,2023-10-11,Repartidor,Trujillo,M,1.5,1,0,70,0
+A01456,2023-10-12,Asistente administrativo,Piura,F,1.6,8,1,55,0
+A01457,2023-10-12,Vendedor,Lima,F,3.9,9,1,68,0
+A01458,2023-10-12,Vendedor,Chiclayo,M,3.2,3,1,57,0
+A01459,2023-10-14,Asistente administrativo,Cusco,F,7.5,18,0,75,0
+A01460,2023-10-15,Almacenero,Trujillo,M,0.5,0,1,71,1
+A01461,2023-10-15,Almacenero,Trujillo,M,3.1,10,1,45,0
+A01462,2023-10-15,Almacenero,Trujillo,M,1.8,1,1,71,0
+A01463,2023-10-16,Almacenero,Lima,M,2.7,7,1,92,1
+A01464,2023-10-17,Vendedor,Lima,M,7.7,1,1,65,1
+A01465,2023-10-18,Asistente administrativo,Trujillo,F,6.5,13,1,88,0
+A01466,2023-10-19,Vendedor,Lima,F,2.1,83,0,77,0
+A01467,2023-10-19,Repartidor,Trujillo,F,5.0,13,0,28,0
+A01468,2023-10-21,Repartidor,Trujillo,F,1.5,0,0,61,0
+A01469,2023-10-21,Repartidor,Cusco,M,5.7,3,1,61,1
+A01470,2023-10-21,Vendedor,Piura,F,3.6,28,1,68,0
+A01471,2023-10-22,Asistente administrativo,Chiclayo,F,2.9,5,0,53,0
+A01472,2023-10-22,Repartidor,Trujillo,M,2.6,0,1,40,0
+A01473,2023-10-23,Asistente administrativo,Lima,M,2.3,10,0,74,0
+A01474,2023-10-23,Almacenero,Cusco,F,1.7,17,0,53,0
+A01475,2023-10-24,Almacenero,Lima,F,9.0,16,0,53,0
+A01476,2023-10-24,Repartidor,Lima,M,0.5,0,1,38,0
+A01477,2023-10-24,Vendedor,Cusco,M,8.0,0,0,74,0
+A01478,2023-10-25,Vendedor,Chiclayo,F,7.5,1,1,59,0
+A01479,2023-10-25,Repartidor,Lima,F,2.4,55,1,92,0
+A01480,2023-10-25,Almacenero,Cusco,M,3.1,5,1,75,0
+A01481,2023-10-27,Vendedor,Lima,M,0.9,2,1,46,0
+A01482,2023-10-27,Vendedor,Lima,F,3.2,9,0,45,1
+A01483,2023-10-27,Almacenero,Cusco,M,4.0,9,0,45,1
+A01484,2023-10-28,Asistente administrativo,Cusco,F,3.0,7,0,74,0
+A01485,2023-10-28,Asistente administrativo,Lima,M,2.9,3,1,71,1
+A01486,2023-10-28,Repartidor,Piura,M,1.5,11,1,38,0
+A01487,2023-10-28,Vendedor,Arequipa,F,1.4,2,0,61,0
+A01488,2023-10-28,Repartidor,Chiclayo,M,1.8,3,1,45,0
+A01489,2023-10-29,Vendedor,Lima,F,14.6,9,0,100,1
+A01490,2023-10-30,Vendedor,Lima,M,1.6,1,0,44,0
+A01491,2023-10-31,Almacenero,Cusco,M,0.1,6,0,72,0
+A01492,2023-10-31,Repartidor,Arequipa,F,0.7,14,1,83,1
+A01493,2023-10-31,Repartidor,Lima,M,4.4,1,1,55,1
+A01494,2023-10-31,Asistente administrativo,Piura,M,5.1,5,1,62,0
+A01495,2023-11-01,Vendedor,Lima,M,3.6,1,1,75,1
+A01496,2023-11-01,Repartidor,Piura,M,4.0,1,1,53,0
+A01497,2023-11-02,Vendedor,Lima,F,1.2,10,1,42,0
+A01498,2023-11-02,Almacenero,Cusco,F,6.2,6,0,55,0
+A01499,2023-11-02,Vendedor,Chiclayo,M,6.7,5,1,51,0
+A01500,2023-11-03,Repartidor,Arequipa,M,9.4,11,0,61,0
+A01501,2023-11-03,Almacenero,Piura,M,5.2,4,1,77,1
+A01502,2023-11-03,Asistente administrativo,Chiclayo,F,1.3,17,0,81,1
+A01503,2023-11-04,Almacenero,Lima,F,3.5,6,1,55,0
+A01504,2023-11-04,Repartidor,Trujillo,M,2.2,9,0,60,0
+A01505,2023-11-04,Vendedor,Lima,M,1.7,4,1,89,0
+A01506,2023-11-05,Asistente administrativo,Trujillo,M,2.3,7,1,72,0
+A01507,2023-11-05,Almacenero,Trujillo,F,2.7,3,1,60,0
+A01508,2023-11-05,Asistente administrativo,Lima,F,4.8,1,0,63,0
+A01509,2023-11-05,Vendedor,Lima,F,5.7,14,0,61,0
+A01510,2023-11-06,Vendedor,Lima,M,6.0,4,1,54,0
+A01511,2023-11-06,Vendedor,Lima,M,1.1,1,1,38,0
+A01512,2023-11-07,Vendedor,Arequipa,M,5.9,6,1,64,0
+A01513,2023-11-07,Asistente administrativo,Lima,F,2.9,20,1,62,1
+A01514,2023-11-07,Almacenero,Lima,M,5.2,7,1,83,1
+A01515,2023-11-07,Vendedor,Trujillo,M,4.2,3,1,62,1
+A01516,2023-11-08,Vendedor,Chiclayo,F,10.7,41,0,61,0
+A01517,2023-11-09,Almacenero,Trujillo,M,3.6,3,1,95,0
+A01518,2023-11-09,Vendedor,Lima,M,3.0,7,0,56,1
+A01519,2023-11-09,Almacenero,Lima,M,6.6,2,1,46,1
+A01520,2023-11-10,Repartidor,Lima,M,1.9,2,1,62,0
+A01521,2023-11-10,Almacenero,Trujillo,M,2.8,0,0,20,0
+A01522,2023-11-10,Vendedor,Trujillo,F,4.0,0,0,56,0
+A01523,2023-11-10,Vendedor,Lima,M,4.9,0,0,56,1
+A01524,2023-11-10,Asistente administrativo,Piura,F,5.2,56,1,61,0
+A01525,2023-11-11,Repartidor,Chiclayo,M,2.8,2,0,76,0
+A01526,2023-11-11,Asistente administrativo,Cusco,M,9.8,4,0,44,0
+A01527,2023-11-11,Almacenero,Cusco,F,7.8,14,0,62,0
+A01528,2023-11-11,Almacenero,Lima,M,0.9,7,1,30,0
+A01529,2023-11-12,Repartidor,Lima,M,2.2,1,0,67,1
+A01530,2023-11-15,Asistente administrativo,Piura,F,1.8,5,1,78,1
+A01531,2023-11-15,Vendedor,Piura,M,1.0,1,1,58,0
+A01532,2023-11-15,Vendedor,Chiclayo,M,2.4,7,0,45,0
+A01533,2023-11-15,Asistente administrativo,Cusco,F,3.9,5,0,72,0
+A01534,2023-11-15,Asistente administrativo,Arequipa,F,0.1,1,0,61,0
+A01535,2023-11-16,Vendedor,Cusco,M,1.7,0,1,100,1
+A01536,2023-11-16,Repartidor,Lima,M,3.6,1,0,69,0
+A01537,2023-11-16,Almacenero,Arequipa,M,1.3,2,1,66,1
+A01538,2023-11-16,Asistente administrativo,Lima,F,3.9,6,0,51,0
+A01539,2023-11-16,Almacenero,Arequipa,M,1.3,2,1,57,1
+A01540,2023-11-17,Vendedor,Lima,F,3.0,34,0,56,0
+A01541,2023-11-17,Vendedor,Lima,M,2.4,0,0,85,1
+A01542,2023-11-17,Almacenero,Chiclayo,M,2.0,10,1,63,1
+A01543,2023-11-17,Asistente administrativo,Arequipa,M,0.6,6,0,49,0
+A01544,2023-11-18,Repartidor,Cusco,M,1.0,5,1,67,1
+A01545,2023-11-19,Almacenero,Chiclayo,M,3.7,4,1,48,0
+A01546,2023-11-20,Vendedor,Cusco,M,2.9,7,1,66,0
+A01547,2023-11-21,Vendedor,Lima,M,1.1,1,0,58,0
+A01548,2023-11-21,Vendedor,Lima,F,0.7,5,0,85,0
+A01549,2023-11-22,Almacenero,Arequipa,F,6.8,4,0,64,0
+A01550,2023-11-22,Vendedor,Lima,M,5.1,1,1,48,0
+A01551,2023-11-22,Repartidor,Lima,F,3.4,14,0,68,0
+A01552,2023-11-22,Almacenero,Arequipa,M,3.6,0,1,40,0
+A01553,2023-11-22,Almacenero,Arequipa,M,9.1,3,1,62,1
+A01554,2023-11-23,Asistente administrativo,Lima,M,4.8,1,1,57,0
+A01555,2023-11-24,Asistente administrativo,Piura,F,6.6,1,0,55,1
+A01556,2023-11-24,Asistente administrativo,Chiclayo,M,4.9,5,1,67,0
+A01557,2023-11-24,Almacenero,Arequipa,M,0.5,3,1,64,1
+A01558,2023-11-24,Asistente administrativo,Lima,M,6.0,6,0,57,0
+A01559,2023-11-25,Vendedor,Lima,F,5.7,4,1,92,0
+A01560,2023-11-26,Almacenero,Piura,M,3.8,6,1,26,0
+A01561,2023-11-26,Repartidor,Arequipa,M,14.9,14,0,83,1
+A01562,2023-11-26,Almacenero,Chiclayo,M,6.6,6,1,49,0
+A01563,2023-11-27,Asistente administrativo,Chiclayo,M,4.2,10,0,54,0
+A01564,2023-11-27,Asistente administrativo,Chiclayo,M,6.4,8,0,52,0
+A01565,2023-11-27,Asistente administrativo,Lima,F,4.6,10,1,58,1
+A01566,2023-11-29,Asistente administrativo,Arequipa,F,1.3,2,0,51,0
+A01567,2023-11-29,Asistente administrativo,Lima,F,1.8,6,1,85,1
+A01568,2023-11-29,Almacenero,Lima,M,4.0,1,0,100,1
+A01569,2023-11-30,Repartidor,Lima,M,4.8,3,1,82,0
+A01570,2023-11-30,Asistente administrativo,Cusco,F,11.5,12,1,71,1
+A01571,2023-12-01,Vendedor,Piura,M,0.9,1,1,66,0
+A01572,2023-12-01,Repartidor,Lima,M,1.7,1,1,67,1
+A01573,2023-12-02,Repartidor,Arequipa,M,1.1,15,1,50,1
+A01574,2023-12-02,Repartidor,Lima,M,7.2,7,1,53,1
+A01575,2023-12-02,Repartidor,Arequipa,M,1.9,1,0,71,1
+A01576,2023-12-03,Asistente administrativo,Arequipa,F,1.4,14,1,59,0
+A01577,2023-12-03,Vendedor,Lima,F,2.9,1,0,62,0
+A01578,2023-12-04,Vendedor,Trujillo,M,1.4,1,1,53,0
+A01579,2023-12-04,Asistente administrativo,Arequipa,M,5.5,8,0,70,1
+A01580,2023-12-04,Asistente administrativo,Lima,M,2.7,0,0,77,1
+A01581,2023-12-06,Almacenero,Arequipa,F,5.2,9,1,76,0
+A01582,2023-12-06,Vendedor,Trujillo,M,6.4,2,1,63,0
+A01583,2023-12-06,Repartidor,Lima,M,3.1,3,0,59,0
+A01584,2023-12-06,Vendedor,Lima,F,5.6,35,1,48,0
+A01585,2023-12-07,Asistente administrativo,Lima,M,5.9,6,1,67,0
+A01586,2023-12-07,Asistente administrativo,Lima,F,15.5,9,0,53,0
+A01587,2023-12-07,Almacenero,Chiclayo,M,3.0,7,0,66,1
+A01588,2023-12-07,Vendedor,Cusco,M,7.7,0,0,49,0
+A01589,2023-12-08,Repartidor,Piura,F,13.1,42,0,53,0
+A01590,2023-12-08,Asistente administrativo,Chiclayo,F,3.6,20,0,74,1
+A01591,2023-12-08,Vendedor,Piura,F,4.9,43,1,52,0
+A01592,2023-12-08,Repartidor,Lima,M,2.8,2,1,79,1
+A01593,2023-12-08,Vendedor,Trujillo,M,6.8,8,1,37,1
+A01594,2023-12-09,Almacenero,Piura,M,2.2,1,1,57,0
+A01595,2023-12-09,Vendedor,Arequipa,M,15.6,4,1,100,1
+A01596,2023-12-10,Asistente administrativo,Cusco,F,4.0,5,1,72,1
+A01597,2023-12-10,Almacenero,Lima,M,11.3,1,0,75,0
+A01598,2023-12-10,Vendedor,Cusco,M,7.0,1,1,55,0
+A01599,2023-12-11,Almacenero,Arequipa,F,6.3,12,0,60,0
+A01600,2023-12-12,Vendedor,Lima,M,5.2,3,0,51,0
+A01601,2023-12-12,Repartidor,Arequipa,M,1.6,0,0,57,0
+A01602,2023-12-13,Vendedor,Arequipa,M,1.5,1,1,49,0
+A01603,2023-12-13,Vendedor,Cusco,M,4.5,1,1,41,0
+A01604,2023-12-13,Vendedor,Lima,M,1.6,4,0,79,0
+A01605,2023-12-13,Almacenero,Lima,M,5.2,7,0,71,0
+A01606,2023-12-13,Repartidor,Chiclayo,F,3.2,20,1,53,0
+A01607,2023-12-13,Vendedor,Chiclayo,M,7.2,7,0,67,0
+A01608,2023-12-14,Asistente administrativo,Lima,M,0.8,4,0,70,0
+A01609,2023-12-15,Repartidor,Lima,M,7.5,2,1,88,1
+A01610,2023-12-15,Repartidor,Arequipa,M,2.9,11,1,67,0
+A01611,2023-12-16,Repartidor,Chiclayo,M,2.9,4,0,64,0
+A01612,2023-12-16,Almacenero,Cusco,M,0.6,9,1,73,1
+A01613,2023-12-17,Asistente administrativo,Cusco,F,15.1,9,1,70,1
+A01614,2023-12-17,Repartidor,Lima,M,4.5,0,1,53,0
+A01615,2023-12-17,Repartidor,Arequipa,F,0.4,9,0,99,0
+A01616,2023-12-17,Asistente administrativo,Arequipa,F,6.9,7,0,57,0
+A01617,2023-12-17,Asistente administrativo,Lima,F,3.3,0,0,70,0
+A01618,2023-12-17,Asistente administrativo,Chiclayo,M,5.1,6,1,46,1
+A01619,2023-12-17,Asistente administrativo,Lima,M,2.1,4,1,64,0
+A01620,2023-12-18,Almacenero,Lima,M,6.1,1,0,50,0
+A01621,2023-12-18,Repartidor,Cusco,M,0.1,1,1,65,0
+A01622,2023-12-18,Almacenero,Lima,F,7.0,9,1,50,1
+A01623,2023-12-19,Asistente administrativo,Lima,F,4.2,23,0,52,0
+A01624,2023-12-19,Almacenero,Lima,F,3.0,15,0,71,0
+A01625,2023-12-19,Asistente administrativo,Cusco,F,5.5,20,0,81,0
+A01626,2023-12-20,Vendedor,Lima,F,1.0,17,0,43,0
+A01627,2023-12-20,Vendedor,Cusco,F,1.7,0,0,71,0
+A01628,2023-12-21,Repartidor,Arequipa,M,0.8,0,1,81,1
+A01629,2023-12-21,Repartidor,Piura,M,0.5,8,1,50,0
+A01630,2023-12-22,Vendedor,Lima,F,3.6,42,1,36,0
+A01631,2023-12-22,Asistente administrativo,Arequipa,M,9.5,8,1,70,0
+A01632,2023-12-23,Vendedor,Cusco,F,5.1,15,0,61,0
+A01633,2023-12-23,Vendedor,Cusco,F,3.6,1,0,74,1
+A01634,2023-12-24,Vendedor,Cusco,M,4.6,1,1,76,0
+A01635,2023-12-24,Repartidor,Cusco,M,1.5,3,1,49,0
+A01636,2023-12-25,Repartidor,Lima,M,5.4,3,1,69,0
+A01637,2023-12-25,Repartidor,Lima,M,1.5,0,1,78,1
+A01638,2023-12-26,Repartidor,Piura,M,0.5,4,1,33,0
+A01639,2023-12-26,Repartidor,Lima,M,2.8,3,0,67,1
+A01640,2023-12-26,Almacenero,Piura,M,0.8,4,0,69,0
+A01641,2023-12-26,Asistente administrativo,Lima,F,1.2,5,0,68,0
+A01642,2023-12-27,Asistente administrativo,Piura,M,3.3,2,1,73,1
+A01643,2023-12-27,Vendedor,Chiclayo,M,3.8,1,0,51,0
+A01644,2023-12-28,Almacenero,Lima,M,0.3,5,0,44,0
+A01645,2023-12-28,Repartidor,Lima,M,1.2,6,0,50,0
+A01646,2023-12-28,Asistente administrativo,Trujillo,F,5.5,8,0,56,0
+A01647,2023-12-30,Repartidor,Lima,M,3.6,0,1,59,0
+A01648,2023-12-30,Vendedor,Lima,F,2.3,16,1,47,0
+A01649,2023-12-31,Vendedor,Chiclayo,F,1.1,8,1,42,0
+A01650,2024-01-02,Almacenero,Cusco,M,7.1,2,0,40,0
+A01651,2024-01-02,Repartidor,Lima,M,0.7,2,1,52,0
+A01652,2024-01-02,Almacenero,Lima,M,4.9,14,0,44,0
+A01653,2024-01-03,Vendedor,Cusco,M,5.3,4,0,45,1
+A01654,2024-01-04,Asistente administrativo,Cusco,F,4.1,7,1,79,0
+A01655,2024-01-05,Asistente administrativo,Cusco,F,2.3,43,1,59,0
+A01656,2024-01-06,Almacenero,Arequipa,F,2.4,8,1,24,0
+A01657,2024-01-07,Vendedor,Chiclayo,F,10.3,20,0,61,0
+A01658,2024-01-07,Almacenero,Lima,M,5.0,1,0,49,1
+A01659,2024-01-07,Vendedor,Piura,F,3.0,8,1,70,1
+A01660,2024-01-08,Vendedor,Lima,M,5.6,3,0,80,0
+A01661,2024-01-08,Asistente administrativo,Piura,M,8.0,3,1,50,0
+A01662,2024-01-09,Repartidor,Cusco,M,6.2,2,1,55,1
+A01663,2024-01-09,Asistente administrativo,Lima,F,3.2,17,0,56,0
+A01664,2024-01-09,Vendedor,Lima,M,2.4,0,1,47,1
+A01665,2024-01-09,Asistente administrativo,Lima,M,8.2,1,0,71,1
+A01666,2024-01-10,Asistente administrativo,Piura,F,1.4,8,0,64,0
+A01667,2024-01-10,Vendedor,Lima,M,3.1,3,1,86,1
+A01668,2024-01-10,Repartidor,Cusco,M,3.4,0,1,50,0
+A01669,2024-01-10,Vendedor,Arequipa,F,4.9,2,1,71,1
+A01670,2024-01-13,Repartidor,Lima,M,2.6,0,1,75,0
+A01671,2024-01-14,Repartidor,Cusco,M,2.6,2,0,88,0
+A01672,2024-01-14,Almacenero,Lima,M,1.3,1,1,40,0
+A01673,2024-01-14,Repartidor,Arequipa,M,6.2,2,1,62,1
+A01674,2024-01-16,Repartidor,Arequipa,F,1.4,15,0,46,0
+A01675,2024-01-16,Repartidor,Trujillo,M,4.8,1,1,64,1
+A01676,2024-01-17,Asistente administrativo,Arequipa,M,4.1,4,0,54,0
+A01677,2024-01-17,Almacenero,Chiclayo,M,2.3,3,1,25,0
+A01678,2024-01-17,Asistente administrativo,Trujillo,M,5.1,3,1,52,0
+A01679,2024-01-17,Asistente administrativo,Arequipa,F,5.6,9,1,55,0
+A01680,2024-01-18,Vendedor,Arequipa,F,3.4,14,0,63,0
+A01681,2024-01-18,Almacenero,Lima,F,4.4,4,1,61,0
+A01682,2024-01-19,Repartidor,Lima,M,1.5,1,1,67,0
+A01683,2024-01-19,Vendedor,Trujillo,F,2.8,7,0,66,0
+A01684,2024-01-19,Almacenero,Arequipa,M,2.4,3,1,74,0
+A01685,2024-01-19,Vendedor,Lima,F,4.1,13,1,69,0
+A01686,2024-01-20,Repartidor,Trujillo,M,10.7,17,1,57,0
+A01687,2024-01-20,Asistente administrativo,Arequipa,F,2.3,6,1,62,1
+A01688,2024-01-20,Repartidor,Cusco,M,1.6,4,1,80,0
+A01689,2024-01-21,Vendedor,Lima,M,8.4,4,1,46,0
+A01690,2024-01-22,Almacenero,Lima,M,3.5,15,1,58,1
+A01691,2024-01-22,Repartidor,Chiclayo,M,6.1,3,1,47,1
+A01692,2024-01-23,Almacenero,Piura,M,5.9,11,1,66,0
+A01693,2024-01-23,Vendedor,Cusco,F,8.8,20,1,85,0
+A01694,2024-01-23,Vendedor,Lima,F,6.5,8,0,47,0
+A01695,2024-01-24,Vendedor,Lima,F,0.8,3,0,40,0
+A01696,2024-01-24,Vendedor,Lima,M,20.6,5,0,76,1
+A01697,2024-01-24,Vendedor,Chiclayo,F,2.8,6,1,49,0
+A01698,2024-01-24,Almacenero,Cusco,M,5.4,0,1,71,1
+A01699,2024-01-24,Vendedor,Cusco,F,6.9,19,1,50,0
+A01700,2024-01-25,Asistente administrativo,Lima,F,8.1,0,0,65,1
+A01701,2024-01-25,Vendedor,Lima,M,3.9,2,0,56,1
+A01702,2024-01-26,Repartidor,Lima,M,1.4,8,0,54,0
+A01703,2024-01-26,Almacenero,Lima,M,4.5,23,1,84,0
+A01704,2024-01-26,Vendedor,Lima,M,4.7,8,1,84,1
+A01705,2024-01-26,Almacenero,Lima,M,5.3,3,1,69,1
+A01706,2024-01-26,Vendedor,Cusco,F,3.5,12,0,63,0
+A01707,2024-01-27,Repartidor,Lima,M,2.4,0,1,92,1
+A01708,2024-01-28,Repartidor,Trujillo,F,3.3,15,0,29,0
+A01709,2024-01-28,Repartidor,Arequipa,F,8.1,16,0,60,0
+A01710,2024-01-29,Repartidor,Lima,M,2.4,3,1,77,0
+A01711,2024-01-29,Almacenero,Lima,M,2.0,7,1,77,0
+A01712,2024-01-30,Vendedor,Lima,M,1.5,1,1,46,0
+A01713,2024-01-30,Repartidor,Lima,F,5.0,4,1,68,1
+A01714,2024-01-30,Vendedor,Arequipa,M,5.0,7,1,43,0
+A01715,2024-01-31,Almacenero,Cusco,M,5.7,2,1,75,0
+A01716,2024-02-01,Asistente administrativo,Trujillo,F,4.2,4,0,60,0
+A01717,2024-02-02,Vendedor,Lima,M,6.3,0,1,46,1
+A01718,2024-02-02,Vendedor,Lima,M,1.7,2,1,69,0
+A01719,2024-02-03,Almacenero,Arequipa,M,1.0,4,1,51,0
+A01720,2024-02-03,Asistente administrativo,Lima,F,3.3,9,0,67,0
+A01721,2024-02-05,Vendedor,Lima,F,5.9,4,0,67,0
+A01722,2024-02-06,Almacenero,Piura,M,4.1,6,1,82,0
+A01723,2024-02-06,Repartidor,Arequipa,M,1.2,3,1,55,0
+A01724,2024-02-07,Asistente administrativo,Piura,M,3.3,6,1,58,0
+A01725,2024-02-07,Repartidor,Lima,M,2.1,8,0,90,0
+A01726,2024-02-07,Almacenero,Chiclayo,M,4.5,2,0,44,0
+A01727,2024-02-08,Asistente administrativo,Cusco,F,1.4,1,1,54,1
+A01728,2024-02-08,Vendedor,Lima,F,0.9,25,0,87,0
+A01729,2024-02-08,Repartidor,Cusco,M,3.7,0,0,92,0
+A01730,2024-02-09,Repartidor,Cusco,M,2.3,0,0,52,0
+A01731,2024-02-09,Repartidor,Arequipa,M,6.1,7,1,41,0
+A01732,2024-02-10,Repartidor,Lima,M,7.7,5,1,64,0
+A01733,2024-02-10,Repartidor,Lima,M,0.8,6,1,78,0
+A01734,2024-02-10,Vendedor,Arequipa,F,7.6,2,1,66,0
+A01735,2024-02-11,Asistente administrativo,Lima,F,0.7,13,1,59,0
+A01736,2024-02-12,Asistente administrativo,Piura,F,6.3,10,0,59,0
+A01737,2024-02-13,Asistente administrativo,Lima,M,7.1,1,1,63,1
+A01738,2024-02-13,Almacenero,Lima,F,4.9,16,1,93,1
+A01739,2024-02-13,Asistente administrativo,Arequipa,F,1.4,2,1,39,1
+A01740,2024-02-13,Vendedor,Lima,M,2.4,9,0,69,0
+A01741,2024-02-13,Repartidor,Lima,F,1.6,2,1,60,0
+A01742,2024-02-14,Repartidor,Trujillo,M,3.9,8,1,45,1
+A01743,2024-02-14,Asistente administrativo,Trujillo,F,7.8,14,0,54,0
+A01744,2024-02-15,Vendedor,Trujillo,M,3.5,7,1,74,0
+A01745,2024-02-17,Vendedor,Chiclayo,F,7.5,32,0,52,0
+A01746,2024-02-18,Asistente administrativo,Trujillo,M,4.4,3,0,72,0
+A01747,2024-02-18,Asistente administrativo,Lima,F,4.6,24,0,65,0
+A01748,2024-02-18,Asistente administrativo,Lima,F,4.9,1,0,64,0
+A01749,2024-02-18,Almacenero,Cusco,M,6.0,4,1,75,1
+A01750,2024-02-18,Repartidor,Lima,M,3.3,14,0,47,0
+A01751,2024-02-19,Asistente administrativo,Lima,F,0.5,2,0,37,0
+A01752,2024-02-20,Vendedor,Lima,F,6.5,1,1,59,0
+A01753,2024-02-21,Repartidor,Lima,M,2.1,8,1,61,1
+A01754,2024-02-22,Repartidor,Lima,M,4.2,1,0,61,0
+A01755,2024-02-23,Repartidor,Trujillo,M,5.4,5,1,36,0
+A01756,2024-02-23,Almacenero,Piura,M,2.1,1,1,71,0
+A01757,2024-02-23,Asistente administrativo,Trujillo,M,5.0,2,0,54,0
+A01758,2024-02-24,Vendedor,Piura,F,9.6,4,0,59,0
+A01759,2024-02-24,Vendedor,Arequipa,M,0.5,5,1,71,0
+A01760,2024-02-24,Vendedor,Lima,F,5.3,14,1,84,0
+A01761,2024-02-25,Asistente administrativo,Arequipa,F,6.4,16,0,45,0
+A01762,2024-02-25,Almacenero,Arequipa,M,0.6,3,1,65,0
+A01763,2024-02-25,Repartidor,Arequipa,M,2.2,3,1,49,0
+A01764,2024-02-26,Vendedor,Lima,F,3.5,3,0,53,0
+A01765,2024-02-27,Vendedor,Arequipa,M,3.2,3,1,76,0
+A01766,2024-02-27,Repartidor,Arequipa,M,6.4,3,1,65,0
+A01767,2024-02-27,Vendedor,Lima,M,3.2,3,0,62,0
+A01768,2024-02-28,Repartidor,Arequipa,M,7.4,0,0,56,0
+A01769,2024-02-28,Vendedor,Lima,F,3.1,4,0,62,0
+A01770,2024-02-29,Vendedor,Trujillo,F,4.2,7,0,60,0
+A01771,2024-02-29,Repartidor,Lima,M,2.5,4,1,64,1
+A01772,2024-02-29,Almacenero,Piura,F,4.1,16,0,77,0
+A01773,2024-03-01,Vendedor,Cusco,F,11.0,14,0,81,0
+A01774,2024-03-01,Asistente administrativo,Cusco,F,1.3,2,1,43,0
+A01775,2024-03-02,Vendedor,Cusco,M,13.1,2,1,58,0
+A01776,2024-03-02,Vendedor,Lima,M,3.7,2,1,54,1
+A01777,2024-03-02,Vendedor,Trujillo,M,1.1,5,1,68,0
+A01778,2024-03-03,Repartidor,Piura,M,3.3,0,1,65,0
+A01779,2024-03-03,Repartidor,Cusco,M,3.1,2,1,32,0
+A01780,2024-03-03,Vendedor,Trujillo,F,1.7,9,0,48,0
+A01781,2024-03-03,Asistente administrativo,Cusco,F,2.6,20,0,68,0
+A01782,2024-03-03,Asistente administrativo,Lima,F,6.7,33,0,65,0
+A01783,2024-03-04,Repartidor,Lima,M,1.4,1,1,61,1
+A01784,2024-03-04,Repartidor,Chiclayo,M,3.4,1,1,52,0
+A01785,2024-03-05,Repartidor,Lima,M,4.0,9,0,60,0
+A01786,2024-03-05,Almacenero,Chiclayo,F,5.1,9,0,42,0
+A01787,2024-03-05,Repartidor,Trujillo,M,8.1,9,0,89,1
+A01788,2024-03-05,Almacenero,Arequipa,F,2.3,18,0,24,0
+A01789,2024-03-05,Asistente administrativo,Lima,F,4.7,6,1,71,0
+A01790,2024-03-05,Vendedor,Lima,F,12.4,25,0,77,1
+A01791,2024-03-06,Vendedor,Trujillo,M,9.6,1,1,67,0
+A01792,2024-03-06,Asistente administrativo,Lima,F,2.5,7,1,67,0
+A01793,2024-03-06,Asistente administrativo,Piura,F,1.2,2,1,59,1
+A01794,2024-03-06,Asistente administrativo,Trujillo,M,2.6,6,0,72,0
+A01795,2024-03-08,Vendedor,Lima,M,1.1,2,1,95,0
+A01796,2024-03-08,Vendedor,Lima,M,2.6,0,0,62,0
+A01797,2024-03-08,Vendedor,Arequipa,M,2.2,19,0,71,0
+A01798,2024-03-09,Vendedor,Arequipa,F,0.6,32,0,63,0
+A01799,2024-03-09,Vendedor,Chiclayo,M,2.3,3,0,41,0
+A01800,2024-03-09,Asistente administrativo,Trujillo,F,5.4,15,1,76,0
+A01801,2024-03-10,Repartidor,Lima,M,3.5,5,1,62,0
+A01802,2024-03-10,Repartidor,Lima,M,0.4,2,1,61,1
+A01803,2024-03-10,Vendedor,Lima,M,1.9,2,1,88,0
+A01804,2024-03-11,Vendedor,Chiclayo,M,4.0,3,1,47,0
+A01805,2024-03-11,Asistente administrativo,Lima,M,2.3,8,1,47,1
+A01806,2024-03-11,Vendedor,Piura,F,6.0,10,1,37,0
+A01807,2024-03-12,Repartidor,Cusco,M,3.9,1,1,67,1
+A01808,2024-03-13,Vendedor,Cusco,M,1.2,10,0,60,0
+A01809,2024-03-13,Almacenero,Piura,M,1.5,3,1,57,0
+A01810,2024-03-13,Repartidor,Lima,M,3.0,13,1,63,0
+A01811,2024-03-13,Almacenero,Cusco,M,4.9,1,1,72,1
+A01812,2024-03-14,Asistente administrativo,Piura,M,2.0,6,1,60,0
+A01813,2024-03-14,Asistente administrativo,Lima,M,6.2,3,1,56,0
+A01814,2024-03-14,Repartidor,Arequipa,M,2.4,2,1,78,1
+A01815,2024-03-15,Almacenero,Lima,M,2.8,11,1,20,0
+A01816,2024-03-15,Almacenero,Lima,M,2.0,4,0,72,0
+A01817,2024-03-15,Vendedor,Lima,M,2.2,1,1,49,0
+A01818,2024-03-15,Repartidor,Chiclayo,F,6.7,23,0,46,0
+A01819,2024-03-15,Vendedor,Arequipa,M,6.3,2,1,80,1
+A01820,2024-03-17,Vendedor,Arequipa,M,8.6,0,1,68,1
+A01821,2024-03-18,Almacenero,Lima,M,4.1,7,1,54,0
+A01822,2024-03-18,Vendedor,Cusco,M,6.4,3,0,38,0
+A01823,2024-03-18,Vendedor,Lima,F,3.8,11,0,60,0
+A01824,2024-03-18,Almacenero,Arequipa,M,3.9,3,1,60,1
+A01825,2024-03-21,Repartidor,Chiclayo,M,7.0,1,1,59,1
+A01826,2024-03-21,Vendedor,Lima,F,2.5,26,1,30,0
+A01827,2024-03-22,Almacenero,Cusco,M,6.6,2,1,65,0
+A01828,2024-03-24,Vendedor,Piura,F,3.5,6,1,55,0
+A01829,2024-03-24,Asistente administrativo,Chiclayo,F,7.0,1,1,65,1
+A01830,2024-03-25,Vendedor,Lima,M,0.9,2,1,62,0
+A01831,2024-03-25,Vendedor,Trujillo,M,5.4,3,1,46,0
+A01832,2024-03-25,Repartidor,Trujillo,M,1.1,2,1,68,0
+A01833,2024-03-26,Repartidor,Trujillo,F,2.7,2,0,66,1
+A01834,2024-03-27,Almacenero,Arequipa,M,3.1,2,0,54,0
+A01835,2024-03-27,Vendedor,Lima,F,0.3,35,0,60,0
+A01836,2024-03-28,Vendedor,Chiclayo,M,4.0,3,1,79,1
+A01837,2024-03-28,Almacenero,Arequipa,M,3.4,0,0,90,0
+A01838,2024-03-29,Almacenero,Trujillo,M,4.7,3,0,52,1
+A01839,2024-03-29,Repartidor,Piura,M,2.2,6,1,56,1
+A01840,2024-03-29,Vendedor,Lima,F,0.8,31,1,59,0
+A01841,2024-03-30,Almacenero,Cusco,M,2.0,2,1,75,1
+A01842,2024-03-30,Vendedor,Lima,M,1.6,1,0,82,0
+A01843,2024-03-31,Almacenero,Lima,F,15.7,14,0,74,0
+A01844,2024-03-31,Vendedor,Piura,M,4.9,0,1,57,1
+A01845,2024-03-31,Asistente administrativo,Lima,F,2.2,6,0,69,0
+A01846,2024-03-31,Almacenero,Lima,F,0.3,3,0,77,0
+A01847,2024-04-01,Repartidor,Lima,M,1.6,5,1,93,0
+A01848,2024-04-01,Vendedor,Lima,M,0.9,3,1,84,1
+A01849,2024-04-01,Asistente administrativo,Lima,F,1.8,1,0,50,0
+A01850,2024-04-01,Vendedor,Lima,M,1.9,15,1,65,0
+A01851,2024-04-01,Vendedor,Trujillo,M,4.3,2,1,66,0
+A01852,2024-04-02,Vendedor,Piura,M,9.2,9,0,85,0
+A01853,2024-04-02,Repartidor,Lima,M,5.2,1,0,48,0
+A01854,2024-04-03,Repartidor,Lima,M,3.4,1,0,69,0
+A01855,2024-04-03,Repartidor,Lima,M,1.9,10,1,62,1
+A01856,2024-04-04,Repartidor,Cusco,M,2.6,27,1,72,0
+A01857,2024-04-04,Almacenero,Chiclayo,M,2.0,4,1,58,1
+A01858,2024-04-05,Vendedor,Lima,M,5.3,1,0,42,0
+A01859,2024-04-05,Asistente administrativo,Lima,F,0.6,9,0,67,0
+A01860,2024-04-05,Vendedor,Piura,M,6.2,7,0,56,0
+A01861,2024-04-05,Vendedor,Cusco,M,7.4,5,0,78,0
+A01862,2024-04-06,Almacenero,Chiclayo,F,6.3,3,0,77,1
+A01863,2024-04-08,Almacenero,Arequipa,M,3.5,3,1,59,0
+A01864,2024-04-09,Repartidor,Arequipa,M,8.5,6,1,79,1
+A01865,2024-04-09,Almacenero,Trujillo,M,5.1,4,1,61,0
+A01866,2024-04-09,Almacenero,Trujillo,M,3.3,6,1,78,0
+A01867,2024-04-10,Vendedor,Arequipa,F,4.2,1,1,47,0
+A01868,2024-04-10,Vendedor,Chiclayo,M,2.8,8,0,49,0
+A01869,2024-04-11,Asistente administrativo,Lima,F,0.8,1,1,78,1
+A01870,2024-04-13,Repartidor,Lima,M,1.6,0,1,73,0
+A01871,2024-04-13,Asistente administrativo,Trujillo,F,0.5,6,1,61,0
+A01872,2024-04-13,Repartidor,Arequipa,M,1.8,10,1,76,0
+A01873,2024-04-13,Vendedor,Arequipa,F,6.4,15,1,56,0
+A01874,2024-04-13,Vendedor,Lima,F,4.3,97,0,64,0
+A01875,2024-04-14,Repartidor,Chiclayo,M,0.4,5,1,69,0
+A01876,2024-04-14,Vendedor,Lima,F,3.8,10,0,74,0
+A01877,2024-04-15,Vendedor,Lima,F,5.7,25,1,63,0
+A01878,2024-04-16,Almacenero,Chiclayo,F,3.9,11,0,80,0
+A01879,2024-04-16,Asistente administrativo,Lima,F,1.9,3,0,79,0
+A01880,2024-04-17,Almacenero,Lima,M,2.5,5,1,64,1
+A01881,2024-04-17,Vendedor,Piura,M,6.6,3,1,64,1
+A01882,2024-04-18,Vendedor,Lima,M,0.3,2,1,46,0
+A01883,2024-04-19,Asistente administrativo,Lima,F,1.8,18,1,77,0
+A01884,2024-04-19,Repartidor,Arequipa,M,3.0,7,1,46,0
+A01885,2024-04-20,Vendedor,Lima,M,1.0,2,1,66,1
+A01886,2024-04-20,Vendedor,Trujillo,F,5.4,14,1,76,0
+A01887,2024-04-20,Repartidor,Trujillo,F,8.2,27,0,35,0
+A01888,2024-04-21,Repartidor,Trujillo,M,7.6,1,1,35,0
+A01889,2024-04-21,Repartidor,Trujillo,M,3.8,1,1,69,0
+A01890,2024-04-22,Asistente administrativo,Piura,M,2.1,2,0,76,0
+A01891,2024-04-22,Repartidor,Lima,F,3.5,15,0,34,0
+A01892,2024-04-22,Vendedor,Chiclayo,M,2.4,1,0,33,1
+A01893,2024-04-22,Vendedor,Lima,F,0.9,12,1,80,0
+A01894,2024-04-23,Almacenero,Lima,M,2.9,6,1,53,0
+A01895,2024-04-23,Almacenero,Arequipa,M,3.9,3,1,35,0
+A01896,2024-04-24,Vendedor,Chiclayo,M,10.4,7,1,57,0
+A01897,2024-04-26,Almacenero,Lima,M,6.6,1,0,56,0
+A01898,2024-04-26,Vendedor,Trujillo,F,3.7,1,1,45,0
+A01899,2024-04-29,Vendedor,Piura,F,3.7,14,0,73,0
+A01900,2024-04-29,Asistente administrativo,Arequipa,F,1.3,12,1,26,0
+A01901,2024-04-30,Repartidor,Arequipa,M,5.3,2,1,52,0
+A01902,2024-04-30,Vendedor,Lima,M,3.8,6,1,74,0
+A01903,2024-05-01,Repartidor,Lima,M,5.9,8,0,62,1
+A01904,2024-05-01,Vendedor,Arequipa,M,3.2,1,1,51,0
+A01905,2024-05-02,Almacenero,Trujillo,M,5.3,1,0,42,0
+A01906,2024-05-02,Almacenero,Piura,M,2.2,3,1,63,1
+A01907,2024-05-03,Repartidor,Trujillo,M,2.2,9,1,50,0
+A01908,2024-05-04,Almacenero,Lima,F,3.8,53,1,71,1
+A01909,2024-05-04,Vendedor,Lima,M,0.9,0,1,52,1
+A01910,2024-05-05,Almacenero,Arequipa,F,5.0,25,1,61,0
+A01911,2024-05-05,Vendedor,Lima,M,7.3,1,1,42,1
+A01912,2024-05-06,Vendedor,Lima,F,5.7,16,0,56,0
+A01913,2024-05-06,Repartidor,Lima,M,4.5,2,0,61,0
+A01914,2024-05-06,Almacenero,Trujillo,M,0.4,2,0,49,0
+A01915,2024-05-06,Vendedor,Cusco,M,6.1,7,1,46,0
+A01916,2024-05-07,Almacenero,Lima,M,7.0,1,1,45,0
+A01917,2024-05-07,Repartidor,Arequipa,M,4.7,0,0,85,0
+A01918,2024-05-07,Almacenero,Arequipa,M,4.8,0,1,100,1
+A01919,2024-05-07,Almacenero,Chiclayo,M,1.7,3,1,83,1
+A01920,2024-05-07,Almacenero,Arequipa,M,1.2,1,0,77,0
+A01921,2024-05-07,Vendedor,Lima,M,0.9,12,0,60,0
+A01922,2024-05-09,Almacenero,Piura,F,0.8,8,1,33,0
+A01923,2024-05-10,Almacenero,Lima,F,2.7,5,0,53,0
+A01924,2024-05-10,Almacenero,Lima,M,8.4,1,1,44,0
+A01925,2024-05-11,Asistente administrativo,Arequipa,F,2.2,16,0,30,0
+A01926,2024-05-11,Repartidor,Arequipa,M,6.3,3,1,58,0
+A01927,2024-05-11,Repartidor,Piura,F,5.0,48,0,95,0
+A01928,2024-05-12,Vendedor,Piura,F,3.7,23,1,60,0
+A01929,2024-05-12,Asistente administrativo,Cusco,F,2.1,42,0,38,0
+A01930,2024-05-13,Vendedor,Lima,M,8.0,11,1,68,0
+A01931,2024-05-14,Repartidor,Piura,M,6.1,6,0,75,1
+A01932,2024-05-14,Vendedor,Arequipa,F,0.4,1,0,64,0
+A01933,2024-05-14,Asistente administrativo,Lima,F,1.5,12,0,64,0
+A01934,2024-05-15,Asistente administrativo,Lima,F,9.7,52,1,47,0
+A01935,2024-05-16,Repartidor,Trujillo,M,6.3,1,0,63,1
+A01936,2024-05-16,Asistente administrativo,Cusco,F,10.4,17,0,83,0
+A01937,2024-05-16,Almacenero,Arequipa,M,6.3,1,1,93,0
+A01938,2024-05-16,Vendedor,Trujillo,M,4.2,2,1,84,1
+A01939,2024-05-17,Asistente administrativo,Trujillo,M,1.9,3,1,55,0
+A01940,2024-05-17,Asistente administrativo,Cusco,M,4.4,2,1,52,0
+A01941,2024-05-18,Asistente administrativo,Lima,F,2.4,3,0,43,0
+A01942,2024-05-18,Repartidor,Lima,F,2.1,12,0,80,0
+A01943,2024-05-18,Almacenero,Chiclayo,M,2.3,5,0,65,0
+A01944,2024-05-18,Vendedor,Piura,M,2.9,13,1,61,0
+A01945,2024-05-18,Repartidor,Arequipa,M,13.6,0,1,76,1
+A01946,2024-05-18,Almacenero,Lima,F,7.6,76,0,47,0
+A01947,2024-05-18,Asistente administrativo,Trujillo,F,6.0,35,0,72,0
+A01948,2024-05-19,Repartidor,Piura,M,6.7,2,1,57,0
+A01949,2024-05-20,Vendedor,Trujillo,F,1.0,24,0,82,0
+A01950,2024-05-20,Almacenero,Trujillo,M,4.5,5,0,60,0
+A01951,2024-05-20,Vendedor,Lima,F,2.6,31,0,55,0
+A01952,2024-05-20,Vendedor,Lima,M,3.6,4,1,54,0
+A01953,2024-05-20,Vendedor,Cusco,M,7.1,5,1,69,1
+A01954,2024-05-20,Almacenero,Cusco,M,4.4,4,0,62,0
+A01955,2024-05-22,Almacenero,Cusco,F,6.0,7,0,71,0
+A01956,2024-05-23,Repartidor,Arequipa,M,2.5,7,1,56,0
+A01957,2024-05-23,Vendedor,Trujillo,F,3.1,21,0,18,0
+A01958,2024-05-24,Repartidor,Arequipa,M,1.5,0,1,52,0
+A01959,2024-05-24,Repartidor,Chiclayo,M,3.5,0,0,71,0
+A01960,2024-05-24,Vendedor,Lima,F,4.8,5,0,44,0
+A01961,2024-05-25,Almacenero,Lima,M,2.0,1,0,56,0
+A01962,2024-05-25,Repartidor,Lima,M,3.8,5,0,80,1
+A01963,2024-05-26,Vendedor,Arequipa,M,0.6,2,0,63,0
+A01964,2024-05-28,Vendedor,Piura,M,11.9,10,1,53,0
+A01965,2024-05-29,Vendedor,Piura,M,3.3,12,1,53,0
+A01966,2024-05-29,Almacenero,Trujillo,M,1.4,7,0,40,0
+A01967,2024-05-29,Vendedor,Chiclayo,M,2.7,0,1,75,0
+A01968,2024-05-29,Asistente administrativo,Lima,F,1.3,8,0,52,0
+A01969,2024-05-30,Asistente administrativo,Lima,F,1.0,4,0,40,0
+A01970,2024-05-30,Asistente administrativo,Lima,M,5.5,13,1,57,0
+A01971,2024-05-31,Vendedor,Lima,M,1.1,1,0,76,0
+A01972,2024-05-31,Vendedor,Trujillo,M,1.1,1,1,72,0
+A01973,2024-05-31,Repartidor,Lima,M,2.5,9,0,37,0
+A01974,2024-06-01,Vendedor,Lima,M,12.4,3,0,66,1
+A01975,2024-06-01,Almacenero,Lima,M,7.6,13,0,22,0
+A01976,2024-06-02,Vendedor,Lima,F,3.6,17,0,54,0
+A01977,2024-06-02,Asistente administrativo,Arequipa,M,5.0,3,1,61,0
+A01978,2024-06-03,Almacenero,Arequipa,M,3.2,0,1,80,0
+A01979,2024-06-03,Almacenero,Cusco,F,3.7,5,0,74,0
+A01980,2024-06-04,Vendedor,Lima,M,3.2,1,0,60,0
+A01981,2024-06-04,Almacenero,Lima,M,0.5,2,1,45,1
+A01982,2024-06-05,Almacenero,Chiclayo,M,0.6,3,0,51,0
+A01983,2024-06-06,Repartidor,Lima,M,2.3,0,0,58,0
+A01984,2024-06-06,Vendedor,Lima,M,2.9,1,0,64,0
+A01985,2024-06-08,Vendedor,Arequipa,F,2.0,1,1,56,0
+A01986,2024-06-09,Vendedor,Arequipa,F,1.3,15,1,65,0
+A01987,2024-06-09,Repartidor,Cusco,M,2.2,2,1,66,1
+A01988,2024-06-09,Vendedor,Lima,F,5.6,10,1,46,1
+A01989,2024-06-10,Vendedor,Chiclayo,F,7.8,10,0,85,0
+A01990,2024-06-11,Repartidor,Trujillo,M,7.2,0,0,57,0
+A01991,2024-06-11,Repartidor,Trujillo,M,7.3,6,0,60,1
+A01992,2024-06-11,Vendedor,Trujillo,F,8.2,0,1,63,1
+A01993,2024-06-12,Repartidor,Trujillo,M,3.5,4,0,74,0
+A01994,2024-06-13,Vendedor,Chiclayo,F,10.5,25,0,53,0
+A01995,2024-06-14,Almacenero,Trujillo,M,3.0,9,1,79,1
+A01996,2024-06-15,Repartidor,Lima,M,5.1,1,1,78,1
+A01997,2024-06-17,Almacenero,Lima,F,4.9,5,0,23,0
+A01998,2024-06-17,Almacenero,Lima,F,7.3,11,1,32,0
+A01999,2024-06-17,Vendedor,Chiclayo,M,3.7,7,0,100,1
+A02000,2024-06-17,Vendedor,Lima,M,1.9,4,0,69,0
+A02001,2024-06-17,Vendedor,Cusco,M,3.9,0,1,61,1
+A02002,2024-06-17,Asistente administrativo,Lima,F,1.8,45,0,62,0
+A02003,2024-06-17,Repartidor,Piura,M,2.6,3,0,65,0
+A02004,2024-06-18,Asistente administrativo,Trujillo,F,1.7,11,1,73,1
+A02005,2024-06-18,Asistente administrativo,Lima,M,3.0,2,1,60,1
+A02006,2024-06-19,Repartidor,Lima,M,3.5,1,0,83,0
+A02007,2024-06-20,Asistente administrativo,Lima,F,3.1,1,0,58,0
+A02008,2024-06-21,Almacenero,Piura,M,3.1,2,1,36,0
+A02009,2024-06-21,Vendedor,Piura,M,1.6,4,1,100,1
+A02010,2024-06-21,Vendedor,Chiclayo,M,2.6,0,1,68,0
+A02011,2024-06-24,Almacenero,Trujillo,M,1.5,2,0,70,1
+A02012,2024-06-24,Asistente administrativo,Piura,F,9.4,8,1,65,1
+A02013,2024-06-24,Almacenero,Lima,M,6.8,1,1,56,0
+A02014,2024-06-24,Asistente administrativo,Arequipa,F,9.3,4,0,51,0
+A02015,2024-06-24,Vendedor,Lima,M,2.4,2,1,50,0
+A02016,2024-06-25,Vendedor,Arequipa,M,6.4,0,1,37,1
+A02017,2024-06-26,Almacenero,Cusco,M,1.8,1,0,71,0
+A02018,2024-06-26,Vendedor,Arequipa,M,1.1,0,1,61,0
+A02019,2024-06-27,Vendedor,Trujillo,M,7.2,0,1,67,1
+A02020,2024-06-28,Asistente administrativo,Lima,M,5.4,2,1,64,0
+A02021,2024-06-28,Repartidor,Arequipa,M,0.6,1,0,69,0
+A02022,2024-06-29,Vendedor,Trujillo,M,3.9,5,1,68,1
+A02023,2024-06-29,Asistente administrativo,Trujillo,F,2.3,26,1,77,0
+A02024,2024-06-29,Repartidor,Piura,M,12.9,5,1,44,1
+A02025,2024-06-29,Asistente administrativo,Lima,F,0.8,1,1,81,1
+A02026,2024-06-29,Repartidor,Lima,M,3.3,0,1,46,0
+A02027,2024-06-29,Almacenero,Lima,M,6.0,2,0,65,0
+A02028,2024-06-30,Vendedor,Chiclayo,M,1.3,3,0,81,0
+A02029,2024-06-30,Vendedor,Lima,M,1.9,9,1,48,0
+A02030,2024-07-01,Asistente administrativo,Cusco,F,1.0,8,0,63,0
+A02031,2024-07-01,Almacenero,Trujillo,F,5.3,13,0,65,0
+A02032,2024-07-02,Almacenero,Arequipa,M,5.9,8,1,69,0
+A02033,2024-07-02,Asistente administrativo,Lima,F,2.1,5,0,42,0
+A02034,2024-07-03,Asistente administrativo,Arequipa,M,2.5,4,0,67,0
+A02035,2024-07-04,Almacenero,Chiclayo,M,6.7,8,1,58,1
+A02036,2024-07-04,Vendedor,Piura,F,0.4,4,0,69,0
+A02037,2024-07-05,Vendedor,Piura,M,1.6,5,1,69,0
+A02038,2024-07-06,Asistente administrativo,Piura,F,0.2,12,0,52,1
+A02039,2024-07-06,Asistente administrativo,Chiclayo,F,17.1,10,0,63,0
+A02040,2024-07-06,Almacenero,Arequipa,M,1.6,1,1,59,0
+A02041,2024-07-06,Asistente administrativo,Cusco,F,2.5,3,0,75,0
+A02042,2024-07-07,Asistente administrativo,Piura,F,2.3,1,1,65,0
+A02043,2024-07-07,Vendedor,Trujillo,M,2.2,7,1,63,0
+A02044,2024-07-08,Vendedor,Piura,M,7.1,0,0,71,0
+A02045,2024-07-08,Repartidor,Piura,M,7.2,2,1,75,1
+A02046,2024-07-09,Almacenero,Arequipa,M,2.1,4,0,67,0
+A02047,2024-07-09,Repartidor,Chiclayo,M,3.3,1,1,68,0
+A02048,2024-07-09,Repartidor,Piura,M,3.6,1,0,59,1
+A02049,2024-07-10,Vendedor,Lima,F,4.1,1,1,30,0
+A02050,2024-07-11,Almacenero,Lima,F,5.3,3,1,65,1
+A02051,2024-07-11,Repartidor,Lima,M,3.3,1,1,58,0
+A02052,2024-07-11,Vendedor,Lima,F,3.5,9,1,64,0
+A02053,2024-07-11,Asistente administrativo,Cusco,F,2.1,12,0,63,0
+A02054,2024-07-12,Almacenero,Lima,M,5.6,0,0,48,0
+A02055,2024-07-13,Repartidor,Chiclayo,F,13.8,42,0,7,0
+A02056,2024-07-13,Almacenero,Lima,F,3.7,24,0,91,0
+A02057,2024-07-14,Repartidor,Lima,M,3.4,15,0,71,1
+A02058,2024-07-15,Vendedor,Lima,M,7.8,1,1,36,0
+A02059,2024-07-16,Asistente administrativo,Arequipa,M,5.8,4,1,46,1
+A02060,2024-07-16,Repartidor,Lima,M,3.7,0,0,68,1
+A02061,2024-07-17,Vendedor,Arequipa,M,1.2,4,1,62,0
+A02062,2024-07-17,Almacenero,Lima,M,4.8,9,1,62,1
+A02063,2024-07-17,Almacenero,Lima,M,4.4,1,0,63,0
+A02064,2024-07-18,Repartidor,Lima,M,5.2,4,1,56,0
+A02065,2024-07-19,Asistente administrativo,Lima,M,0.6,5,0,52,0
+A02066,2024-07-19,Repartidor,Piura,F,2.0,51,1,81,0
+A02067,2024-07-19,Almacenero,Lima,M,2.3,3,1,59,0
+A02068,2024-07-20,Almacenero,Arequipa,M,4.4,7,1,63,0
+A02069,2024-07-20,Vendedor,Cusco,M,1.7,4,0,42,0
+A02070,2024-07-21,Repartidor,Piura,M,3.1,7,0,73,0
+A02071,2024-07-21,Almacenero,Lima,M,2.9,11,1,72,0
+A02072,2024-07-21,Repartidor,Trujillo,M,5.3,9,0,73,1
+A02073,2024-07-22,Repartidor,Chiclayo,M,10.7,8,1,56,1
+A02074,2024-07-22,Almacenero,Cusco,M,0.3,1,0,53,0
+A02075,2024-07-22,Asistente administrativo,Lima,M,3.5,5,1,44,0
+A02076,2024-07-23,Asistente administrativo,Trujillo,M,1.6,4,0,39,0
+A02077,2024-07-24,Asistente administrativo,Lima,F,7.1,5,0,76,1
+A02078,2024-07-24,Asistente administrativo,Lima,F,1.0,6,1,68,0
+A02079,2024-07-24,Almacenero,Lima,F,1.9,1,1,68,0
+A02080,2024-07-24,Asistente administrativo,Lima,F,2.9,19,0,47,0
+A02081,2024-07-25,Repartidor,Lima,M,3.7,6,1,88,0
+A02082,2024-07-26,Almacenero,Lima,F,0.6,32,1,32,0
+A02083,2024-07-26,Asistente administrativo,Arequipa,M,2.2,1,1,34,1
+A02084,2024-07-26,Repartidor,Lima,M,4.1,1,1,51,0
+A02085,2024-07-27,Repartidor,Lima,M,4.0,1,0,39,0
+A02086,2024-07-27,Almacenero,Lima,M,8.4,3,0,64,0
+A02087,2024-07-28,Asistente administrativo,Arequipa,M,11.1,3,0,78,1
+A02088,2024-07-28,Repartidor,Chiclayo,M,2.0,6,0,55,0
+A02089,2024-07-28,Vendedor,Cusco,M,2.1,0,1,49,1
+A02090,2024-07-29,Asistente administrativo,Lima,F,9.0,4,0,40,0
+A02091,2024-07-29,Asistente administrativo,Arequipa,F,1.8,16,0,49,0
+A02092,2024-07-30,Repartidor,Piura,M,2.9,5,1,84,0
+A02093,2024-07-30,Vendedor,Lima,F,1.8,15,0,79,0
+A02094,2024-07-30,Almacenero,Chiclayo,M,1.9,1,1,55,0
+A02095,2024-07-31,Asistente administrativo,Lima,F,2.7,7,0,60,0
+A02096,2024-08-01,Asistente administrativo,Lima,M,2.8,3,1,69,1
+A02097,2024-08-01,Almacenero,Chiclayo,M,1.7,4,1,89,1
+A02098,2024-08-02,Repartidor,Lima,F,3.3,14,0,60,0
+A02099,2024-08-02,Almacenero,Cusco,F,4.0,4,0,48,0
+A02100,2024-08-03,Repartidor,Cusco,F,2.4,11,0,76,0
+A02101,2024-08-03,Vendedor,Arequipa,M,2.4,1,1,35,0
+A02102,2024-08-04,Repartidor,Arequipa,M,1.9,1,0,53,0
+A02103,2024-08-07,Vendedor,Arequipa,M,3.4,0,1,62,0
+A02104,2024-08-07,Almacenero,Lima,F,2.7,9,1,72,0
+A02105,2024-08-08,Repartidor,Trujillo,M,6.7,0,1,33,0
+A02106,2024-08-08,Asistente administrativo,Lima,F,3.7,5,0,56,0
+A02107,2024-08-10,Almacenero,Lima,M,2.4,1,1,76,1
+A02108,2024-08-10,Almacenero,Lima,M,4.7,3,1,73,0
+A02109,2024-08-11,Repartidor,Lima,F,1.8,2,0,50,0
+A02110,2024-08-11,Vendedor,Lima,M,13.8,3,0,69,0
+A02111,2024-08-11,Almacenero,Lima,F,0.6,11,0,83,0
+A02112,2024-08-11,Vendedor,Piura,F,4.7,20,1,50,0
+A02113,2024-08-12,Almacenero,Piura,M,1.3,3,1,61,1
+A02114,2024-08-13,Repartidor,Lima,M,2.7,5,1,79,1
+A02115,2024-08-13,Repartidor,Chiclayo,M,1.5,1,1,67,0
+A02116,2024-08-13,Vendedor,Trujillo,M,6.4,2,0,61,0
+A02117,2024-08-14,Repartidor,Chiclayo,M,6.7,6,1,71,0
+A02118,2024-08-14,Repartidor,Trujillo,M,4.1,3,1,58,0
+A02119,2024-08-15,Vendedor,Lima,F,1.2,4,1,61,0
+A02120,2024-08-15,Almacenero,Trujillo,M,1.3,2,0,62,0
+A02121,2024-08-15,Repartidor,Lima,M,5.6,4,0,73,0
+A02122,2024-08-16,Almacenero,Lima,M,6.0,11,0,68,0
+A02123,2024-08-16,Vendedor,Arequipa,F,3.8,5,0,85,0
+A02124,2024-08-17,Repartidor,Lima,M,1.0,1,1,57,0
+A02125,2024-08-19,Asistente administrativo,Cusco,F,4.2,7,0,60,0
+A02126,2024-08-19,Repartidor,Piura,M,11.0,6,1,62,0
+A02127,2024-08-19,Asistente administrativo,Chiclayo,F,3.7,2,0,37,0
+A02128,2024-08-20,Asistente administrativo,Chiclayo,F,4.7,14,0,55,0
+A02129,2024-08-20,Vendedor,Lima,F,2.5,11,1,73,0
+A02130,2024-08-20,Asistente administrativo,Arequipa,M,10.7,4,1,66,1
+A02131,2024-08-20,Vendedor,Arequipa,M,3.4,10,1,55,0
+A02132,2024-08-20,Almacenero,Trujillo,M,2.9,1,0,52,0
+A02133,2024-08-21,Almacenero,Cusco,F,4.4,16,0,70,0
+A02134,2024-08-21,Vendedor,Lima,M,4.9,6,1,81,1
+A02135,2024-08-21,Vendedor,Arequipa,M,2.6,1,1,41,0
+A02136,2024-08-21,Asistente administrativo,Arequipa,F,11.3,27,0,68,0
+A02137,2024-08-22,Asistente administrativo,Lima,M,2.8,1,1,48,0
+A02138,2024-08-22,Almacenero,Lima,F,4.2,47,1,87,0
+A02139,2024-08-23,Asistente administrativo,Trujillo,F,2.5,27,0,49,0
+A02140,2024-08-23,Almacenero,Lima,M,4.4,14,0,75,0
+A02141,2024-08-26,Almacenero,Arequipa,F,1.7,1,0,57,0
+A02142,2024-08-26,Vendedor,Trujillo,M,4.7,8,1,58,1
+A02143,2024-08-26,Repartidor,Lima,M,4.1,4,1,79,0
+A02144,2024-08-26,Repartidor,Lima,F,10.0,7,0,54,0
+A02145,2024-08-27,Almacenero,Chiclayo,M,5.0,4,0,34,0
+A02146,2024-08-27,Vendedor,Lima,F,3.5,16,0,56,0
+A02147,2024-08-27,Almacenero,Piura,F,5.0,20,0,58,0
+A02148,2024-08-28,Repartidor,Lima,M,5.7,0,1,71,1
+A02149,2024-08-28,Almacenero,Lima,F,1.3,13,1,79,0
+A02150,2024-08-29,Vendedor,Lima,F,3.3,16,0,61,0
+A02151,2024-08-29,Repartidor,Cusco,M,0.9,1,0,69,1
+A02152,2024-08-29,Vendedor,Lima,M,3.0,4,1,60,0
+A02153,2024-08-31,Vendedor,Chiclayo,F,3.9,1,1,35,0
+A02154,2024-09-01,Vendedor,Piura,M,1.3,3,0,45,0
+A02155,2024-09-01,Vendedor,Piura,F,5.1,6,0,62,0
+A02156,2024-09-01,Repartidor,Arequipa,F,6.0,5,0,71,0
+A02157,2024-09-01,Almacenero,Chiclayo,M,2.6,1,1,82,0
+A02158,2024-09-02,Vendedor,Arequipa,M,8.4,28,1,67,0
+A02159,2024-09-02,Vendedor,Trujillo,M,12.0,4,1,66,0
+A02160,2024-09-02,Vendedor,Trujillo,F,2.9,28,1,46,0
+A02161,2024-09-03,Repartidor,Cusco,M,1.8,8,1,43,0
+A02162,2024-09-04,Vendedor,Chiclayo,M,4.4,5,1,52,0
+A02163,2024-09-04,Asistente administrativo,Arequipa,F,6.2,11,0,54,0
+A02164,2024-09-06,Vendedor,Cusco,F,5.4,7,0,55,0
+A02165,2024-09-06,Vendedor,Cusco,M,1.3,4,0,75,0
+A02166,2024-09-06,Almacenero,Lima,M,6.7,5,1,51,1
+A02167,2024-09-07,Asistente administrativo,Trujillo,F,4.3,1,0,45,0
+A02168,2024-09-07,Repartidor,Lima,M,2.8,1,1,48,0
+A02169,2024-09-07,Almacenero,Arequipa,M,3.4,1,1,71,1
+A02170,2024-09-08,Vendedor,Piura,F,3.6,2,1,69,0
+A02171,2024-09-09,Vendedor,Arequipa,M,1.8,0,0,81,0
+A02172,2024-09-09,Vendedor,Lima,F,2.4,11,0,45,0
+A02173,2024-09-09,Almacenero,Arequipa,M,1.8,10,1,78,0
+A02174,2024-09-11,Asistente administrativo,Lima,F,5.0,13,1,70,0
+A02175,2024-09-12,Repartidor,Lima,M,0.4,1,1,59,1
+A02176,2024-09-13,Vendedor,Lima,F,4.6,19,1,53,0
+A02177,2024-09-13,Vendedor,Piura,M,2.7,1,1,63,1
+A02178,2024-09-14,Asistente administrativo,Arequipa,F,5.9,8,0,75,0
+A02179,2024-09-14,Vendedor,Lima,M,3.2,2,1,62,1
+A02180,2024-09-15,Asistente administrativo,Trujillo,M,3.4,2,1,56,1
+A02181,2024-09-16,Asistente administrativo,Trujillo,F,4.2,1,0,67,0
+A02182,2024-09-17,Asistente administrativo,Lima,F,4.3,32,0,73,0
+A02183,2024-09-17,Almacenero,Lima,F,5.0,43,0,76,0
+A02184,2024-09-18,Vendedor,Chiclayo,F,2.3,12,1,56,0
+A02185,2024-09-18,Repartidor,Lima,M,1.3,5,1,20,0
+A02186,2024-09-18,Vendedor,Lima,F,3.8,22,0,49,0
+A02187,2024-09-18,Vendedor,Lima,M,2.8,1,1,58,0
+A02188,2024-09-18,Vendedor,Lima,M,4.5,2,1,54,0
+A02189,2024-09-19,Repartidor,Lima,F,2.7,14,0,68,0
+A02190,2024-09-20,Almacenero,Chiclayo,M,0.7,0,0,81,0
+A02191,2024-09-21,Repartidor,Lima,M,5.3,5,0,74,1
+A02192,2024-09-21,Almacenero,Lima,M,3.7,3,0,59,0
+A02193,2024-09-21,Vendedor,Cusco,M,6.1,2,1,62,0
+A02194,2024-09-22,Almacenero,Chiclayo,M,9.4,3,1,46,1
+A02195,2024-09-22,Almacenero,Lima,F,3.2,1,0,72,0
+A02196,2024-09-23,Vendedor,Lima,F,1.8,0,0,61,0
+A02197,2024-09-24,Repartidor,Lima,M,8.2,10,1,53,0
+A02198,2024-09-24,Vendedor,Lima,M,1.9,2,0,72,0
+A02199,2024-09-25,Vendedor,Lima,F,2.8,21,1,62,0
+A02200,2024-09-26,Repartidor,Chiclayo,M,2.3,4,1,67,0
+A02201,2024-09-26,Repartidor,Lima,M,16.7,7,1,66,0
+A02202,2024-09-28,Repartidor,Lima,M,0.5,3,0,93,0
+A02203,2024-09-28,Almacenero,Chiclayo,F,5.3,54,0,31,0
+A02204,2024-09-29,Repartidor,Cusco,M,1.2,0,0,58,0
+A02205,2024-09-29,Repartidor,Lima,F,4.2,4,0,78,1
+A02206,2024-09-30,Asistente administrativo,Chiclayo,F,8.9,1,0,72,0
+A02207,2024-09-30,Vendedor,Lima,F,0.6,15,0,53,0
+A02208,2024-10-01,Vendedor,Arequipa,M,4.0,2,1,60,1
+A02209,2024-10-01,Almacenero,Lima,M,1.5,0,1,61,1
+A02210,2024-10-01,Repartidor,Arequipa,M,3.3,0,1,61,0
+A02211,2024-10-01,Repartidor,Lima,M,5.2,2,0,61,0
+A02212,2024-10-01,Repartidor,Trujillo,M,3.1,3,0,49,0
+A02213,2024-10-04,Repartidor,Trujillo,M,0.4,1,0,66,1
+A02214,2024-10-04,Repartidor,Trujillo,M,2.9,0,1,61,1
+A02215,2024-10-04,Asistente administrativo,Trujillo,F,1.0,2,0,53,0
+A02216,2024-10-05,Almacenero,Chiclayo,M,1.5,3,1,76,0
+A02217,2024-10-05,Repartidor,Chiclayo,M,10.1,6,1,67,0
+A02218,2024-10-06,Almacenero,Trujillo,M,1.6,0,1,63,0
+A02219,2024-10-06,Almacenero,Lima,M,1.5,0,1,50,1
+A02220,2024-10-06,Repartidor,Trujillo,M,0.5,3,0,58,0
+A02221,2024-10-06,Vendedor,Lima,M,3.6,4,0,53,1
+A02222,2024-10-07,Almacenero,Lima,M,2.9,7,1,66,0
+A02223,2024-10-07,Vendedor,Lima,F,0.6,25,0,47,0
+A02224,2024-10-08,Almacenero,Lima,M,6.2,2,1,87,0
+A02225,2024-10-09,Vendedor,Trujillo,M,1.2,23,1,55,0
+A02226,2024-10-09,Almacenero,Lima,F,4.8,6,0,86,0
+A02227,2024-10-10,Repartidor,Chiclayo,M,1.6,2,1,62,0
+A02228,2024-10-10,Almacenero,Arequipa,M,2.9,7,1,84,0
+A02229,2024-10-10,Vendedor,Lima,F,0.9,8,0,78,1
+A02230,2024-10-11,Asistente administrativo,Lima,F,2.3,16,0,86,0
+A02231,2024-10-11,Almacenero,Trujillo,M,5.0,2,1,50,0
+A02232,2024-10-12,Asistente administrativo,Lima,F,3.4,4,0,77,0
+A02233,2024-10-13,Vendedor,Arequipa,F,8.7,22,0,60,0
+A02234,2024-10-13,Vendedor,Cusco,F,2.9,3,1,49,0
+A02235,2024-10-14,Asistente administrativo,Trujillo,F,1.0,11,0,57,1
+A02236,2024-10-14,Vendedor,Cusco,M,8.2,5,1,66,1
+A02237,2024-10-14,Almacenero,Lima,M,4.6,1,1,74,1
+A02238,2024-10-15,Vendedor,Arequipa,F,7.9,9,0,83,1
+A02239,2024-10-15,Vendedor,Cusco,F,5.0,6,1,52,0
+A02240,2024-10-15,Vendedor,Trujillo,F,0.3,1,0,81,0
+A02241,2024-10-15,Almacenero,Arequipa,M,0.4,3,1,55,0
+A02242,2024-10-16,Asistente administrativo,Lima,F,2.8,3,0,67,0
+A02243,2024-10-16,Asistente administrativo,Lima,F,4.8,1,0,81,1
+A02244,2024-10-16,Vendedor,Arequipa,F,0.4,26,1,49,0
+A02245,2024-10-16,Vendedor,Cusco,F,4.7,24,1,38,0
+A02246,2024-10-16,Repartidor,Chiclayo,M,1.1,3,0,66,0
+A02247,2024-10-16,Asistente administrativo,Lima,M,2.4,1,1,75,1
+A02248,2024-10-16,Vendedor,Lima,F,0.8,31,0,72,0
+A02249,2024-10-16,Repartidor,Cusco,M,2.4,7,0,63,0
+A02250,2024-10-16,Repartidor,Lima,F,3.3,1,0,71,0
+A02251,2024-10-17,Asistente administrativo,Lima,M,7.6,1,1,46,0
+A02252,2024-10-17,Almacenero,Piura,M,2.9,5,0,36,0
+A02253,2024-10-18,Asistente administrativo,Cusco,F,4.1,9,0,51,0
+A02254,2024-10-18,Vendedor,Trujillo,F,8.7,33,0,51,0
+A02255,2024-10-18,Vendedor,Lima,F,1.2,3,1,77,0
+A02256,2024-10-19,Repartidor,Piura,M,1.6,13,1,64,0
+A02257,2024-10-19,Almacenero,Cusco,M,4.0,2,1,49,0
+A02258,2024-10-20,Asistente administrativo,Cusco,F,11.7,2,0,51,0
+A02259,2024-10-22,Almacenero,Lima,M,6.5,6,1,58,0
+A02260,2024-10-22,Vendedor,Arequipa,M,10.8,1,1,62,1
+A02261,2024-10-22,Vendedor,Lima,M,8.5,0,1,78,0
+A02262,2024-10-22,Vendedor,Piura,M,7.0,4,1,66,1
+A02263,2024-10-23,Almacenero,Arequipa,F,1.8,6,1,83,0
+A02264,2024-10-23,Repartidor,Cusco,M,3.7,4,1,61,1
+A02265,2024-10-23,Asistente administrativo,Chiclayo,F,5.7,36,1,72,0
+A02266,2024-10-25,Vendedor,Arequipa,F,5.6,4,0,54,1
+A02267,2024-10-25,Vendedor,Cusco,F,3.6,18,0,46,0
+A02268,2024-10-26,Repartidor,Chiclayo,F,3.1,1,0,72,1
+A02269,2024-10-26,Asistente administrativo,Trujillo,F,4.5,8,1,75,1
+A02270,2024-10-27,Vendedor,Trujillo,F,1.8,0,0,49,0
+A02271,2024-10-28,Vendedor,Lima,F,5.0,10,0,71,0
+A02272,2024-10-28,Repartidor,Lima,M,8.8,0,1,40,0
+A02273,2024-10-29,Vendedor,Trujillo,M,5.0,7,1,62,0
+A02274,2024-10-30,Almacenero,Arequipa,M,0.6,2,1,35,0
+A02275,2024-10-31,Vendedor,Chiclayo,M,3.5,0,0,65,0
+A02276,2024-10-31,Repartidor,Cusco,M,0.7,2,1,68,1
+A02277,2024-10-31,Almacenero,Chiclayo,M,0.9,5,1,64,0
+A02278,2024-11-01,Repartidor,Chiclayo,M,0.9,0,1,83,0
+A02279,2024-11-01,Almacenero,Lima,M,5.6,7,0,44,0
+A02280,2024-11-01,Vendedor,Chiclayo,F,2.4,2,1,40,0
+A02281,2024-11-02,Vendedor,Lima,F,4.6,3,0,77,1
+A02282,2024-11-02,Asistente administrativo,Trujillo,F,3.1,30,1,48,0
+A02283,2024-11-02,Vendedor,Arequipa,F,0.3,37,0,56,0
+A02284,2024-11-03,Vendedor,Lima,F,6.5,15,0,59,0
+A02285,2024-11-05,Repartidor,Trujillo,M,9.1,10,1,67,1
+A02286,2024-11-05,Almacenero,Lima,M,5.1,0,1,59,1
+A02287,2024-11-07,Almacenero,Piura,M,4.8,4,1,61,1
+A02288,2024-11-07,Asistente administrativo,Chiclayo,F,1.3,36,0,87,0
+A02289,2024-11-07,Repartidor,Arequipa,F,2.3,16,0,70,0
+A02290,2024-11-07,Almacenero,Piura,M,4.7,1,1,71,1
+A02291,2024-11-08,Repartidor,Cusco,M,4.8,3,0,74,1
+A02292,2024-11-08,Asistente administrativo,Lima,F,2.8,3,0,38,0
+A02293,2024-11-08,Vendedor,Arequipa,F,2.7,1,1,68,1
+A02294,2024-11-09,Vendedor,Chiclayo,F,4.8,3,1,67,1
+A02295,2024-11-09,Asistente administrativo,Cusco,M,3.3,4,1,64,0
+A02296,2024-11-10,Asistente administrativo,Piura,F,4.5,8,0,52,0
+A02297,2024-11-10,Asistente administrativo,Arequipa,M,2.7,2,0,43,1
+A02298,2024-11-10,Almacenero,Chiclayo,M,0.9,6,1,70,0
+A02299,2024-11-11,Almacenero,Cusco,M,7.3,7,0,78,1
+A02300,2024-11-11,Vendedor,Arequipa,F,0.9,2,0,78,0
+A02301,2024-11-11,Asistente administrativo,Chiclayo,M,0.4,2,1,79,1
+A02302,2024-11-11,Asistente administrativo,Lima,F,5.5,34,0,61,0
+A02303,2024-11-11,Almacenero,Lima,M,3.1,5,0,66,1
+A02304,2024-11-12,Asistente administrativo,Chiclayo,M,0.5,1,1,54,0
+A02305,2024-11-12,Almacenero,Lima,M,3.5,2,1,51,0
+A02306,2024-11-13,Vendedor,Piura,M,9.5,2,1,63,0
+A02307,2024-11-13,Repartidor,Arequipa,M,6.0,2,0,56,0
+A02308,2024-11-14,Asistente administrativo,Lima,F,5.2,17,1,43,0
+A02309,2024-11-14,Repartidor,Chiclayo,M,2.0,1,1,68,0
+A02310,2024-11-15,Asistente administrativo,Lima,M,3.4,1,1,82,0
+A02311,2024-11-15,Asistente administrativo,Lima,F,12.3,1,0,61,0
+A02312,2024-11-15,Repartidor,Lima,M,2.3,0,1,63,0
+A02313,2024-11-15,Asistente administrativo,Lima,F,4.5,14,1,64,0
+A02314,2024-11-15,Repartidor,Trujillo,M,1.6,15,1,40,0
+A02315,2024-11-15,Almacenero,Lima,M,3.3,1,1,58,1
+A02316,2024-11-16,Repartidor,Lima,M,10.8,2,1,59,1
+A02317,2024-11-17,Almacenero,Lima,M,7.0,6,1,80,1
+A02318,2024-11-18,Asistente administrativo,Lima,F,3.3,23,0,54,0
+A02319,2024-11-19,Vendedor,Trujillo,M,4.4,8,1,51,0
+A02320,2024-11-19,Repartidor,Piura,M,5.9,3,0,73,0
+A02321,2024-11-20,Vendedor,Piura,M,1.1,6,1,55,0
+A02322,2024-11-20,Almacenero,Piura,M,1.2,2,1,50,0
+A02323,2024-11-20,Repartidor,Lima,M,4.7,4,1,75,0
+A02324,2024-11-21,Asistente administrativo,Trujillo,M,2.9,5,1,79,1
+A02325,2024-11-22,Repartidor,Lima,M,4.1,8,1,50,0
+A02326,2024-11-22,Almacenero,Lima,M,3.0,1,1,52,0
+A02327,2024-11-22,Almacenero,Arequipa,M,5.9,7,0,64,0
+A02328,2024-11-22,Almacenero,Trujillo,M,4.2,0,1,61,1
+A02329,2024-11-23,Vendedor,Arequipa,M,2.0,5,1,54,0
+A02330,2024-11-23,Asistente administrativo,Cusco,M,4.3,1,1,40,0
+A02331,2024-11-23,Vendedor,Trujillo,F,4.0,18,0,65,0
+A02332,2024-11-24,Vendedor,Arequipa,F,4.0,3,0,59,0
+A02333,2024-11-24,Repartidor,Cusco,F,10.6,9,0,71,0
+A02334,2024-11-25,Repartidor,Trujillo,M,23.3,3,0,78,0
+A02335,2024-11-25,Vendedor,Piura,M,1.8,3,1,42,0
+A02336,2024-11-25,Repartidor,Cusco,M,3.5,9,1,50,0
+A02337,2024-11-25,Almacenero,Cusco,M,3.2,1,1,75,0
+A02338,2024-11-26,Repartidor,Lima,M,2.2,9,1,35,0
+A02339,2024-11-26,Vendedor,Lima,M,7.2,1,1,48,0
+A02340,2024-11-26,Repartidor,Piura,M,3.1,9,1,55,0
+A02341,2024-11-26,Asistente administrativo,Piura,F,1.7,5,0,54,0
+A02342,2024-11-26,Almacenero,Cusco,M,6.2,1,1,36,0
+A02343,2024-11-27,Repartidor,Lima,M,2.9,15,1,70,0
+A02344,2024-11-27,Repartidor,Trujillo,M,5.8,2,1,46,0
+A02345,2024-11-27,Almacenero,Lima,M,5.3,7,0,81,1
+A02346,2024-11-27,Repartidor,Chiclayo,M,5.6,1,1,60,0
+A02347,2024-11-28,Vendedor,Cusco,F,7.6,15,0,61,0
+A02348,2024-11-28,Vendedor,Arequipa,F,3.2,2,0,59,0
+A02349,2024-11-29,Asistente administrativo,Chiclayo,M,3.4,0,1,27,0
+A02350,2024-11-30,Almacenero,Piura,M,6.7,3,0,66,0
+A02351,2024-11-30,Almacenero,Lima,M,2.8,4,1,65,1
+A02352,2024-12-01,Vendedor,Lima,F,6.3,1,1,82,0
+A02353,2024-12-02,Repartidor,Piura,M,5.2,3,1,61,0
+A02354,2024-12-03,Vendedor,Lima,F,2.8,14,0,75,0
+A02355,2024-12-03,Vendedor,Arequipa,M,1.8,3,1,87,1
+A02356,2024-12-03,Repartidor,Trujillo,M,2.3,6,1,73,1
+A02357,2024-12-03,Asistente administrativo,Lima,F,3.2,3,0,41,0
+A02358,2024-12-03,Repartidor,Trujillo,M,6.5,1,0,59,1
+A02359,2024-12-03,Repartidor,Lima,M,5.3,0,1,60,0
+A02360,2024-12-03,Almacenero,Lima,M,6.6,2,0,46,0
+A02361,2024-12-04,Vendedor,Arequipa,F,4.3,2,1,37,0
+A02362,2024-12-05,Almacenero,Lima,F,4.6,9,0,66,0
+A02363,2024-12-05,Vendedor,Lima,M,11.4,2,1,41,0
+A02364,2024-12-06,Vendedor,Arequipa,F,3.5,2,0,78,0
+A02365,2024-12-07,Vendedor,Lima,F,12.4,15,1,64,0
+A02366,2024-12-07,Vendedor,Lima,F,3.0,3,0,45,0
+A02367,2024-12-07,Vendedor,Piura,F,5.7,25,1,61,0
+A02368,2024-12-08,Repartidor,Lima,M,7.1,1,1,85,1
+A02369,2024-12-09,Repartidor,Trujillo,M,3.6,7,1,84,1
+A02370,2024-12-09,Almacenero,Lima,M,1.0,3,1,82,0
+A02371,2024-12-10,Repartidor,Lima,M,8.8,0,0,81,0
+A02372,2024-12-11,Repartidor,Chiclayo,M,7.0,6,0,54,0
+A02373,2024-12-11,Repartidor,Cusco,M,8.1,9,1,67,1
+A02374,2024-12-12,Almacenero,Piura,F,0.7,1,0,54,0
+A02375,2024-12-12,Vendedor,Chiclayo,F,2.3,28,1,63,0
+A02376,2024-12-13,Vendedor,Lima,M,2.5,7,1,63,1
+A02377,2024-12-13,Almacenero,Cusco,M,2.2,10,0,54,0
+A02378,2024-12-13,Vendedor,Lima,M,2.5,2,1,66,0
+A02379,2024-12-14,Vendedor,Chiclayo,F,3.3,6,0,67,0
+A02380,2024-12-15,Vendedor,Arequipa,F,0.4,22,0,62,0
+A02381,2024-12-16,Vendedor,Lima,F,6.7,8,0,55,0
+A02382,2024-12-17,Almacenero,Cusco,F,3.0,20,1,69,0
+A02383,2024-12-17,Vendedor,Piura,M,3.9,4,1,82,1
+A02384,2024-12-18,Vendedor,Lima,F,4.5,18,0,55,0
+A02385,2024-12-18,Vendedor,Piura,M,16.1,5,1,59,1
+A02386,2024-12-18,Almacenero,Piura,M,2.0,2,1,60,0
+A02387,2024-12-18,Vendedor,Chiclayo,M,2.4,7,0,67,0
+A02388,2024-12-18,Vendedor,Chiclayo,M,2.8,3,1,46,0
+A02389,2024-12-18,Almacenero,Arequipa,M,5.7,1,1,46,1
+A02390,2024-12-18,Almacenero,Chiclayo,M,2.7,8,1,58,0
+A02391,2024-12-18,Asistente administrativo,Chiclayo,M,0.1,4,1,52,1
+A02392,2024-12-19,Asistente administrativo,Cusco,M,6.5,1,0,88,0
+A02393,2024-12-20,Almacenero,Piura,M,0.8,2,1,53,1
+A02394,2024-12-20,Repartidor,Chiclayo,M,11.2,0,0,40,0
+A02395,2024-12-20,Asistente administrativo,Lima,F,4.9,2,1,47,0
+A02396,2024-12-21,Asistente administrativo,Lima,F,1.9,20,0,65,0
+A02397,2024-12-21,Almacenero,Lima,F,2.4,7,1,80,0
+A02398,2024-12-23,Vendedor,Lima,M,14.1,3,0,75,1
+A02399,2024-12-24,Repartidor,Trujillo,M,6.5,4,1,59,0
+A02400,2024-12-24,Almacenero,Cusco,M,2.9,1,1,66,0
+A02401,2024-12-24,Almacenero,Cusco,F,3.6,5,1,63,0
+A02402,2024-12-24,Vendedor,Trujillo,M,4.8,5,1,67,0
+A02403,2024-12-24,Asistente administrativo,Piura,M,1.6,1,0,67,0
+A02404,2024-12-24,Repartidor,Arequipa,F,11.5,3,1,54,0
+A02405,2024-12-24,Vendedor,Arequipa,M,2.5,6,1,70,0
+A02406,2024-12-25,Asistente administrativo,Trujillo,M,1.6,8,1,63,0
+A02407,2024-12-27,Almacenero,Chiclayo,F,4.9,2,0,46,0
+A02408,2024-12-28,Asistente administrativo,Lima,M,2.8,8,1,70,0
+A02409,2024-12-28,Almacenero,Lima,M,1.3,6,0,71,0
+A02410,2024-12-28,Vendedor,Arequipa,F,3.2,11,0,63,0
+A02411,2024-12-28,Almacenero,Arequipa,M,1.0,3,1,52,0
+A02412,2024-12-28,Vendedor,Arequipa,F,6.3,26,0,78,0
+A02413,2024-12-29,Vendedor,Piura,F,2.8,10,0,68,0
+A02414,2024-12-30,Asistente administrativo,Piura,M,6.3,1,1,95,1
+A02415,2024-12-31,Repartidor,Lima,M,10.0,5,1,64,0
+A02416,2024-12-31,Asistente administrativo,Lima,F,0.6,7,1,66,0
+A02417,2024-12-31,Vendedor,Chiclayo,M,2.2,6,1,55,0
+A02418,2025-01-01,Repartidor,Trujillo,M,0.8,3,1,72,1
+A02419,2025-01-01,Repartidor,Lima,M,2.3,7,1,68,1
+A02420,2025-01-03,Almacenero,Lima,M,0.9,7,0,77,0
+A02421,2025-01-04,Asistente administrativo,Lima,F,1.2,1,0,84,0
+A02422,2025-01-04,Asistente administrativo,Trujillo,M,0.7,4,0,66,0
+A02423,2025-01-04,Vendedor,Lima,F,2.2,46,0,84,0
+A02424,2025-01-04,Asistente administrativo,Trujillo,M,1.7,5,1,58,1
+A02425,2025-01-04,Vendedor,Lima,F,4.5,3,0,57,0
+A02426,2025-01-05,Vendedor,Piura,F,2.4,7,1,65,0
+A02427,2025-01-05,Vendedor,Cusco,M,1.1,4,1,78,1
+A02428,2025-01-05,Repartidor,Cusco,M,6.0,1,0,80,0
+A02429,2025-01-05,Repartidor,Chiclayo,M,3.7,2,1,48,0
+A02430,2025-01-05,Vendedor,Arequipa,F,4.6,3,1,37,0
+A02431,2025-01-06,Asistente administrativo,Piura,F,2.1,2,1,68,0
+A02432,2025-01-06,Almacenero,Lima,F,0.5,18,1,46,0
+A02433,2025-01-07,Repartidor,Lima,M,1.6,2,1,50,0
+A02434,2025-01-07,Asistente administrativo,Lima,M,0.6,2,1,81,1
+A02435,2025-01-08,Almacenero,Trujillo,M,0.6,0,1,29,0
+A02436,2025-01-08,Almacenero,Cusco,M,3.3,1,0,62,0
+A02437,2025-01-08,Vendedor,Arequipa,F,2.6,2,1,76,0
+A02438,2025-01-08,Almacenero,Cusco,M,3.6,1,0,66,0
+A02439,2025-01-09,Vendedor,Piura,M,8.8,2,0,68,0
+A02440,2025-01-09,Asistente administrativo,Lima,M,7.7,7,1,34,0
+A02441,2025-01-10,Vendedor,Lima,F,4.3,24,0,76,0
+A02442,2025-01-10,Asistente administrativo,Lima,F,3.5,0,1,93,1
+A02443,2025-01-11,Repartidor,Piura,M,4.6,3,1,34,0
+A02444,2025-01-11,Repartidor,Arequipa,M,1.2,2,1,77,0
+A02445,2025-01-11,Vendedor,Piura,M,7.6,17,1,53,0
+A02446,2025-01-12,Vendedor,Arequipa,F,1.8,48,0,61,0
+A02447,2025-01-13,Repartidor,Chiclayo,M,6.4,1,1,75,1
+A02448,2025-01-13,Vendedor,Lima,M,3.5,7,1,77,1
+A02449,2025-01-14,Asistente administrativo,Cusco,F,10.9,4,1,51,0
+A02450,2025-01-14,Asistente administrativo,Arequipa,F,1.0,6,1,50,0
+A02451,2025-01-15,Repartidor,Arequipa,M,2.0,2,1,51,0
+A02452,2025-01-16,Asistente administrativo,Lima,F,6.5,13,0,47,0
+A02453,2025-01-16,Repartidor,Piura,M,0.8,2,1,60,0
+A02454,2025-01-16,Repartidor,Lima,M,1.7,2,1,66,1
+A02455,2025-01-18,Asistente administrativo,Cusco,F,3.0,5,0,67,0
+A02456,2025-01-18,Vendedor,Arequipa,M,3.7,3,1,66,1
+A02457,2025-01-18,Vendedor,Arequipa,M,3.5,6,0,70,0
+A02458,2025-01-18,Vendedor,Lima,F,4.7,2,0,49,0
+A02459,2025-01-19,Asistente administrativo,Trujillo,M,9.7,2,1,65,1
+A02460,2025-01-19,Almacenero,Trujillo,F,2.5,7,0,52,0
+A02461,2025-01-19,Vendedor,Lima,F,9.7,16,0,59,0
+A02462,2025-01-20,Asistente administrativo,Lima,F,4.4,4,1,62,0
+A02463,2025-01-20,Vendedor,Arequipa,M,2.5,11,1,59,0
+A02464,2025-01-23,Vendedor,Lima,M,4.3,2,1,57,1
+A02465,2025-01-23,Asistente administrativo,Lima,F,3.9,2,0,46,0
+A02466,2025-01-23,Vendedor,Lima,M,8.1,7,1,58,0
+A02467,2025-01-24,Repartidor,Chiclayo,M,12.1,2,1,51,0
+A02468,2025-01-24,Vendedor,Arequipa,M,2.0,8,1,54,1
+A02469,2025-01-24,Asistente administrativo,Chiclayo,F,3.7,0,1,84,1
+A02470,2025-01-25,Almacenero,Arequipa,M,4.1,1,1,24,0
+A02471,2025-01-25,Almacenero,Trujillo,M,4.8,6,1,55,1
+A02472,2025-01-26,Asistente administrativo,Arequipa,F,5.4,10,0,69,0
+A02473,2025-01-27,Vendedor,Chiclayo,M,1.7,2,1,20,0
+A02474,2025-01-28,Repartidor,Lima,M,0.8,0,1,64,1
+A02475,2025-01-28,Almacenero,Lima,M,9.3,0,1,61,1
+A02476,2025-01-29,Asistente administrativo,Arequipa,M,0.8,1,1,73,0
+A02477,2025-01-30,Vendedor,Lima,M,3.0,5,1,40,0
+A02478,2025-01-30,Almacenero,Lima,M,1.4,5,1,60,1
+A02479,2025-01-30,Almacenero,Lima,F,0.9,14,0,38,0
+A02480,2025-01-31,Vendedor,Lima,F,1.3,1,1,68,0
+A02481,2025-01-31,Repartidor,Trujillo,M,5.1,6,1,54,0
+A02482,2025-01-31,Vendedor,Lima,F,1.6,5,1,60,0
+A02483,2025-02-01,Almacenero,Lima,F,6.2,2,1,68,1
+A02484,2025-02-01,Almacenero,Lima,M,7.2,1,1,74,0
+A02485,2025-02-01,Almacenero,Chiclayo,M,2.0,7,1,53,0
+A02486,2025-02-03,Vendedor,Lima,F,7.3,5,0,70,0
+A02487,2025-02-03,Vendedor,Chiclayo,M,2.1,6,1,51,1
+A02488,2025-02-03,Asistente administrativo,Arequipa,F,7.1,4,0,56,1
+A02489,2025-02-03,Repartidor,Trujillo,M,0.7,6,1,40,0
+A02490,2025-02-05,Repartidor,Lima,M,4.3,2,1,62,1
+A02491,2025-02-06,Asistente administrativo,Trujillo,M,2.7,11,0,72,1
+A02492,2025-02-06,Asistente administrativo,Arequipa,F,4.3,6,0,47,0
+A02493,2025-02-07,Vendedor,Lima,M,0.5,3,0,73,0
+A02494,2025-02-07,Repartidor,Arequipa,M,7.8,4,0,76,1
+A02495,2025-02-07,Asistente administrativo,Arequipa,M,4.5,19,1,63,0
+A02496,2025-02-07,Almacenero,Lima,M,0.6,5,1,36,0
+A02497,2025-02-08,Repartidor,Arequipa,M,8.2,1,1,69,0
+A02498,2025-02-09,Asistente administrativo,Arequipa,F,5.5,81,0,85,0
+A02499,2025-02-09,Almacenero,Chiclayo,M,4.4,6,0,68,0
+A02500,2025-02-09,Almacenero,Cusco,M,2.0,5,1,47,0
+A02501,2025-02-10,Repartidor,Lima,M,2.4,2,1,67,0
+A02502,2025-02-10,Repartidor,Piura,M,2.3,1,1,55,0
+A02503,2025-02-11,Vendedor,Lima,F,5.7,27,1,70,0
+A02504,2025-02-12,Vendedor,Trujillo,M,5.7,0,0,81,0
+A02505,2025-02-12,Vendedor,Lima,M,2.7,2,1,59,1
+A02506,2025-02-13,Asistente administrativo,Lima,M,1.5,1,1,86,1
+A02507,2025-02-13,Vendedor,Lima,M,0.1,0,0,55,0
+A02508,2025-02-15,Almacenero,Trujillo,F,0.8,12,1,61,0
+A02509,2025-02-16,Repartidor,Chiclayo,M,2.0,0,1,79,0
+A02510,2025-02-17,Asistente administrativo,Lima,F,16.7,4,1,81,0
+A02511,2025-02-18,Almacenero,Chiclayo,M,7.2,2,1,57,0
+A02512,2025-02-18,Vendedor,Lima,M,4.6,3,1,42,0
+A02513,2025-02-19,Almacenero,Trujillo,M,1.6,10,1,57,0
+A02514,2025-02-19,Almacenero,Arequipa,F,9.4,49,1,91,0
+A02515,2025-02-19,Repartidor,Piura,M,4.7,2,0,61,0
+A02516,2025-02-19,Vendedor,Chiclayo,F,10.7,6,1,68,1
+A02517,2025-02-19,Vendedor,Lima,M,3.1,5,1,54,0
+A02518,2025-02-19,Repartidor,Cusco,M,5.0,11,1,71,0
+A02519,2025-02-21,Almacenero,Lima,M,1.3,2,1,66,0
+A02520,2025-02-22,Almacenero,Cusco,M,5.9,5,1,71,0
+A02521,2025-02-22,Almacenero,Lima,F,1.6,10,0,79,0
+A02522,2025-02-22,Almacenero,Cusco,M,1.1,4,0,56,0
+A02523,2025-02-23,Vendedor,Trujillo,M,0.8,1,0,57,0
+A02524,2025-02-23,Vendedor,Lima,F,2.9,58,0,57,0
+A02525,2025-02-23,Vendedor,Arequipa,F,7.7,15,0,46,0
+A02526,2025-02-24,Almacenero,Cusco,M,3.1,2,1,84,0
+A02527,2025-02-24,Repartidor,Piura,M,6.1,4,1,83,1
+A02528,2025-02-24,Repartidor,Arequipa,M,7.1,26,1,64,0
+A02529,2025-02-25,Repartidor,Chiclayo,M,5.1,2,1,44,0
+A02530,2025-02-25,Repartidor,Lima,M,5.9,2,0,74,0
+A02531,2025-02-26,Asistente administrativo,Cusco,F,1.2,74,0,66,0
+A02532,2025-02-26,Almacenero,Lima,F,1.6,1,0,75,1
+A02533,2025-02-26,Asistente administrativo,Arequipa,F,5.9,35,0,73,0
+A02534,2025-02-27,Repartidor,Arequipa,M,5.6,11,1,63,0
+A02535,2025-02-28,Vendedor,Arequipa,M,2.6,0,0,62,0
+A02536,2025-02-28,Vendedor,Lima,M,3.3,2,1,57,0
+A02537,2025-02-28,Repartidor,Trujillo,M,2.1,0,1,58,1
+A02538,2025-02-28,Repartidor,Lima,M,3.4,7,1,71,0
+A02539,2025-02-28,Repartidor,Lima,M,2.9,2,1,78,0
+A02540,2025-03-02,Repartidor,Cusco,M,2.9,6,1,66,0
+A02541,2025-03-02,Asistente administrativo,Trujillo,F,5.3,52,0,65,0
+A02542,2025-03-02,Vendedor,Arequipa,F,12.9,14,0,69,0
+A02543,2025-03-02,Almacenero,Cusco,F,5.0,10,0,54,0
+A02544,2025-03-03,Almacenero,Piura,F,2.5,13,1,61,0
+A02545,2025-03-03,Almacenero,Chiclayo,M,2.3,1,0,47,0
+A02546,2025-03-04,Vendedor,Piura,M,1.7,4,0,85,1
+A02547,2025-03-05,Asistente administrativo,Lima,F,5.1,11,0,64,1
+A02548,2025-03-06,Almacenero,Arequipa,M,1.6,7,1,46,0
+A02549,2025-03-06,Repartidor,Lima,M,1.4,2,1,78,1
+A02550,2025-03-06,Almacenero,Lima,M,3.6,4,1,76,0
+A02551,2025-03-07,Vendedor,Lima,F,4.1,18,0,57,0
+A02552,2025-03-07,Repartidor,Chiclayo,M,8.0,7,1,32,0
+A02553,2025-03-07,Repartidor,Lima,M,7.2,4,1,65,1
+A02554,2025-03-07,Repartidor,Piura,M,1.1,2,0,77,0
+A02555,2025-03-08,Asistente administrativo,Arequipa,M,5.2,1,0,79,1
+A02556,2025-03-08,Vendedor,Lima,M,1.3,3,1,71,1
+A02557,2025-03-08,Almacenero,Chiclayo,M,6.4,2,0,39,0
+A02558,2025-03-08,Almacenero,Arequipa,M,3.4,0,0,66,1
+A02559,2025-03-08,Asistente administrativo,Lima,F,0.8,4,0,44,0
+A02560,2025-03-08,Repartidor,Lima,M,6.0,3,0,52,0
+A02561,2025-03-09,Vendedor,Arequipa,F,1.0,13,0,81,0
+A02562,2025-03-10,Asistente administrativo,Lima,M,1.9,2,0,56,1
+A02563,2025-03-10,Vendedor,Chiclayo,M,3.7,5,1,41,0
+A02564,2025-03-10,Almacenero,Arequipa,M,6.0,12,1,48,0
+A02565,2025-03-10,Almacenero,Arequipa,M,2.9,4,1,65,1
+A02566,2025-03-11,Repartidor,Lima,M,1.6,2,0,56,0
+A02567,2025-03-12,Repartidor,Lima,M,1.1,5,1,76,0
+A02568,2025-03-13,Almacenero,Cusco,M,1.7,6,1,91,1
+A02569,2025-03-13,Repartidor,Lima,M,3.2,0,0,60,0
+A02570,2025-03-14,Vendedor,Trujillo,M,10.0,1,1,76,1
+A02571,2025-03-14,Repartidor,Cusco,M,3.6,0,0,54,1
+A02572,2025-03-14,Asistente administrativo,Lima,M,13.1,2,1,68,1
+A02573,2025-03-15,Repartidor,Piura,M,2.6,6,1,73,1
+A02574,2025-03-15,Repartidor,Trujillo,M,2.9,20,1,61,0
+A02575,2025-03-17,Vendedor,Lima,M,7.8,2,1,61,0
+A02576,2025-03-17,Repartidor,Lima,M,4.2,0,1,55,0
+A02577,2025-03-17,Asistente administrativo,Chiclayo,F,0.8,17,1,49,0
+A02578,2025-03-18,Vendedor,Cusco,M,1.5,0,0,77,0
+A02579,2025-03-19,Almacenero,Piura,M,3.5,13,1,45,0
+A02580,2025-03-19,Vendedor,Piura,M,2.7,5,0,85,0
+A02581,2025-03-20,Repartidor,Trujillo,M,4.6,2,1,67,0
+A02582,2025-03-21,Vendedor,Trujillo,F,2.4,1,1,62,0
+A02583,2025-03-22,Asistente administrativo,Lima,F,6.9,8,1,68,1
+A02584,2025-03-22,Almacenero,Piura,M,0.7,1,1,87,1
+A02585,2025-03-23,Vendedor,Piura,F,1.7,4,1,50,0
+A02586,2025-03-23,Asistente administrativo,Chiclayo,F,7.5,14,0,87,1
+A02587,2025-03-23,Repartidor,Arequipa,M,18.9,1,1,66,1
+A02588,2025-03-23,Asistente administrativo,Piura,F,3.7,4,1,54,0
+A02589,2025-03-23,Almacenero,Chiclayo,M,2.2,1,0,66,0
+A02590,2025-03-24,Repartidor,Lima,M,3.5,2,0,70,0
+A02591,2025-03-24,Vendedor,Arequipa,M,3.8,2,0,75,0
+A02592,2025-03-24,Repartidor,Lima,M,1.0,17,1,84,1
+A02593,2025-03-24,Vendedor,Piura,M,1.0,0,1,50,0
+A02594,2025-03-24,Repartidor,Lima,M,5.2,5,1,74,1
+A02595,2025-03-25,Repartidor,Lima,M,0.4,3,1,54,0
+A02596,2025-03-25,Almacenero,Chiclayo,M,2.0,12,1,49,0
+A02597,2025-03-25,Vendedor,Piura,F,0.9,37,0,69,0
+A02598,2025-03-26,Almacenero,Lima,M,7.0,4,0,75,0
+A02599,2025-03-27,Almacenero,Arequipa,M,2.6,5,1,39,0
+A02600,2025-03-27,Almacenero,Chiclayo,M,9.8,0,1,52,0
+A02601,2025-03-28,Almacenero,Arequipa,M,2.5,4,1,64,1
+A02602,2025-03-28,Repartidor,Cusco,F,3.0,2,1,64,0
+A02603,2025-03-28,Almacenero,Chiclayo,F,6.0,29,1,65,0
+A02604,2025-03-28,Asistente administrativo,Piura,F,1.8,40,1,73,0
+A02605,2025-04-02,Repartidor,Lima,F,2.2,4,0,28,0
+A02606,2025-04-05,Asistente administrativo,Lima,F,4.1,2,0,53,0
+A02607,2025-04-05,Repartidor,Lima,M,3.9,1,1,53,0
+A02608,2025-04-05,Vendedor,Lima,M,3.4,0,1,58,0
+A02609,2025-04-05,Repartidor,Chiclayo,M,2.0,7,1,61,0
+A02610,2025-04-06,Repartidor,Cusco,M,1.8,1,0,90,1
+A02611,2025-04-06,Almacenero,Trujillo,M,3.1,0,1,71,1
+A02612,2025-04-06,Vendedor,Lima,M,11.7,7,0,64,0
+A02613,2025-04-06,Asistente administrativo,Trujillo,F,1.8,3,0,85,1
+A02614,2025-04-07,Vendedor,Lima,F,3.7,11,1,99,0
+A02615,2025-04-07,Almacenero,Piura,M,3.8,1,1,87,1
+A02616,2025-04-07,Vendedor,Piura,F,2.4,11,0,41,0
+A02617,2025-04-08,Almacenero,Lima,M,1.3,2,1,95,1
+A02618,2025-04-08,Vendedor,Cusco,M,4.7,0,1,51,1
+A02619,2025-04-09,Vendedor,Lima,M,1.8,1,1,44,0
+A02620,2025-04-09,Repartidor,Chiclayo,M,5.5,7,1,58,1
+A02621,2025-04-10,Vendedor,Arequipa,F,2.2,35,0,53,0
+A02622,2025-04-12,Vendedor,Arequipa,M,5.9,1,1,87,1
+A02623,2025-04-12,Almacenero,Arequipa,M,1.3,25,1,53,0
+A02624,2025-04-13,Almacenero,Piura,M,4.0,5,1,62,0
+A02625,2025-04-13,Repartidor,Lima,M,5.2,5,1,55,1
+A02626,2025-04-13,Repartidor,Arequipa,M,3.1,11,0,76,1
+A02627,2025-04-14,Repartidor,Lima,M,3.6,0,1,79,1
+A02628,2025-04-16,Repartidor,Trujillo,M,8.2,2,0,56,0
+A02629,2025-04-16,Asistente administrativo,Piura,M,0.8,13,0,41,0
+A02630,2025-04-17,Almacenero,Arequipa,F,6.1,24,1,43,0
+A02631,2025-04-17,Repartidor,Piura,M,0.9,2,1,63,0
+A02632,2025-04-18,Almacenero,Piura,M,0.9,2,0,78,0
+A02633,2025-04-19,Almacenero,Trujillo,F,3.3,2,0,47,0
+A02634,2025-04-19,Vendedor,Cusco,F,5.1,8,0,77,0
+A02635,2025-04-19,Asistente administrativo,Lima,M,4.0,5,1,75,1
+A02636,2025-04-19,Vendedor,Lima,M,2.9,3,1,71,1
+A02637,2025-04-20,Vendedor,Chiclayo,M,5.7,5,0,73,1
+A02638,2025-04-21,Almacenero,Lima,F,1.7,5,0,40,0
+A02639,2025-04-22,Repartidor,Trujillo,F,1.7,6,0,77,0
+A02640,2025-04-22,Repartidor,Lima,M,1.4,2,1,64,0
+A02641,2025-04-22,Almacenero,Trujillo,M,8.5,5,0,81,1
+A02642,2025-04-22,Almacenero,Trujillo,F,0.7,2,0,33,0
+A02643,2025-04-22,Almacenero,Arequipa,M,2.4,1,1,77,1
+A02644,2025-04-23,Asistente administrativo,Trujillo,M,0.4,4,1,78,1
+A02645,2025-04-23,Asistente administrativo,Trujillo,F,4.6,11,1,80,0
+A02646,2025-04-25,Almacenero,Lima,M,2.4,6,1,55,0
+A02647,2025-04-25,Almacenero,Trujillo,F,3.2,10,0,60,0
+A02648,2025-04-26,Asistente administrativo,Lima,F,10.5,6,0,58,0
+A02649,2025-04-26,Repartidor,Cusco,M,3.8,2,1,62,1
+A02650,2025-04-26,Repartidor,Chiclayo,M,8.2,11,1,84,0
+A02651,2025-04-26,Vendedor,Trujillo,M,6.0,4,1,61,1
+A02652,2025-04-27,Vendedor,Cusco,F,4.1,7,0,51,0
+A02653,2025-04-28,Vendedor,Trujillo,M,8.6,3,1,61,1
+A02654,2025-04-28,Repartidor,Chiclayo,M,3.7,3,1,69,0
+A02655,2025-04-28,Almacenero,Piura,M,4.1,0,1,63,0
+A02656,2025-04-28,Repartidor,Arequipa,M,0.9,2,1,81,1
+A02657,2025-04-28,Repartidor,Lima,M,5.9,0,1,48,0
+A02658,2025-04-28,Almacenero,Trujillo,M,3.9,4,0,62,1
+A02659,2025-04-28,Vendedor,Lima,M,7.4,0,0,56,0
+A02660,2025-04-29,Almacenero,Lima,M,3.7,1,0,63,0
+A02661,2025-04-29,Asistente administrativo,Chiclayo,F,5.1,3,0,61,0
+A02662,2025-04-29,Vendedor,Trujillo,M,0.3,2,1,51,0
+A02663,2025-04-30,Vendedor,Lima,F,0.3,4,1,40,0
+A02664,2025-04-30,Vendedor,Arequipa,M,3.5,7,1,73,0
+A02665,2025-05-01,Vendedor,Lima,M,2.2,0,1,83,0
+A02666,2025-05-01,Repartidor,Arequipa,M,6.1,4,1,73,1
+A02667,2025-05-01,Vendedor,Cusco,F,3.3,8,0,46,0
+A02668,2025-05-01,Asistente administrativo,Lima,F,0.3,21,0,74,0
+A02669,2025-05-02,Vendedor,Arequipa,M,6.1,4,1,74,0
+A02670,2025-05-02,Asistente administrativo,Trujillo,F,2.2,0,1,74,1
+A02671,2025-05-03,Almacenero,Arequipa,F,2.6,1,0,57,0
+A02672,2025-05-04,Vendedor,Arequipa,F,6.9,40,0,85,0
+A02673,2025-05-05,Vendedor,Lima,F,2.6,76,0,61,0
+A02674,2025-05-05,Repartidor,Cusco,M,1.5,8,1,71,0
+A02675,2025-05-05,Almacenero,Lima,F,3.8,2,1,71,0
+A02676,2025-05-06,Almacenero,Arequipa,M,2.1,4,1,77,1
+A02677,2025-05-07,Asistente administrativo,Lima,M,1.3,5,1,69,1
+A02678,2025-05-07,Almacenero,Cusco,F,6.9,25,0,68,0
+A02679,2025-05-07,Vendedor,Lima,M,1.9,6,1,74,1
+A02680,2025-05-07,Repartidor,Chiclayo,M,7.0,7,1,64,1
+A02681,2025-05-07,Repartidor,Lima,M,2.1,6,1,73,1
+A02682,2025-05-08,Almacenero,Lima,M,8.2,1,0,48,0
+A02683,2025-05-09,Almacenero,Lima,M,2.7,22,0,73,0
+A02684,2025-05-09,Vendedor,Chiclayo,F,6.3,19,0,64,0
+A02685,2025-05-09,Vendedor,Cusco,F,3.0,30,0,55,0
+A02686,2025-05-10,Almacenero,Lima,M,4.6,6,1,81,1
+A02687,2025-05-10,Almacenero,Lima,F,9.2,89,0,88,0
+A02688,2025-05-11,Vendedor,Lima,M,2.9,1,0,84,1
+A02689,2025-05-12,Repartidor,Arequipa,F,3.9,17,1,82,0
+A02690,2025-05-13,Vendedor,Lima,M,5.4,4,1,57,0
+A02691,2025-05-13,Vendedor,Piura,M,2.1,1,1,37,0
+A02692,2025-05-13,Almacenero,Arequipa,M,1.6,1,1,56,0
+A02693,2025-05-14,Vendedor,Arequipa,M,4.3,9,1,48,0
+A02694,2025-05-15,Almacenero,Arequipa,M,3.2,2,1,77,0
+A02695,2025-05-15,Almacenero,Lima,M,12.5,1,1,75,1
+A02696,2025-05-16,Asistente administrativo,Piura,F,0.9,13,0,54,0
+A02697,2025-05-16,Vendedor,Cusco,M,3.8,8,1,72,0
+A02698,2025-05-17,Repartidor,Piura,M,2.1,12,1,53,1
+A02699,2025-05-17,Vendedor,Cusco,F,9.2,13,0,64,0
+A02700,2025-05-17,Vendedor,Lima,F,1.9,9,1,66,0
+A02701,2025-05-18,Almacenero,Arequipa,M,3.4,1,1,74,1
+A02702,2025-05-18,Vendedor,Trujillo,M,8.8,3,0,65,1
+A02703,2025-05-18,Vendedor,Lima,F,2.2,8,0,65,0
+A02704,2025-05-18,Almacenero,Trujillo,M,1.3,12,1,64,0
+A02705,2025-05-19,Asistente administrativo,Lima,F,0.4,13,1,72,0
+A02706,2025-05-19,Vendedor,Lima,F,4.5,8,0,83,0
+A02707,2025-05-20,Asistente administrativo,Chiclayo,M,2.0,10,1,67,0
+A02708,2025-05-21,Almacenero,Lima,M,3.5,1,1,46,0
+A02709,2025-05-21,Vendedor,Chiclayo,M,2.0,2,1,29,0
+A02710,2025-05-21,Almacenero,Trujillo,M,1.4,9,1,46,0
+A02711,2025-05-21,Almacenero,Cusco,M,3.1,1,1,58,0
+A02712,2025-05-22,Asistente administrativo,Lima,F,6.6,24,0,73,1
+A02713,2025-05-23,Almacenero,Cusco,M,7.3,0,1,33,0
+A02714,2025-05-23,Almacenero,Chiclayo,M,4.6,3,1,50,1
+A02715,2025-05-23,Vendedor,Piura,M,3.7,3,1,57,1
+A02716,2025-05-23,Repartidor,Chiclayo,M,0.2,3,1,59,1
+A02717,2025-05-24,Asistente administrativo,Trujillo,F,7.8,7,0,77,0
+A02718,2025-05-24,Almacenero,Lima,M,4.4,12,1,63,0
+A02719,2025-05-25,Repartidor,Chiclayo,M,3.2,5,1,62,1
+A02720,2025-05-25,Repartidor,Lima,M,1.2,0,1,33,0
+A02721,2025-05-26,Repartidor,Arequipa,M,2.2,6,0,71,0
+A02722,2025-05-26,Asistente administrativo,Lima,M,1.7,1,0,55,0
+A02723,2025-05-27,Vendedor,Trujillo,F,6.3,4,0,52,0
+A02724,2025-05-27,Vendedor,Lima,M,1.8,1,1,54,1
+A02725,2025-05-28,Asistente administrativo,Arequipa,F,0.5,15,1,48,0
+A02726,2025-05-29,Vendedor,Arequipa,M,2.6,7,1,64,0
+A02727,2025-05-30,Repartidor,Lima,M,11.6,5,1,71,0
+A02728,2025-05-31,Almacenero,Lima,F,5.3,5,1,55,0
+A02729,2025-06-02,Repartidor,Trujillo,M,3.2,2,1,73,1
+A02730,2025-06-02,Almacenero,Lima,M,11.3,2,1,79,1
+A02731,2025-06-03,Almacenero,Chiclayo,M,4.8,1,1,53,0
+A02732,2025-06-03,Vendedor,Arequipa,F,6.2,1,1,63,0
+A02733,2025-06-03,Asistente administrativo,Cusco,F,3.0,23,0,57,0
+A02734,2025-06-04,Vendedor,Piura,F,3.1,39,0,47,0
+A02735,2025-06-04,Vendedor,Lima,M,2.1,1,0,53,1
+A02736,2025-06-05,Asistente administrativo,Lima,F,1.9,29,0,59,0
+A02737,2025-06-05,Repartidor,Arequipa,M,7.1,6,0,85,0
+A02738,2025-06-05,Repartidor,Lima,M,13.0,2,1,44,1
+A02739,2025-06-05,Vendedor,Lima,M,1.9,5,1,56,0
+A02740,2025-06-05,Vendedor,Arequipa,F,4.0,3,1,73,0
+A02741,2025-06-06,Repartidor,Trujillo,M,7.9,1,1,70,1
+A02742,2025-06-06,Vendedor,Lima,M,3.3,0,1,58,1
+A02743,2025-06-07,Vendedor,Piura,F,3.1,28,0,76,0
+A02744,2025-06-07,Asistente administrativo,Chiclayo,F,5.3,0,0,62,0
+A02745,2025-06-07,Repartidor,Lima,M,4.8,2,1,79,1
+A02746,2025-06-07,Repartidor,Lima,M,6.0,15,1,23,0
+A02747,2025-06-08,Almacenero,Lima,F,12.5,29,0,63,0
+A02748,2025-06-08,Vendedor,Lima,F,1.7,19,0,86,0
+A02749,2025-06-09,Asistente administrativo,Lima,F,6.1,9,1,73,1
+A02750,2025-06-10,Almacenero,Lima,M,2.1,5,1,82,0
+A02751,2025-06-10,Vendedor,Chiclayo,M,2.4,3,0,70,0
+A02752,2025-06-10,Vendedor,Arequipa,F,2.9,31,0,62,0
+A02753,2025-06-11,Almacenero,Lima,M,2.0,5,1,62,1
+A02754,2025-06-11,Repartidor,Lima,M,1.8,6,1,86,1
+A02755,2025-06-12,Almacenero,Lima,M,8.6,3,1,73,1
+A02756,2025-06-12,Asistente administrativo,Trujillo,F,3.9,28,0,40,0
+A02757,2025-06-13,Repartidor,Lima,M,7.3,7,1,52,0
+A02758,2025-06-14,Vendedor,Lima,M,7.9,3,1,60,0
+A02759,2025-06-14,Almacenero,Chiclayo,M,3.7,3,1,56,0
+A02760,2025-06-14,Repartidor,Chiclayo,M,4.2,6,1,71,0
+A02761,2025-06-14,Repartidor,Lima,F,6.9,13,1,75,0
+A02762,2025-06-15,Vendedor,Trujillo,F,4.8,7,0,44,0
+A02763,2025-06-15,Almacenero,Trujillo,M,0.8,9,0,68,0
+A02764,2025-06-16,Asistente administrativo,Lima,F,4.7,5,1,57,0
+A02765,2025-06-16,Asistente administrativo,Lima,F,11.6,20,0,50,0
+A02766,2025-06-16,Asistente administrativo,Arequipa,F,1.9,5,0,65,1
+A02767,2025-06-18,Vendedor,Lima,M,2.5,4,1,84,1
+A02768,2025-06-18,Repartidor,Arequipa,F,0.4,25,0,41,0
+A02769,2025-06-20,Asistente administrativo,Piura,F,1.5,18,0,54,0
+A02770,2025-06-20,Asistente administrativo,Chiclayo,F,1.5,30,0,58,0
+A02771,2025-06-20,Repartidor,Lima,F,2.4,13,1,60,0
+A02772,2025-06-21,Asistente administrativo,Lima,M,1.6,5,1,51,0
+A02773,2025-06-21,Vendedor,Lima,F,1.8,10,0,46,0
+A02774,2025-06-21,Almacenero,Arequipa,F,2.7,27,1,45,0
+A02775,2025-06-22,Vendedor,Lima,M,4.1,15,1,67,0
+A02776,2025-06-22,Almacenero,Lima,M,4.2,5,1,48,0
+A02777,2025-06-23,Almacenero,Arequipa,M,4.8,2,1,81,1
+A02778,2025-06-23,Asistente administrativo,Lima,M,1.5,6,1,62,0
+A02779,2025-06-24,Repartidor,Lima,M,0.7,1,0,60,0
+A02780,2025-06-24,Almacenero,Piura,M,2.1,1,0,49,0
+A02781,2025-06-24,Vendedor,Arequipa,F,4.4,11,1,52,0
+A02782,2025-06-25,Asistente administrativo,Piura,F,4.4,3,1,56,1
+A02783,2025-06-25,Almacenero,Lima,M,1.5,11,0,66,0
+A02784,2025-06-26,Asistente administrativo,Arequipa,M,3.5,4,1,85,0
+A02785,2025-06-26,Repartidor,Trujillo,M,1.8,8,0,71,0
+A02786,2025-06-27,Vendedor,Trujillo,M,0.6,7,1,80,0
+A02787,2025-06-27,Almacenero,Lima,M,0.3,3,1,59,0
+A02788,2025-06-27,Repartidor,Trujillo,M,2.0,1,1,60,1
+A02789,2025-06-28,Vendedor,Lima,M,5.6,1,0,55,0
+A02790,2025-06-29,Asistente administrativo,Lima,F,4.2,12,1,57,0
+A02791,2025-06-30,Vendedor,Lima,M,5.0,12,1,69,1
+A02792,2025-07-01,Asistente administrativo,Arequipa,M,3.1,5,1,59,1
+A02793,2025-07-01,Vendedor,Arequipa,M,4.5,1,1,40,0
+A02794,2025-07-02,Vendedor,Cusco,M,7.2,1,0,95,0
+A02795,2025-07-02,Almacenero,Trujillo,M,9.2,1,1,81,1
+A02796,2025-07-03,Almacenero,Trujillo,M,0.9,8,1,41,0
+A02797,2025-07-05,Repartidor,Arequipa,M,2.6,2,1,69,1
+A02798,2025-07-05,Vendedor,Piura,F,2.4,45,0,61,0
+A02799,2025-07-05,Almacenero,Arequipa,M,1.2,0,0,58,1
+A02800,2025-07-06,Almacenero,Lima,M,5.0,15,1,57,1
+A02801,2025-07-07,Vendedor,Chiclayo,F,3.7,8,0,74,0
+A02802,2025-07-08,Vendedor,Arequipa,F,1.5,27,1,49,0
+A02803,2025-07-10,Vendedor,Cusco,M,2.0,2,0,43,0
+A02804,2025-07-10,Almacenero,Trujillo,M,10.3,6,1,66,0
+A02805,2025-07-10,Almacenero,Piura,M,3.4,1,0,67,0
+A02806,2025-07-10,Almacenero,Lima,M,3.3,0,1,70,1
+A02807,2025-07-11,Asistente administrativo,Trujillo,M,2.5,5,1,50,1
+A02808,2025-07-11,Almacenero,Trujillo,M,10.4,0,0,54,1
+A02809,2025-07-11,Asistente administrativo,Lima,M,4.0,6,1,68,0
+A02810,2025-07-11,Asistente administrativo,Chiclayo,M,2.6,2,1,53,0
+A02811,2025-07-11,Almacenero,Piura,M,6.2,3,0,86,1
+A02812,2025-07-12,Asistente administrativo,Cusco,F,10.4,33,1,63,0
+A02813,2025-07-13,Almacenero,Piura,M,9.5,3,1,50,1
+A02814,2025-07-14,Almacenero,Cusco,M,1.6,2,0,48,0
+A02815,2025-07-15,Repartidor,Lima,M,1.6,12,1,59,0
+A02816,2025-07-16,Vendedor,Lima,F,6.8,10,0,53,0
+A02817,2025-07-16,Vendedor,Lima,M,8.3,14,0,89,0
+A02818,2025-07-17,Almacenero,Arequipa,M,3.4,8,1,54,0
+A02819,2025-07-18,Vendedor,Lima,M,2.2,2,0,60,0
+A02820,2025-07-18,Almacenero,Cusco,M,2.3,18,1,44,0
+A02821,2025-07-18,Repartidor,Piura,M,1.5,2,1,56,0
+A02822,2025-07-18,Vendedor,Lima,M,1.1,1,1,97,0
+A02823,2025-07-19,Vendedor,Lima,F,0.3,54,1,52,0
+A02824,2025-07-19,Asistente administrativo,Lima,F,7.3,23,0,46,0
+A02825,2025-07-19,Asistente administrativo,Piura,F,7.9,10,0,64,0
+A02826,2025-07-19,Almacenero,Trujillo,M,8.7,4,1,76,0
+A02827,2025-07-19,Almacenero,Cusco,M,2.4,0,1,69,1
+A02828,2025-07-20,Almacenero,Arequipa,M,5.9,1,0,48,1
+A02829,2025-07-20,Repartidor,Lima,M,2.5,5,1,71,0
+A02830,2025-07-20,Vendedor,Lima,M,6.0,0,1,49,0
+A02831,2025-07-21,Asistente administrativo,Lima,M,11.0,4,0,56,0
+A02832,2025-07-22,Vendedor,Piura,M,5.5,3,1,80,1
+A02833,2025-07-22,Vendedor,Lima,M,2.1,2,1,40,0
+A02834,2025-07-22,Almacenero,Lima,M,7.9,4,1,54,1
+A02835,2025-07-23,Almacenero,Lima,M,3.9,0,1,57,0
+A02836,2025-07-24,Almacenero,Trujillo,M,3.8,7,0,44,0
+A02837,2025-07-24,Vendedor,Lima,F,4.0,3,0,62,0
+A02838,2025-07-25,Vendedor,Piura,M,3.6,0,1,26,0
+A02839,2025-07-25,Vendedor,Lima,F,2.5,46,1,48,0
+A02840,2025-07-26,Vendedor,Arequipa,F,2.7,40,0,52,0
+A02841,2025-07-27,Almacenero,Piura,M,3.3,3,0,55,0
+A02842,2025-07-27,Almacenero,Arequipa,M,4.2,3,1,56,1
+A02843,2025-07-27,Vendedor,Trujillo,M,6.8,12,1,32,0
+A02844,2025-07-28,Repartidor,Arequipa,F,1.7,33,1,29,0
+A02845,2025-07-28,Repartidor,Lima,M,3.0,5,1,48,0
+A02846,2025-07-30,Asistente administrativo,Lima,F,3.0,24,1,68,0
+A02847,2025-07-30,Vendedor,Lima,M,2.8,4,1,44,0
+A02848,2025-07-30,Vendedor,Lima,F,4.5,2,0,77,0
+A02849,2025-07-30,Vendedor,Cusco,M,3.2,2,1,54,1
+A02850,2025-07-30,Repartidor,Piura,F,5.2,7,0,64,0
+A02851,2025-07-31,Almacenero,Trujillo,M,0.4,31,1,53,0
+A02852,2025-07-31,Vendedor,Lima,F,5.0,8,0,48,0
+A02853,2025-07-31,Vendedor,Arequipa,M,5.0,10,1,72,1
+A02854,2025-08-01,Almacenero,Piura,M,7.8,4,1,65,1
+A02855,2025-08-01,Repartidor,Lima,M,2.1,24,1,73,0
+A02856,2025-08-03,Almacenero,Chiclayo,M,0.4,1,1,66,0
+A02857,2025-08-03,Repartidor,Lima,M,3.8,1,1,61,0
+A02858,2025-08-04,Repartidor,Chiclayo,M,0.9,0,1,71,0
+A02859,2025-08-05,Almacenero,Lima,F,5.2,0,1,81,0
+A02860,2025-08-05,Asistente administrativo,Arequipa,F,2.9,1,1,58,1
+A02861,2025-08-05,Vendedor,Lima,F,5.2,2,0,65,0
+A02862,2025-08-06,Vendedor,Trujillo,M,3.1,2,0,40,0
+A02863,2025-08-06,Vendedor,Trujillo,M,2.6,6,1,81,1
+A02864,2025-08-06,Repartidor,Arequipa,M,5.7,0,0,55,1
+A02865,2025-08-07,Almacenero,Trujillo,F,0.2,1,0,75,0
+A02866,2025-08-08,Vendedor,Lima,F,5.0,28,1,55,0
+A02867,2025-08-08,Almacenero,Trujillo,F,1.6,1,0,97,1
+A02868,2025-08-08,Asistente administrativo,Lima,F,5.1,2,0,48,0
+A02869,2025-08-09,Almacenero,Arequipa,M,6.3,3,1,59,0
+A02870,2025-08-09,Asistente administrativo,Cusco,F,1.8,2,0,26,0
+A02871,2025-08-09,Vendedor,Lima,M,3.3,2,1,84,0
+A02872,2025-08-10,Almacenero,Lima,F,2.6,4,0,47,0
+A02873,2025-08-10,Asistente administrativo,Lima,M,2.8,4,0,97,0
+A02874,2025-08-11,Asistente administrativo,Trujillo,F,5.4,44,0,62,0
+A02875,2025-08-11,Vendedor,Cusco,M,3.0,3,1,70,0
+A02876,2025-08-11,Repartidor,Lima,F,1.6,16,0,65,0
+A02877,2025-08-12,Repartidor,Lima,M,2.8,1,0,53,0
+A02878,2025-08-13,Almacenero,Trujillo,M,2.1,3,1,63,1
+A02879,2025-08-13,Vendedor,Arequipa,M,2.7,6,0,51,0
+A02880,2025-08-14,Asistente administrativo,Trujillo,F,2.7,15,1,72,0
+A02881,2025-08-14,Repartidor,Trujillo,M,6.2,7,1,91,1
+A02882,2025-08-14,Vendedor,Cusco,M,4.9,15,1,52,0
+A02883,2025-08-15,Vendedor,Arequipa,M,1.0,2,1,64,1
+A02884,2025-08-16,Asistente administrativo,Piura,M,4.2,0,1,85,0
+A02885,2025-08-16,Repartidor,Lima,F,5.5,11,0,71,0
+A02886,2025-08-17,Almacenero,Arequipa,M,5.1,2,1,71,1
+A02887,2025-08-18,Almacenero,Arequipa,F,1.4,5,1,67,0
+A02888,2025-08-18,Almacenero,Cusco,F,0.1,6,0,77,0
+A02889,2025-08-19,Repartidor,Arequipa,M,3.3,1,0,59,0
+A02890,2025-08-19,Vendedor,Trujillo,M,1.5,4,1,58,1
+A02891,2025-08-19,Repartidor,Trujillo,M,4.8,1,0,64,0
+A02892,2025-08-19,Almacenero,Chiclayo,M,4.1,8,0,44,0
+A02893,2025-08-20,Repartidor,Lima,M,1.8,3,0,65,0
+A02894,2025-08-20,Repartidor,Cusco,M,2.0,4,1,69,1
+A02895,2025-08-20,Repartidor,Trujillo,M,2.3,2,1,78,0
+A02896,2025-08-20,Repartidor,Lima,M,7.3,13,1,60,0
+A02897,2025-08-20,Almacenero,Arequipa,M,1.4,0,1,60,0
+A02898,2025-08-20,Repartidor,Cusco,F,14.1,17,1,55,0
+A02899,2025-08-21,Vendedor,Chiclayo,F,0.7,24,1,81,1
+A02900,2025-08-21,Asistente administrativo,Lima,F,6.9,22,0,68,1
+A02901,2025-08-21,Almacenero,Lima,M,2.1,10,1,88,1
+A02902,2025-08-22,Vendedor,Arequipa,F,1.5,14,1,47,0
+A02903,2025-08-22,Almacenero,Piura,M,4.5,2,1,44,0
+A02904,2025-08-22,Almacenero,Lima,M,2.0,0,1,67,0
+A02905,2025-08-22,Vendedor,Arequipa,M,3.6,3,1,69,1
+A02906,2025-08-22,Asistente administrativo,Trujillo,M,2.4,1,1,59,0
+A02907,2025-08-23,Almacenero,Chiclayo,F,3.9,3,1,79,1
+A02908,2025-08-23,Almacenero,Lima,M,2.6,5,1,78,1
+A02909,2025-08-23,Repartidor,Lima,M,2.7,1,1,84,1
+A02910,2025-08-25,Vendedor,Lima,F,5.1,2,0,71,1
+A02911,2025-08-25,Repartidor,Piura,F,4.8,6,0,50,0
+A02912,2025-08-26,Vendedor,Piura,M,6.3,1,0,67,0
+A02913,2025-08-26,Repartidor,Lima,M,2.0,1,1,54,0
+A02914,2025-08-26,Almacenero,Lima,M,3.6,1,1,54,0
+A02915,2025-08-27,Asistente administrativo,Lima,M,8.2,2,1,58,1
+A02916,2025-08-28,Asistente administrativo,Chiclayo,F,2.5,21,1,66,1
+A02917,2025-08-28,Repartidor,Arequipa,M,6.5,2,1,57,0
+A02918,2025-08-28,Asistente administrativo,Lima,F,4.9,3,1,72,0
+A02919,2025-08-29,Asistente administrativo,Lima,M,6.7,0,1,65,0
+A02920,2025-08-29,Vendedor,Lima,M,1.7,10,1,57,0
+A02921,2025-08-29,Almacenero,Chiclayo,M,8.0,2,1,79,1
+A02922,2025-08-29,Almacenero,Lima,M,10.8,1,1,65,1
+A02923,2025-08-30,Almacenero,Lima,M,0.8,6,1,79,0
+A02924,2025-08-30,Asistente administrativo,Lima,M,9.0,2,1,49,0
+A02925,2025-08-30,Asistente administrativo,Lima,F,4.2,64,0,53,0
+A02926,2025-08-30,Almacenero,Chiclayo,M,2.6,6,1,64,1
+A02927,2025-08-31,Almacenero,Lima,M,1.0,4,1,72,0
+A02928,2025-08-31,Repartidor,Lima,M,0.7,6,1,52,0
+A02929,2025-08-31,Repartidor,Trujillo,F,4.7,71,1,71,0
+A02930,2025-08-31,Almacenero,Piura,M,3.5,11,1,44,0
+A02931,2025-09-01,Almacenero,Lima,M,3.0,4,1,58,0
+A02932,2025-09-02,Repartidor,Lima,M,0.8,1,1,67,0
+A02933,2025-09-02,Vendedor,Trujillo,M,4.9,4,1,53,0
+A02934,2025-09-02,Vendedor,Trujillo,F,1.2,7,0,57,0
+A02935,2025-09-02,Vendedor,Piura,M,14.6,11,0,55,0
+A02936,2025-09-03,Asistente administrativo,Arequipa,F,3.4,2,1,63,0
+A02937,2025-09-04,Almacenero,Chiclayo,M,2.0,1,0,100,1
+A02938,2025-09-05,Vendedor,Cusco,F,2.1,2,0,61,0
+A02939,2025-09-06,Vendedor,Lima,F,0.7,21,0,52,0
+A02940,2025-09-07,Repartidor,Lima,M,2.9,2,1,48,0
+A02941,2025-09-08,Asistente administrativo,Lima,F,1.4,2,0,68,1
+A02942,2025-09-08,Repartidor,Lima,M,8.8,1,1,48,0
+A02943,2025-09-08,Vendedor,Lima,F,4.7,4,1,46,0
+A02944,2025-09-08,Asistente administrativo,Piura,F,2.8,17,0,63,0
+A02945,2025-09-12,Almacenero,Lima,M,2.3,2,1,58,0
+A02946,2025-09-12,Vendedor,Trujillo,F,0.5,11,1,57,0
+A02947,2025-09-13,Asistente administrativo,Chiclayo,F,1.6,8,0,51,0
+A02948,2025-09-13,Asistente administrativo,Piura,F,4.2,48,0,64,0
+A02949,2025-09-14,Asistente administrativo,Lima,F,2.9,7,0,58,0
+A02950,2025-09-14,Almacenero,Arequipa,M,1.1,1,0,53,0
+A02951,2025-09-14,Repartidor,Arequipa,M,1.4,2,1,73,0
+A02952,2025-09-15,Repartidor,Lima,F,0.9,17,1,48,0
+A02953,2025-09-15,Vendedor,Cusco,F,10.3,29,0,60,0
+A02954,2025-09-15,Almacenero,Lima,M,2.2,1,1,38,0
+A02955,2025-09-15,Repartidor,Piura,M,2.8,10,1,55,0
+A02956,2025-09-16,Vendedor,Cusco,F,2.1,2,1,65,0
+A02957,2025-09-16,Vendedor,Trujillo,F,3.3,0,0,54,0
+A02958,2025-09-16,Repartidor,Lima,F,1.6,15,0,59,0
+A02959,2025-09-18,Asistente administrativo,Lima,M,1.5,3,1,58,0
+A02960,2025-09-19,Vendedor,Arequipa,M,3.6,0,1,79,1
+A02961,2025-09-19,Almacenero,Piura,M,2.4,0,1,63,0
+A02962,2025-09-20,Repartidor,Arequipa,M,6.9,1,0,70,1
+A02963,2025-09-20,Almacenero,Arequipa,M,1.7,8,0,69,0
+A02964,2025-09-21,Repartidor,Piura,M,4.4,7,0,75,0
+A02965,2025-09-21,Asistente administrativo,Arequipa,F,3.0,12,0,50,0
+A02966,2025-09-21,Asistente administrativo,Trujillo,M,3.2,20,1,88,1
+A02967,2025-09-21,Vendedor,Lima,M,2.2,3,1,54,0
+A02968,2025-09-21,Repartidor,Lima,M,2.9,2,1,84,1
+A02969,2025-09-23,Almacenero,Arequipa,M,1.9,4,1,80,1
+A02970,2025-09-24,Vendedor,Lima,F,0.8,1,1,71,0
+A02971,2025-09-25,Vendedor,Lima,F,4.4,18,0,62,0
+A02972,2025-09-25,Repartidor,Lima,M,9.8,2,1,69,1
+A02973,2025-09-26,Almacenero,Lima,F,1.4,29,0,58,0
+A02974,2025-09-26,Asistente administrativo,Chiclayo,F,1.1,15,0,76,0
+A02975,2025-09-26,Vendedor,Lima,F,1.1,19,0,83,0
+A02976,2025-09-27,Repartidor,Chiclayo,F,1.1,15,0,70,0
+A02977,2025-09-27,Asistente administrativo,Piura,M,2.5,11,1,58,0
+A02978,2025-09-27,Asistente administrativo,Cusco,M,6.2,3,1,76,1
+A02979,2025-09-27,Almacenero,Lima,F,4.9,7,0,100,1
+A02980,2025-09-27,Almacenero,Cusco,M,8.1,5,1,77,1
+A02981,2025-09-27,Asistente administrativo,Lima,M,3.2,2,0,62,1
+A02982,2025-09-28,Asistente administrativo,Trujillo,F,0.8,5,1,66,0
+A02983,2025-09-28,Vendedor,Trujillo,M,4.6,3,0,26,0
+A02984,2025-09-28,Repartidor,Cusco,M,1.1,2,1,89,1
+A02985,2025-09-29,Asistente administrativo,Lima,F,1.0,3,0,58,0
+A02986,2025-09-30,Vendedor,Arequipa,F,1.4,4,0,60,0
+A02987,2025-09-30,Almacenero,Piura,F,1.2,8,1,64,0
+A02988,2025-09-30,Repartidor,Chiclayo,M,1.6,0,0,53,0
+A02989,2025-10-01,Repartidor,Chiclayo,M,3.3,6,1,48,0
+A02990,2025-10-01,Asistente administrativo,Piura,F,1.3,1,1,58,1
+A02991,2025-10-02,Asistente administrativo,Lima,F,1.0,2,1,81,0
+A02992,2025-10-02,Asistente administrativo,Arequipa,F,6.9,18,1,66,0
+A02993,2025-10-02,Vendedor,Arequipa,F,4.0,24,1,64,0
+A02994,2025-10-02,Repartidor,Arequipa,M,2.0,5,1,64,0
+A02995,2025-10-03,Asistente administrativo,Trujillo,M,4.7,1,0,75,0
+A02996,2025-10-03,Repartidor,Lima,F,8.9,2,0,72,0
+A02997,2025-10-03,Vendedor,Lima,M,1.0,1,1,58,0
+A02998,2025-10-03,Repartidor,Cusco,F,4.1,23,1,70,0
+A02999,2025-10-03,Repartidor,Piura,M,3.3,16,0,72,0
+A03000,2025-10-04,Vendedor,Trujillo,M,5.4,0,0,74,1
+A03001,2025-10-04,Almacenero,Trujillo,M,2.5,3,1,66,0
+A03002,2025-10-05,Repartidor,Lima,M,1.7,10,1,77,0
+A03003,2025-10-05,Repartidor,Cusco,M,2.6,5,0,59,0
+A03004,2025-10-05,Vendedor,Piura,F,2.9,17,0,61,0
+A03005,2025-10-05,Vendedor,Chiclayo,F,4.9,34,1,56,0
+A03006,2025-10-05,Vendedor,Chiclayo,M,8.0,1,1,55,0
+A03007,2025-10-06,Repartidor,Lima,M,3.2,6,0,69,1
+A03008,2025-10-06,Almacenero,Lima,M,5.0,2,1,90,1
+A03009,2025-10-06,Vendedor,Trujillo,M,2.3,14,1,72,1
+A03010,2025-10-06,Repartidor,Lima,F,11.0,3,0,43,1
+A03011,2025-10-08,Almacenero,Trujillo,M,1.3,7,0,63,1
+A03012,2025-10-09,Almacenero,Lima,M,4.6,18,0,49,0
+A03013,2025-10-09,Vendedor,Lima,M,2.0,0,1,63,0
+A03014,2025-10-09,Asistente administrativo,Trujillo,F,3.0,28,0,90,1
+A03015,2025-10-10,Almacenero,Lima,M,1.3,1,1,50,0
+A03016,2025-10-11,Almacenero,Lima,M,5.9,10,1,43,0
+A03017,2025-10-11,Almacenero,Lima,M,3.6,4,1,77,1
+A03018,2025-10-12,Almacenero,Lima,F,1.8,1,1,71,0
+A03019,2025-10-12,Repartidor,Piura,M,9.0,5,1,55,0
+A03020,2025-10-13,Asistente administrativo,Lima,F,2.2,11,1,69,0
+A03021,2025-10-13,Vendedor,Cusco,M,3.2,5,1,40,0
+A03022,2025-10-14,Asistente administrativo,Arequipa,F,11.4,14,0,63,0
+A03023,2025-10-14,Vendedor,Lima,M,1.1,3,1,49,0
+A03024,2025-10-14,Vendedor,Arequipa,M,7.1,7,0,58,0
+A03025,2025-10-14,Asistente administrativo,Lima,M,2.1,2,1,55,1
+A03026,2025-10-14,Repartidor,Piura,M,4.4,20,1,61,0
+A03027,2025-10-15,Vendedor,Lima,M,8.1,9,0,56,0
+A03028,2025-10-16,Vendedor,Lima,M,9.3,5,1,74,1
+A03029,2025-10-17,Vendedor,Piura,M,7.9,7,1,72,1
+A03030,2025-10-17,Asistente administrativo,Chiclayo,F,2.8,1,0,59,0
+A03031,2025-10-17,Almacenero,Trujillo,F,3.0,4,0,26,0
+A03032,2025-10-17,Asistente administrativo,Lima,M,1.2,6,0,64,0
+A03033,2025-10-17,Vendedor,Lima,M,5.7,14,1,70,0
+A03034,2025-10-18,Asistente administrativo,Lima,F,9.4,6,1,45,0
+A03035,2025-10-19,Repartidor,Lima,M,5.1,1,1,32,1
+A03036,2025-10-19,Almacenero,Cusco,M,3.7,4,1,82,0
+A03037,2025-10-19,Vendedor,Piura,F,2.2,1,0,78,0
+A03038,2025-10-19,Vendedor,Lima,F,3.0,68,0,57,0
+A03039,2025-10-20,Almacenero,Lima,F,4.7,8,1,66,0
+A03040,2025-10-20,Asistente administrativo,Lima,F,5.2,24,1,83,0
+A03041,2025-10-21,Repartidor,Chiclayo,M,4.7,0,1,34,0
+A03042,2025-10-21,Repartidor,Cusco,M,0.7,0,1,68,1
+A03043,2025-10-21,Almacenero,Cusco,M,1.4,0,1,55,1
+A03044,2025-10-21,Asistente administrativo,Lima,F,2.5,5,0,69,1
+A03045,2025-10-21,Almacenero,Trujillo,F,4.3,42,0,41,0
+A03046,2025-10-22,Vendedor,Lima,M,3.5,1,1,30,0
+A03047,2025-10-23,Asistente administrativo,Trujillo,M,3.8,0,1,40,0
+A03048,2025-10-24,Vendedor,Arequipa,F,1.3,25,1,58,0
+A03049,2025-10-24,Almacenero,Trujillo,F,7.7,5,0,51,0
+A03050,2025-10-24,Vendedor,Lima,F,3.8,69,1,51,0
+A03051,2025-10-24,Repartidor,Arequipa,F,1.7,21,1,51,0
+A03052,2025-10-24,Almacenero,Piura,M,5.7,3,1,54,1
+A03053,2025-10-25,Asistente administrativo,Piura,F,4.0,0,0,38,0
+A03054,2025-10-25,Repartidor,Lima,M,2.0,0,0,84,0
+A03055,2025-10-25,Asistente administrativo,Lima,F,3.4,20,0,64,0
+A03056,2025-10-25,Almacenero,Cusco,F,1.6,11,0,73,0
+A03057,2025-10-26,Repartidor,Lima,M,3.1,13,0,55,0
+A03058,2025-10-27,Repartidor,Trujillo,M,1.7,1,1,49,0
+A03059,2025-10-27,Almacenero,Lima,M,1.5,2,0,57,1
+A03060,2025-10-27,Almacenero,Piura,M,6.8,2,1,56,0
+A03061,2025-10-27,Vendedor,Lima,M,7.5,5,1,59,1
+A03062,2025-10-27,Almacenero,Lima,M,4.2,1,1,40,0
+A03063,2025-10-28,Vendedor,Chiclayo,F,1.8,20,0,56,0
+A03064,2025-10-29,Repartidor,Arequipa,M,6.9,7,0,53,0
+A03065,2025-10-29,Almacenero,Lima,F,5.1,10,0,50,0
+A03066,2025-10-29,Repartidor,Trujillo,M,3.7,2,1,60,0
+A03067,2025-10-30,Vendedor,Chiclayo,M,1.0,2,1,65,0
+A03068,2025-10-31,Vendedor,Lima,M,2.9,12,1,56,0
+A03069,2025-10-31,Repartidor,Trujillo,M,6.3,1,1,54,0
+A03070,2025-10-31,Repartidor,Piura,M,16.9,0,1,50,0
+A03071,2025-10-31,Asistente administrativo,Chiclayo,F,1.5,12,0,63,0
+A03072,2025-11-02,Vendedor,Arequipa,F,7.7,0,1,37,0
+A03073,2025-11-02,Almacenero,Chiclayo,F,3.9,2,0,60,0
+A03074,2025-11-02,Almacenero,Trujillo,M,0.8,4,1,72,0
+A03075,2025-11-03,Almacenero,Lima,F,1.8,0,0,85,1
+A03076,2025-11-03,Asistente administrativo,Chiclayo,M,5.6,3,1,53,0
+A03077,2025-11-04,Repartidor,Lima,F,13.9,30,0,61,0
+A03078,2025-11-05,Vendedor,Cusco,M,3.5,3,1,76,1
+A03079,2025-11-05,Almacenero,Lima,M,8.5,0,1,53,1
+A03080,2025-11-06,Repartidor,Lima,M,3.9,4,0,75,0
+A03081,2025-11-06,Vendedor,Lima,M,1.7,0,1,58,1
+A03082,2025-11-06,Vendedor,Piura,M,5.5,7,1,57,0
+A03083,2025-11-06,Vendedor,Lima,M,3.9,1,0,65,0
+A03084,2025-11-06,Almacenero,Lima,F,5.8,0,0,81,1
+A03085,2025-11-07,Vendedor,Cusco,M,4.1,15,1,57,1
+A03086,2025-11-07,Repartidor,Lima,M,6.9,5,0,68,1
+A03087,2025-11-08,Vendedor,Arequipa,F,3.2,1,0,71,0
+A03088,2025-11-08,Asistente administrativo,Cusco,F,6.8,0,1,78,0
+A03089,2025-11-08,Vendedor,Cusco,M,2.4,6,1,73,1
+A03090,2025-11-08,Almacenero,Lima,M,3.0,4,1,98,0
+A03091,2025-11-09,Vendedor,Lima,M,2.1,8,1,60,0
+A03092,2025-11-09,Almacenero,Trujillo,M,8.0,3,0,65,0
+A03093,2025-11-10,Almacenero,Lima,M,5.3,9,1,64,0
+A03094,2025-11-11,Repartidor,Chiclayo,F,3.1,14,0,54,0
+A03095,2025-11-11,Almacenero,Arequipa,M,2.4,14,1,10,0
+A03096,2025-11-13,Vendedor,Lima,M,1.4,3,1,68,1
+A03097,2025-11-13,Vendedor,Chiclayo,M,3.2,16,1,59,0
+A03098,2025-11-14,Repartidor,Arequipa,M,5.0,1,1,66,0
+A03099,2025-11-14,Asistente administrativo,Arequipa,M,2.2,3,1,49,0
+A03100,2025-11-14,Repartidor,Lima,F,6.1,13,1,83,0
+A03101,2025-11-14,Asistente administrativo,Lima,F,4.4,13,0,48,0
+A03102,2025-11-15,Vendedor,Piura,F,0.3,14,0,90,1
+A03103,2025-11-15,Almacenero,Lima,M,0.1,7,1,47,1
+A03104,2025-11-15,Vendedor,Piura,M,2.1,1,0,42,0
+A03105,2025-11-15,Almacenero,Cusco,M,6.9,1,0,81,1
+A03106,2025-11-16,Almacenero,Chiclayo,M,1.4,0,1,56,0
+A03107,2025-11-16,Almacenero,Lima,M,0.8,0,1,55,1
+A03108,2025-11-16,Asistente administrativo,Trujillo,F,2.2,3,1,51,0
+A03109,2025-11-17,Asistente administrativo,Arequipa,M,5.7,5,0,74,0
+A03110,2025-11-17,Vendedor,Cusco,F,11.5,16,0,54,0
+A03111,2025-11-17,Vendedor,Lima,M,11.1,2,1,74,1
+A03112,2025-11-18,Almacenero,Lima,M,0.8,8,0,83,0
+A03113,2025-11-18,Vendedor,Lima,F,10.7,16,0,59,0
+A03114,2025-11-18,Almacenero,Lima,M,7.1,2,1,76,0
+A03115,2025-11-19,Vendedor,Lima,M,7.7,3,1,43,0
+A03116,2025-11-22,Repartidor,Piura,M,8.2,1,1,63,0
+A03117,2025-11-22,Vendedor,Trujillo,M,1.4,9,0,63,0
+A03118,2025-11-22,Vendedor,Lima,F,8.9,4,0,45,1
+A03119,2025-11-22,Asistente administrativo,Lima,F,6.4,11,1,62,0
+A03120,2025-11-23,Almacenero,Piura,M,4.1,5,0,66,0
+A03121,2025-11-24,Asistente administrativo,Lima,F,3.1,18,0,45,0
+A03122,2025-11-26,Almacenero,Trujillo,M,1.9,1,1,47,0
+A03123,2025-11-26,Almacenero,Arequipa,M,1.1,3,1,70,0
+A03124,2025-11-27,Vendedor,Arequipa,M,4.0,1,0,96,1
+A03125,2025-11-27,Almacenero,Lima,F,1.7,19,0,59,0
+A03126,2025-11-28,Asistente administrativo,Arequipa,M,5.8,2,1,60,0
+A03127,2025-11-28,Repartidor,Lima,M,8.3,4,1,52,0
+A03128,2025-11-29,Almacenero,Piura,M,6.2,4,0,51,0
+A03129,2025-11-29,Vendedor,Lima,F,5.5,4,1,53,0
+A03130,2025-11-29,Asistente administrativo,Trujillo,F,1.1,7,0,54,1
+A03131,2025-11-30,Repartidor,Lima,F,6.0,30,0,86,0
+A03132,2025-11-30,Almacenero,Arequipa,M,1.5,2,1,68,1
+A03133,2025-12-01,Repartidor,Lima,M,3.6,0,1,67,0
+A03134,2025-12-01,Repartidor,Lima,M,2.4,3,0,47,0
+A03135,2025-12-01,Repartidor,Lima,M,3.5,2,1,65,1
+A03136,2025-12-01,Repartidor,Lima,M,3.2,2,1,66,0
+A03137,2025-12-01,Vendedor,Chiclayo,F,1.2,19,0,66,0
+A03138,2025-12-02,Repartidor,Lima,M,5.5,0,1,69,1
+A03139,2025-12-02,Almacenero,Piura,F,2.6,11,0,86,0
+A03140,2025-12-04,Asistente administrativo,Arequipa,F,3.8,47,1,73,0
+A03141,2025-12-06,Vendedor,Lima,F,2.4,22,0,66,0
+A03142,2025-12-06,Almacenero,Trujillo,F,2.9,32,1,57,0
+A03143,2025-12-06,Vendedor,Trujillo,F,4.2,1,0,64,0
+A03144,2025-12-07,Repartidor,Cusco,M,3.8,2,0,76,0
+A03145,2025-12-07,Almacenero,Lima,M,3.4,2,1,54,0
+A03146,2025-12-07,Vendedor,Trujillo,F,6.0,18,0,49,0
+A03147,2025-12-09,Vendedor,Lima,F,1.6,4,0,80,0
+A03148,2025-12-09,Almacenero,Cusco,M,5.4,4,1,47,0
+A03149,2025-12-10,Repartidor,Trujillo,F,8.8,11,0,57,0
+A03150,2025-12-10,Vendedor,Arequipa,M,8.6,1,1,59,1
+A03151,2025-12-10,Repartidor,Piura,M,1.6,0,1,70,1
+A03152,2025-12-11,Vendedor,Trujillo,M,3.3,3,0,60,0
+A03153,2025-12-12,Asistente administrativo,Lima,M,2.4,2,0,65,0
+A03154,2025-12-12,Vendedor,Arequipa,M,2.8,1,0,48,0
+A03155,2025-12-13,Repartidor,Cusco,M,2.3,1,1,66,0
+A03156,2025-12-13,Vendedor,Trujillo,M,2.7,2,1,76,0
+A03157,2025-12-14,Asistente administrativo,Chiclayo,M,4.7,2,1,49,1
+A03158,2025-12-15,Asistente administrativo,Arequipa,M,1.7,11,1,46,0
+A03159,2025-12-16,Almacenero,Lima,M,7.0,6,1,68,0
+A03160,2025-12-16,Almacenero,Chiclayo,F,4.2,15,0,60,0
+A03161,2025-12-16,Asistente administrativo,Trujillo,F,2.9,7,0,59,0
+A03162,2025-12-17,Almacenero,Lima,F,8.9,1,0,100,0
+A03163,2025-12-17,Repartidor,Trujillo,F,7.8,6,1,59,0
+A03164,2025-12-18,Repartidor,Arequipa,M,4.1,2,1,52,0
+A03165,2025-12-18,Vendedor,Lima,M,3.3,0,1,54,0
+A03166,2025-12-19,Repartidor,Lima,M,6.2,4,1,100,1
+A03167,2025-12-19,Repartidor,Piura,M,4.0,8,1,59,0
+A03168,2025-12-19,Asistente administrativo,Piura,M,6.0,0,1,70,0
+A03169,2025-12-19,Repartidor,Piura,M,2.0,1,1,63,1
+A03170,2025-12-20,Vendedor,Trujillo,M,6.2,2,1,58,0
+A03171,2025-12-20,Almacenero,Lima,F,2.8,35,1,51,0
+A03172,2025-12-20,Vendedor,Trujillo,M,4.1,3,0,62,0
+A03173,2025-12-21,Repartidor,Chiclayo,M,5.6,0,1,37,0
+A03174,2025-12-21,Almacenero,Lima,M,6.2,8,1,63,0
+A03175,2025-12-21,Asistente administrativo,Lima,F,2.4,4,1,51,0
+A03176,2025-12-22,Asistente administrativo,Lima,F,3.3,7,1,51,1
+A03177,2025-12-22,Almacenero,Arequipa,M,5.2,1,1,76,1
+A03178,2025-12-22,Repartidor,Cusco,M,4.2,12,1,77,0
+A03179,2025-12-23,Asistente administrativo,Piura,M,6.3,4,0,66,0
+A03180,2025-12-23,Almacenero,Trujillo,M,4.1,6,1,75,0
+A03181,2025-12-24,Vendedor,Chiclayo,M,5.1,8,1,45,0
+A03182,2025-12-24,Repartidor,Lima,M,1.0,0,0,46,0
+A03183,2025-12-25,Almacenero,Piura,M,5.8,0,1,48,1
+A03184,2025-12-25,Vendedor,Chiclayo,M,5.6,3,0,60,1
+A03185,2025-12-26,Repartidor,Lima,M,1.5,2,1,78,0
+A03186,2025-12-26,Vendedor,Cusco,F,3.9,14,1,67,0
+A03187,2025-12-26,Vendedor,Lima,F,1.3,4,1,65,0
+A03188,2025-12-27,Repartidor,Trujillo,M,2.7,7,1,41,0
+A03189,2025-12-27,Almacenero,Trujillo,M,1.5,8,1,53,0
+A03190,2025-12-27,Asistente administrativo,Lima,F,8.6,13,0,59,0
+A03191,2025-12-27,Repartidor,Trujillo,M,7.8,14,1,70,1
+A03192,2025-12-28,Almacenero,Lima,M,3.1,0,0,65,0
+A03193,2025-12-28,Vendedor,Lima,M,5.0,11,0,73,0
+A03194,2025-12-29,Vendedor,Arequipa,F,7.5,21,0,32,0
+A03195,2025-12-29,Repartidor,Lima,M,6.4,4,0,62,0
+A03196,2025-12-29,Almacenero,Lima,M,3.0,0,1,89,1
+A03197,2025-12-30,Almacenero,Trujillo,M,11.8,10,1,69,1
+A03198,2025-12-30,Repartidor,Chiclayo,M,5.6,2,0,66,0
+A03199,2025-12-31,Vendedor,Chiclayo,F,0.2,7,0,52,0
+A03200,2025-12-31,Asistente administrativo,Arequipa,F,2.7,7,0,71,1

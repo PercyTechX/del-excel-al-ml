@@ -106,6 +106,6 @@ Fijamos "hoy" en el 30 de noviembre de 2025 y pronosticamos diciembre, para comp
 
 ## Datos y herramientas
 
-- **Datos:** `creditos.csv` va en su propio flujo aleatorio, y una prueba con huellas comprueba que no cambia ningún archivo de la Temporada 0. RRHH y los tickets quedan para la Temporada 2.
+- **Datos:** `creditos.csv` va en su propio flujo aleatorio, y una prueba con huellas comprueba que no cambia ningún archivo de la Temporada 0. Los despachos, los tickets y las postulaciones son de la Temporada 2.
 - **Herramientas:** se agrega **scikit-learn** 1.6.1, la versión de Colab.
 - **Pruebas:** `tests/test_temporada_1.py` comprueba las cifras centrales de pronóstico y sobreajuste, y que las funciones copiadas entre notebooks sean iguales. `tests/test_distribuidora_andina.py` comprueba las de créditos.
