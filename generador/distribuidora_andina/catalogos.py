@@ -463,3 +463,213 @@ MORA_POR_MONTO = 0.5  # por cada unidad de logaritmo natural de monto / límite 
 MORA_POR_ANIO = -0.08  # por cada año de antigüedad del cliente
 MORA_POR_TIPO = {"Bodega": 0.3, "Minimarket": -0.2, "Restaurante": 0.0}
 MORA_DISPERSION_CLIENTE = 1.0  # riesgo propio de cada cliente, que no se publica
+
+# --------------------------------------------------------------- despachos
+
+# Distancia del cliente a su sede, en km (mediana por ciudad; se sortea alrededor de ella).
+DISTANCIA_MEDIANA = {
+    "Lima": 12,
+    "Arequipa": 14,
+    "Trujillo": 12,
+    "Chiclayo": 14,
+    "Piura": 18,
+    "Cusco": 22,
+}
+DISTANCIA_DISPERSION = 0.7
+DISTANCIA_MAXIMA = 60
+# Probabilidad de usar un transportista tercero: sube con la distancia.
+TERCERO_BASE = 0.25
+TERCERO_POR_KM = 0.006
+TERCERO_MAXIMO = 0.70
+
+# Coeficientes con los que se decide la entrega tardía (escala logit). Se publican a propósito:
+# son reglas que solo actúan en combinación, y un árbol puede encontrarlas.
+TARDE_BASE = -3.2
+TARDE_POR_KM = 0.006
+TARDE_LLUVIA_CUSCO = 3.6  # Cusco, de diciembre a marzo y desde LLUVIA_KM de distancia
+LLUVIA_MESES = (12, 1, 2, 3)
+LLUVIA_KM = 20
+TARDE_TERCERO_SABADO = 3.0  # transportista tercero en sábado
+TARDE_CAMPANA_CARGA = 3.0  # julio o diciembre, desde CAMPANA_BULTOS presentaciones
+CAMPANA_MESES = (7, 12)
+CAMPANA_BULTOS = 10
+
+# ----------------------------------------------------------------- tickets
+
+N_TICKETS = 3600
+CANALES_TICKET = {"WhatsApp": 0.6, "Teléfono": 0.25, "Correo": 0.15}
+# Parte de los tickets que nace de una entrega tardía real.
+TICKETS_DE_TARDANZA = 0.22
+# Parte de los tickets en que el cliente mezcla dos temas, y parte mal clasificada a mano.
+TICKETS_MIXTOS = 0.12
+TICKETS_MAL_ETIQUETADOS = 0.04
+PESO_CATEGORIA_TICKET = {
+    "Facturación": 0.26,
+    "Producto": 0.24,
+    "Cobranza": 0.22,
+    "Consulta comercial": 0.28,
+}
+SALUDOS_TICKET = [
+    "",
+    "",
+    "Buenas, ",
+    "Buenos días, ",
+    "Buenas tardes, ",
+    "Hola, ",
+    "Estimados, ",
+    "Joven, ",
+    "Señorita, ",
+]
+CIERRES_TICKET = ["", "", "", "Por favor.", "Gracias.", "Es urgente.", "Quedo atento."]
+# Se repiten palabras entre categorías ("llegó", "pedido", "cobrar"): así pasa en un negocio real.
+FRASES_TICKET = {
+    "Despacho": [
+        "el pedido que hice {dia} no llegó hasta ahora",
+        "todavía no me llega mi pedido, ya {tiempo}",
+        "el camión no vino {dia} y mi tienda está sin mercadería",
+        "me dijeron que el pedido llegaba {dia} y sigo esperando",
+        "el repartidor no pasó por mi local",
+        "el despacho llegó tarde y ya había cerrado",
+        "¿a qué hora llega mi pedido? Ya debería estar aquí",
+        "el chofer dice que no encuentra la dirección",
+        "reprogramaron mi entrega sin avisarme",
+        "llegó incompleto el pedido, faltan {n} cajas",
+        "la mercadería sigue sin llegar, necesito saber cuándo la mandan",
+        "mi pedido salió {dia} y no hay noticias del carro",
+    ],
+    "Facturación": [
+        "la factura salió con otro RUC",
+        "no me llegó la factura del pedido que recibí {dia}",
+        "necesito que corrijan la razón social en la factura",
+        "me cobraron de más en la factura, no aplicaron el descuento",
+        "pido una nota de crédito por el pedido que recibí {dia}",
+        "la boleta tiene el monto equivocado",
+        "el comprobante electrónico no llega a mi correo",
+        "cambiaron el precio en la factura y no coincide con la cotización",
+        "anulen esa factura y emitan otra",
+        "la guía de remisión no coincide con la factura",
+        "me falta el comprobante de la compra que hice {dia}, lo pide mi contador",
+        "el IGV de la factura está mal calculado",
+    ],
+    "Producto": [
+        "llegaron {n} cajas abolladas",
+        "el producto vino vencido",
+        "el aceite llegó con la caja rota y manchada",
+        "las gaseosas están por vencer, quiero cambiarlas",
+        "el arroz vino con gorgojos",
+        "me mandaron otra marca, yo pedí otra cosa",
+        "las bolsas llegaron rotas y quiero devolverlas",
+        "el paquete vino abierto y faltan unidades adentro",
+        "quiero devolver {n} fardos porque están mojados",
+        "los panetones llegaron aplastados",
+        "el detergente se derramó dentro de la caja",
+        "enviaron la presentación equivocada, cámbienla",
+    ],
+    "Cobranza": [
+        "ya pagué la deuda y me siguen llamando para cobrar",
+        "quiero mi estado de cuenta",
+        "hice el depósito {dia}, les mando el voucher",
+        "necesito más plazo para pagar el crédito",
+        "no reconozco esa deuda de {n} mil soles",
+        "¿cuánto debo a la fecha?",
+        "me dicen que tengo deuda vencida y ya estoy al día",
+        "pagué por transferencia y no lo registran",
+        "quiero fraccionar lo que debo",
+        "el cobrador pasó {dia} y ya había cancelado",
+        "me llegó una carta de cobranza por error",
+        "¿a qué cuenta deposito lo del pedido anterior?",
+    ],
+    "Consulta comercial": [
+        "¿cuál es el precio del fardo de arroz?",
+        "quiero el catálogo actualizado",
+        "¿tienen promoción de panetones para esta campaña?",
+        "¿desde cuántas cajas hay descuento?",
+        "quiero que me visite el vendedor esta semana",
+        "¿venden al por mayor a restaurantes?",
+        "quiero cotizar {n} cajas de leche",
+        "¿llegó stock de chicha morada?",
+        "¿pueden aumentar mi línea de crédito?",
+        "cambiaron a mi vendedor y no me visitan",
+        "¿qué marcas de detergente manejan?",
+        "quiero hacer un pedido grande para la próxima semana",
+    ],
+}
+DIAS_SEMANA_TICKET = [
+    "el lunes",
+    "el martes",
+    "el miércoles",
+    "el jueves",
+    "el viernes",
+    "el sábado",
+    "el domingo",
+]
+# Frases del panetón: solo tienen sentido en su temporada.
+MESES_PANETON = (11, 12)
+# Desde esta fecha los clientes escriben también con otras palabras, que no había al entrenar.
+INICIO_FRASES_NUEVAS = pd.Timestamp("2025-07-01")
+PROPORCION_FRASES_NUEVAS = 0.15
+FRASES_NUEVAS_TICKET = {
+    "Despacho": [
+        "sigo aguardando la movilidad con mi encargo",
+        "la unidad nunca apareció por la tienda",
+    ],
+    "Facturación": [
+        "mi CPE no aparece en SUNAT",
+        "emitieron el documento a otra empresa",
+    ],
+    "Producto": [
+        "vino malogrado el lote de lejía",
+        "la mercancía presenta humedad",
+    ],
+    "Cobranza": [
+        "ya hice el abono por Yape",
+        "mi saldo pendiente figura mal",
+    ],
+    "Consulta comercial": [
+        "¿manejan lista de precios para mayoristas?",
+        "busco proveedor de snacks para mi negocio",
+    ],
+}
+# Cómo escriben algunos clientes por WhatsApp.
+ABREVIATURAS_TICKET = {
+    " por favor": " porfa",
+    " que ": " q ",
+    " porque ": " xq ",
+    " por ": " x ",
+    " todavía ": " todavia ",
+    " días": " dias",
+    "llegó": "llego",
+    "pagué": "pague",
+}
+
+# ----------------------------------------------------------- postulaciones
+
+N_POSTULACIONES = 3200
+CARGOS_POSTULACION = {
+    "Vendedor": 0.30,
+    "Almacenero": 0.25,
+    "Repartidor": 0.25,
+    "Asistente administrativo": 0.20,
+}
+PROPORCION_MUJERES_POSTULACION = {
+    "Vendedor": 0.45,
+    "Almacenero": 0.25,
+    "Repartidor": 0.15,
+    "Asistente administrativo": 0.65,
+}
+# Meses sin empleo formal antes de postular: las mujeres tienen pausas más largas en estos datos.
+# Es lo que vuelve a esta columna un "indicador indirecto" del sexo. No mide capacidad.
+PAUSA_MEDIA_MESES = {"F": 14, "M": 4}
+# Otro indicador indirecto: quién declara poder viajar. Tampoco mide capacidad.
+PROBABILIDAD_VIAJAR = {"F": 0.35, "M": 0.70}
+
+# Coeficientes de la decisión histórica de entrevistar (escala logit). El puntaje de la prueba
+# se sortea igual para todos, así que no explica ninguna diferencia entre grupos. El sesgo
+# está programado a propósito para el episodio de ética: no describe a ninguna empresa real.
+ENTREVISTA_BASE = -1.9
+ENTREVISTA_POR_PUNTAJE = 0.05  # por cada punto sobre 60
+ENTREVISTA_POR_ANIO = 0.12  # por cada año de experiencia
+ENTREVISTA_POR_MES_PAUSA = -0.05  # por cada mes de pausa: el reclutador la castiga
+ENTREVISTA_POR_VIAJAR = 0.8  # si declara poder viajar: el reclutador lo premia en todo cargo
+ENTREVISTA_SESGO_MUJER = -0.8  # además, directo contra las mujeres en estos cargos
+CARGOS_CON_SESGO = ("Vendedor", "Almacenero", "Repartidor")
