@@ -53,7 +53,7 @@ Los datos son **sintéticos** (generados por código) y están disponibles en [`
 ### Próximas temporadas
 
 - **[Temporada 1: Fundamentos de Machine Learning](temporada-1/).** Qué es ML, regresión y pronóstico, clasificación y cómo evaluar un modelo.
-- **Temporada 2: Más modelos.** Árboles de decisión, Random Forest, segmentación de clientes, series de tiempo, texto y ética.
+- **[Temporada 2: Más modelos](temporada-2/).** Árboles de decisión, Random Forest, segmentación de clientes, series de tiempo, texto y ética.
 - **Temporada 3: Proyecto final.** Un caso completo con datos de Kaggle, desde el análisis hasta poner el modelo en producción.
 
 ## Estructura del repositorio
